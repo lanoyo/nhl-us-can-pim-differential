@@ -1,0 +1,170 @@
+[
+  {
+    "Season": "1965-1966",
+    "SeasonStartYear": 1965,
+    "GameId": 1965030211,
+    "GameDate": "1966-04-24",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "TotalPim": 6,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1965-1966",
+    "SeasonStartYear": 1965,
+    "GameId": 1965030212,
+    "GameDate": "1966-04-26",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1965-1966",
+    "SeasonStartYear": 1965,
+    "GameId": 1965030213,
+    "GameDate": "1966-04-28",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1965-1966",
+    "SeasonStartYear": 1965,
+    "GameId": 1965030214,
+    "GameDate": "1966-05-01",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1965-1966",
+    "SeasonStartYear": 1965,
+    "GameId": 1965030215,
+    "GameDate": "1966-05-03",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1965-1966",
+    "SeasonStartYear": 1965,
+    "GameId": 1965030216,
+    "GameDate": "1966-05-05",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030111,
+    "GameDate": "1983-04-05",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 23
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 15
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030112,
+    "GameDate": "1983-04-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 31
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 17
+    },
+    "TotalPim": 48,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030113,
+    "GameDate": "1983-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 29
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 46
+    },
+    "TotalPim": 75,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030114,
+    "GameDate": "1983-04-10",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 17
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 17
+    },
+    "TotalPim": 34,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030121,
+    "GameDate": "1983-04-06",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 32
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 26
+    },
+    "TotalPim": 58,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030122,
+    "GameDate": "1983-04-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030123,
+    "GameDate": "1983-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 21
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 11
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030161,
+    "GameDate": "1983-04-06",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 30
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 28
+    },
+    "TotalPim": 58,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030162,
+    "GameDate": "1983-04-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 24
+    },
+    "TotalPim": 46,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030163,
+    "GameDate": "1983-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 31
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 29
+    },
+    "TotalPim": 60,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030164,
+    "GameDate": "1983-04-10",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 26
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 28
+    },
+    "TotalPim": 54,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030321,
+    "GameDate": "1983-04-24",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 15
+    },
+    "TotalPim": 35,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030322,
+    "GameDate": "1983-04-26",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030323,
+    "GameDate": "1983-05-01",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 13
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 9
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030324,
+    "GameDate": "1983-05-03",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 15
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 27,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030411,
+    "GameDate": "1983-05-10",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030412,
+    "GameDate": "1983-05-12",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 15
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 11
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030413,
+    "GameDate": "1983-05-14",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1982-1983",
+    "SeasonStartYear": 1982,
+    "GameId": 1982030414,
+    "GameDate": "1983-05-17",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 17
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "TotalPim": 33,
+    "PimSource": "playerByGameStats sum"
+  }
+]

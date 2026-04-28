@@ -1,0 +1,422 @@
+[
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030171,
+    "GameDate": "2015-04-16",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "ANA",
+      "PlaceName": "Anaheim",
+      "CommonName": "Ducks",
+      "FullName": "Anaheim Ducks",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030172,
+    "GameDate": "2015-04-18",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "ANA",
+      "PlaceName": "Anaheim",
+      "CommonName": "Ducks",
+      "FullName": "Anaheim Ducks",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030173,
+    "GameDate": "2015-04-20",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "ANA",
+      "PlaceName": "Anaheim",
+      "CommonName": "Ducks",
+      "FullName": "Anaheim Ducks",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030174,
+    "GameDate": "2015-04-22",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "ANA",
+      "PlaceName": "Anaheim",
+      "CommonName": "Ducks",
+      "FullName": "Anaheim Ducks",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "TotalPim": 6,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030211,
+    "GameDate": "2015-05-01",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030212,
+    "GameDate": "2015-05-03",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 13
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 53
+    },
+    "TotalPim": 66,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030213,
+    "GameDate": "2015-05-06",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030214,
+    "GameDate": "2015-05-07",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030215,
+    "GameDate": "2015-05-09",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "TotalPim": 40,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030216,
+    "GameDate": "2015-05-12",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030241,
+    "GameDate": "2015-04-30",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "ANA",
+      "PlaceName": "Anaheim",
+      "CommonName": "Ducks",
+      "FullName": "Anaheim Ducks",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030242,
+    "GameDate": "2015-05-03",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "ANA",
+      "PlaceName": "Anaheim",
+      "CommonName": "Ducks",
+      "FullName": "Anaheim Ducks",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030243,
+    "GameDate": "2015-05-05",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "ANA",
+      "PlaceName": "Anaheim",
+      "CommonName": "Ducks",
+      "FullName": "Anaheim Ducks",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030244,
+    "GameDate": "2015-05-08",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "ANA",
+      "PlaceName": "Anaheim",
+      "CommonName": "Ducks",
+      "FullName": "Anaheim Ducks",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2014-2015",
+    "SeasonStartYear": 2014,
+    "GameId": 2014030245,
+    "GameDate": "2015-05-10",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "ANA",
+      "PlaceName": "Anaheim",
+      "CommonName": "Ducks",
+      "FullName": "Anaheim Ducks",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  }
+]

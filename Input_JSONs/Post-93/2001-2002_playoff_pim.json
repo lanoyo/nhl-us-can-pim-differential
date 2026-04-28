@@ -1,0 +1,1010 @@
+[
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030111,
+    "GameDate": "2002-04-18",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030112,
+    "GameDate": "2002-04-21",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030113,
+    "GameDate": "2002-04-23",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030114,
+    "GameDate": "2002-04-25",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 46
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 38
+    },
+    "TotalPim": 84,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030115,
+    "GameDate": "2002-04-27",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030116,
+    "GameDate": "2002-04-29",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030121,
+    "GameDate": "2002-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030122,
+    "GameDate": "2002-04-20",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030123,
+    "GameDate": "2002-04-22",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030124,
+    "GameDate": "2002-04-24",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 35
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "TotalPim": 57,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030125,
+    "GameDate": "2002-04-26",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030141,
+    "GameDate": "2002-04-18",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030142,
+    "GameDate": "2002-04-20",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030143,
+    "GameDate": "2002-04-23",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 76
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 62
+    },
+    "TotalPim": 138,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030144,
+    "GameDate": "2002-04-24",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 26
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "TotalPim": 46,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030145,
+    "GameDate": "2002-04-26",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 24
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 25
+    },
+    "TotalPim": 49,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030146,
+    "GameDate": "2002-04-28",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 31
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 31
+    },
+    "TotalPim": 62,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030147,
+    "GameDate": "2002-04-30",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030151,
+    "GameDate": "2002-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030152,
+    "GameDate": "2002-04-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030153,
+    "GameDate": "2002-04-21",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030154,
+    "GameDate": "2002-04-23",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030155,
+    "GameDate": "2002-04-25",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030156,
+    "GameDate": "2002-04-27",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030211,
+    "GameDate": "2002-05-03",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "CAR",
+      "PlaceName": "Carolina",
+      "CommonName": "Hurricanes",
+      "FullName": "Carolina Hurricanes",
+      "Country": "USA",
+      "Pim": 23
+    },
+    "TotalPim": 35,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030212,
+    "GameDate": "2002-05-05",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "CAR",
+      "PlaceName": "Carolina",
+      "CommonName": "Hurricanes",
+      "FullName": "Carolina Hurricanes",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030213,
+    "GameDate": "2002-05-07",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "CAR",
+      "PlaceName": "Carolina",
+      "CommonName": "Hurricanes",
+      "FullName": "Carolina Hurricanes",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "TotalPim": 6,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030214,
+    "GameDate": "2002-05-09",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "CAR",
+      "PlaceName": "Carolina",
+      "CommonName": "Hurricanes",
+      "FullName": "Carolina Hurricanes",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030215,
+    "GameDate": "2002-05-12",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "CAR",
+      "PlaceName": "Carolina",
+      "CommonName": "Hurricanes",
+      "FullName": "Carolina Hurricanes",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030216,
+    "GameDate": "2002-05-13",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "CAR",
+      "PlaceName": "Carolina",
+      "CommonName": "Hurricanes",
+      "FullName": "Carolina Hurricanes",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030311,
+    "GameDate": "2002-05-16",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "CAR",
+      "PlaceName": "Carolina",
+      "CommonName": "Hurricanes",
+      "FullName": "Carolina Hurricanes",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030312,
+    "GameDate": "2002-05-19",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "CAR",
+      "PlaceName": "Carolina",
+      "CommonName": "Hurricanes",
+      "FullName": "Carolina Hurricanes",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030313,
+    "GameDate": "2002-05-21",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "CAR",
+      "PlaceName": "Carolina",
+      "CommonName": "Hurricanes",
+      "FullName": "Carolina Hurricanes",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030314,
+    "GameDate": "2002-05-23",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "CAR",
+      "PlaceName": "Carolina",
+      "CommonName": "Hurricanes",
+      "FullName": "Carolina Hurricanes",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "TotalPim": 34,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030315,
+    "GameDate": "2002-05-25",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "CAR",
+      "PlaceName": "Carolina",
+      "CommonName": "Hurricanes",
+      "FullName": "Carolina Hurricanes",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2001-2002",
+    "SeasonStartYear": 2001,
+    "GameId": 2001030316,
+    "GameDate": "2002-05-28",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "CAR",
+      "PlaceName": "Carolina",
+      "CommonName": "Hurricanes",
+      "FullName": "Carolina Hurricanes",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  }
+]

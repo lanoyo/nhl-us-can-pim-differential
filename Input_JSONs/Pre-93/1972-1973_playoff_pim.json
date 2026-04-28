@@ -1,0 +1,478 @@
+[
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030111,
+    "GameDate": "1973-04-04",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030112,
+    "GameDate": "1973-04-05",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 11
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 15
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030113,
+    "GameDate": "1973-04-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 24
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030114,
+    "GameDate": "1973-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 6,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030115,
+    "GameDate": "1973-04-10",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030116,
+    "GameDate": "1973-04-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030211,
+    "GameDate": "1973-04-14",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030212,
+    "GameDate": "1973-04-17",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "TotalPim": 40,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030213,
+    "GameDate": "1973-04-19",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 11
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 13
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030214,
+    "GameDate": "1973-04-22",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 15
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 29,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030215,
+    "GameDate": "1973-04-24",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030311,
+    "GameDate": "1973-04-29",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030312,
+    "GameDate": "1973-05-01",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030313,
+    "GameDate": "1973-05-03",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030314,
+    "GameDate": "1973-05-06",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030315,
+    "GameDate": "1973-05-08",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1972-1973",
+    "SeasonStartYear": 1972,
+    "GameId": 1972030316,
+    "GameDate": "1973-05-10",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  }
+]

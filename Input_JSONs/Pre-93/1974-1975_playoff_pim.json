@@ -1,0 +1,366 @@
+[
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030111,
+    "GameDate": "1975-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030112,
+    "GameDate": "1975-04-10",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 29
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 21
+    },
+    "TotalPim": 50,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030113,
+    "GameDate": "1975-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 25
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 49
+    },
+    "TotalPim": 74,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030211,
+    "GameDate": "1975-04-13",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 42
+    },
+    "TotalPim": 62,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030212,
+    "GameDate": "1975-04-15",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030213,
+    "GameDate": "1975-04-17",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030214,
+    "GameDate": "1975-04-19",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 26
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "TotalPim": 46,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030321,
+    "GameDate": "1975-04-27",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030322,
+    "GameDate": "1975-04-29",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 13
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 15
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030323,
+    "GameDate": "1975-05-01",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030324,
+    "GameDate": "1975-05-03",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 55
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 32
+    },
+    "TotalPim": 87,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030325,
+    "GameDate": "1975-05-06",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1974-1975",
+    "SeasonStartYear": 1974,
+    "GameId": 1974030326,
+    "GameDate": "1975-05-08",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  }
+]

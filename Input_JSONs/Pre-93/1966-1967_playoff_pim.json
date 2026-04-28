@@ -1,0 +1,282 @@
+[
+  {
+    "Season": "1966-1967",
+    "SeasonStartYear": 1966,
+    "GameId": 1966030111,
+    "GameDate": "1967-04-06",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 21
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 33
+    },
+    "TotalPim": 54,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1966-1967",
+    "SeasonStartYear": 1966,
+    "GameId": 1966030112,
+    "GameDate": "1967-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1966-1967",
+    "SeasonStartYear": 1966,
+    "GameId": 1966030113,
+    "GameDate": "1967-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1966-1967",
+    "SeasonStartYear": 1966,
+    "GameId": 1966030114,
+    "GameDate": "1967-04-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1966-1967",
+    "SeasonStartYear": 1966,
+    "GameId": 1966030115,
+    "GameDate": "1967-04-15",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1966-1967",
+    "SeasonStartYear": 1966,
+    "GameId": 1966030116,
+    "GameDate": "1967-04-18",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1966-1967",
+    "SeasonStartYear": 1966,
+    "GameId": 1966030121,
+    "GameDate": "1967-04-06",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "NYR",
+      "PlaceName": "New York",
+      "CommonName": "Rangers",
+      "FullName": "New York Rangers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 11
+    },
+    "TotalPim": 21,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1966-1967",
+    "SeasonStartYear": 1966,
+    "GameId": 1966030122,
+    "GameDate": "1967-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "NYR",
+      "PlaceName": "New York",
+      "CommonName": "Rangers",
+      "FullName": "New York Rangers",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 24
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1966-1967",
+    "SeasonStartYear": 1966,
+    "GameId": 1966030123,
+    "GameDate": "1967-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "NYR",
+      "PlaceName": "New York",
+      "CommonName": "Rangers",
+      "FullName": "New York Rangers",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1966-1967",
+    "SeasonStartYear": 1966,
+    "GameId": 1966030124,
+    "GameDate": "1967-04-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 24
+    },
+    "HomeTeam": {
+      "Abbrev": "NYR",
+      "PlaceName": "New York",
+      "CommonName": "Rangers",
+      "FullName": "New York Rangers",
+      "Country": "USA",
+      "Pim": 26
+    },
+    "TotalPim": 50,
+    "PimSource": "playerByGameStats sum"
+  }
+]

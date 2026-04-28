@@ -1,0 +1,562 @@
+[
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030111,
+    "GameDate": "1980-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030112,
+    "GameDate": "1980-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 46
+    },
+    "TotalPim": 68,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030113,
+    "GameDate": "1980-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 28
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "TotalPim": 47,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030121,
+    "GameDate": "1980-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030122,
+    "GameDate": "1980-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 44
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 30
+    },
+    "TotalPim": 74,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030123,
+    "GameDate": "1980-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 25
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 39,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030124,
+    "GameDate": "1980-04-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030131,
+    "GameDate": "1980-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 3,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "HFD",
+      "PlaceName": "Hartford",
+      "CommonName": "Whalers",
+      "FullName": "Hartford Whalers",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030132,
+    "GameDate": "1980-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 3,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "HFD",
+      "PlaceName": "Hartford",
+      "CommonName": "Whalers",
+      "FullName": "Hartford Whalers",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030133,
+    "GameDate": "1980-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 3,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "HFD",
+      "PlaceName": "Hartford",
+      "CommonName": "Whalers",
+      "FullName": "Hartford Whalers",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030161,
+    "GameDate": "1980-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 45
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 29
+    },
+    "TotalPim": 74,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030162,
+    "GameDate": "1980-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 24
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 42,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030163,
+    "GameDate": "1980-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 32
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 32
+    },
+    "TotalPim": 64,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030231,
+    "GameDate": "1980-04-16",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030232,
+    "GameDate": "1980-04-17",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 15
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 15
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030233,
+    "GameDate": "1980-04-19",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030234,
+    "GameDate": "1980-04-20",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030235,
+    "GameDate": "1980-04-22",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030236,
+    "GameDate": "1980-04-24",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1979-1980",
+    "SeasonStartYear": 1979,
+    "GameId": 1979030237,
+    "GameDate": "1980-04-27",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  }
+]

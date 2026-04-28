@@ -1,0 +1,198 @@
+[
+  {
+    "Season": "1964-1965",
+    "SeasonStartYear": 1964,
+    "GameId": 1964030211,
+    "GameDate": "1965-04-17",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1964-1965",
+    "SeasonStartYear": 1964,
+    "GameId": 1964030212,
+    "GameDate": "1965-04-20",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "TotalPim": 42,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1964-1965",
+    "SeasonStartYear": 1964,
+    "GameId": 1964030213,
+    "GameDate": "1965-04-22",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 30
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 48,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1964-1965",
+    "SeasonStartYear": 1964,
+    "GameId": 1964030214,
+    "GameDate": "1965-04-25",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 38
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 56,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1964-1965",
+    "SeasonStartYear": 1964,
+    "GameId": 1964030215,
+    "GameDate": "1965-04-27",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 23
+    },
+    "TotalPim": 45,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1964-1965",
+    "SeasonStartYear": 1964,
+    "GameId": 1964030216,
+    "GameDate": "1965-04-29",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 34
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 32
+    },
+    "TotalPim": 66,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1964-1965",
+    "SeasonStartYear": 1964,
+    "GameId": 1964030217,
+    "GameDate": "1965-05-01",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  }
+]

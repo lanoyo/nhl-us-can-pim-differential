@@ -1,0 +1,1038 @@
+[
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030111,
+    "GameDate": "2010-04-15",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "WSH",
+      "PlaceName": "Washington",
+      "CommonName": "Capitals",
+      "FullName": "Washington Capitals",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030112,
+    "GameDate": "2010-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 11
+    },
+    "HomeTeam": {
+      "Abbrev": "WSH",
+      "PlaceName": "Washington",
+      "CommonName": "Capitals",
+      "FullName": "Washington Capitals",
+      "Country": "USA",
+      "Pim": 11
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030113,
+    "GameDate": "2010-04-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "WSH",
+      "PlaceName": "Washington",
+      "CommonName": "Capitals",
+      "FullName": "Washington Capitals",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 24
+    },
+    "TotalPim": 34,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030114,
+    "GameDate": "2010-04-21",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "WSH",
+      "PlaceName": "Washington",
+      "CommonName": "Capitals",
+      "FullName": "Washington Capitals",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030115,
+    "GameDate": "2010-04-23",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "WSH",
+      "PlaceName": "Washington",
+      "CommonName": "Capitals",
+      "FullName": "Washington Capitals",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030116,
+    "GameDate": "2010-04-26",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "WSH",
+      "PlaceName": "Washington",
+      "CommonName": "Capitals",
+      "FullName": "Washington Capitals",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030117,
+    "GameDate": "2010-04-28",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "WSH",
+      "PlaceName": "Washington",
+      "CommonName": "Capitals",
+      "FullName": "Washington Capitals",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030141,
+    "GameDate": "2010-04-14",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030142,
+    "GameDate": "2010-04-16",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 11
+    },
+    "HomeTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 11
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030143,
+    "GameDate": "2010-04-18",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 24
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030144,
+    "GameDate": "2010-04-20",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 50
+    },
+    "TotalPim": 66,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030145,
+    "GameDate": "2010-04-22",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "TotalPim": 34,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030146,
+    "GameDate": "2010-04-24",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030171,
+    "GameDate": "2010-04-15",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "TotalPim": 29,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030172,
+    "GameDate": "2010-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030173,
+    "GameDate": "2010-04-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030174,
+    "GameDate": "2010-04-21",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030175,
+    "GameDate": "2010-04-23",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 24
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "TotalPim": 46,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030176,
+    "GameDate": "2010-04-25",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030211,
+    "GameDate": "2010-04-30",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030212,
+    "GameDate": "2010-05-02",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 19
+    },
+    "TotalPim": 25,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030213,
+    "GameDate": "2010-05-04",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030214,
+    "GameDate": "2010-05-06",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030215,
+    "GameDate": "2010-05-08",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030216,
+    "GameDate": "2010-05-10",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030217,
+    "GameDate": "2010-05-12",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030241,
+    "GameDate": "2010-05-01",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030242,
+    "GameDate": "2010-05-03",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030243,
+    "GameDate": "2010-05-05",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 34
+    },
+    "TotalPim": 52,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030244,
+    "GameDate": "2010-05-07",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030245,
+    "GameDate": "2010-05-09",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030246,
+    "GameDate": "2010-05-11",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030311,
+    "GameDate": "2010-05-16",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030312,
+    "GameDate": "2010-05-18",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030313,
+    "GameDate": "2010-05-20",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 25
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "TotalPim": 44,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030314,
+    "GameDate": "2010-05-22",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2009-2010",
+    "SeasonStartYear": 2009,
+    "GameId": 2009030315,
+    "GameDate": "2010-05-24",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  }
+]

@@ -1,0 +1,954 @@
+[
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030141,
+    "GameDate": "1982-04-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 25
+    },
+    "HomeTeam": {
+      "Abbrev": "WIN",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 25
+    },
+    "TotalPim": 50,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030142,
+    "GameDate": "1982-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "WIN",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030143,
+    "GameDate": "1982-04-10",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "WIN",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030144,
+    "GameDate": "1982-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "WIN",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 70
+    },
+    "HomeTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 70
+    },
+    "TotalPim": 140,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030171,
+    "GameDate": "1982-04-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 38
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 26
+    },
+    "TotalPim": 64,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030172,
+    "GameDate": "1982-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030173,
+    "GameDate": "1982-04-10",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 111
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 116
+    },
+    "TotalPim": 227,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030174,
+    "GameDate": "1982-04-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 19
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030175,
+    "GameDate": "1982-04-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030211,
+    "GameDate": "1982-04-15",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030212,
+    "GameDate": "1982-04-16",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030213,
+    "GameDate": "1982-04-18",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030214,
+    "GameDate": "1982-04-19",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 68
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 50
+    },
+    "TotalPim": 118,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030215,
+    "GameDate": "1982-04-21",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 29
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 25
+    },
+    "TotalPim": 54,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030216,
+    "GameDate": "1982-04-23",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030217,
+    "GameDate": "1982-04-25",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030241,
+    "GameDate": "1982-04-15",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030242,
+    "GameDate": "1982-04-16",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030243,
+    "GameDate": "1982-04-18",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 40
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 36
+    },
+    "TotalPim": 76,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030244,
+    "GameDate": "1982-04-19",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 24
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 42,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030245,
+    "GameDate": "1982-04-21",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 40
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 46
+    },
+    "TotalPim": 86,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030311,
+    "GameDate": "1982-04-27",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 22
+    },
+    "TotalPim": 44,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030312,
+    "GameDate": "1982-04-29",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 17
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 13
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030313,
+    "GameDate": "1982-05-01",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 29
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 23
+    },
+    "TotalPim": 52,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030314,
+    "GameDate": "1982-05-04",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030321,
+    "GameDate": "1982-04-27",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 23
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 23
+    },
+    "TotalPim": 46,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030322,
+    "GameDate": "1982-04-29",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 104
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 80
+    },
+    "TotalPim": 184,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030323,
+    "GameDate": "1982-05-01",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 33
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "TotalPim": 52,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030324,
+    "GameDate": "1982-05-04",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 47
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 45
+    },
+    "TotalPim": 92,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030325,
+    "GameDate": "1982-05-06",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 92
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 90
+    },
+    "TotalPim": 182,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030411,
+    "GameDate": "1982-05-08",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 70
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 60
+    },
+    "TotalPim": 130,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030412,
+    "GameDate": "1982-05-11",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 46
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 50
+    },
+    "TotalPim": 96,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030413,
+    "GameDate": "1982-05-13",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1981-1982",
+    "SeasonStartYear": 1981,
+    "GameId": 1981030414,
+    "GameDate": "1982-05-16",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030121,
+    "GameDate": "2022-05-02",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 51
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 62
+    },
+    "TotalPim": 113,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030122,
+    "GameDate": "2022-05-04",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030123,
+    "GameDate": "2022-05-06",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030124,
+    "GameDate": "2022-05-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 30
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 22
+    },
+    "TotalPim": 52,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030125,
+    "GameDate": "2022-05-10",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030126,
+    "GameDate": "2022-05-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030127,
+    "GameDate": "2022-05-14",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030171,
+    "GameDate": "2022-05-03",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 28
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 28
+    },
+    "TotalPim": 56,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030172,
+    "GameDate": "2022-05-05",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030173,
+    "GameDate": "2022-05-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 17
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030174,
+    "GameDate": "2022-05-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030175,
+    "GameDate": "2022-05-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030176,
+    "GameDate": "2022-05-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 28
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "TotalPim": 44,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030177,
+    "GameDate": "2022-05-15",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030181,
+    "GameDate": "2022-05-02",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030182,
+    "GameDate": "2022-05-04",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030183,
+    "GameDate": "2022-05-06",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030184,
+    "GameDate": "2022-05-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 40
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 42
+    },
+    "TotalPim": 82,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030185,
+    "GameDate": "2022-05-10",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030186,
+    "GameDate": "2022-05-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030187,
+    "GameDate": "2022-05-14",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 0
+    },
+    "TotalPim": 2,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030321,
+    "GameDate": "2022-05-31",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "HomeTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 6,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030322,
+    "GameDate": "2022-06-02",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030323,
+    "GameDate": "2022-06-04",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 23
+    },
+    "TotalPim": 27,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2021-2022",
+    "SeasonStartYear": 2021,
+    "GameId": 2021030324,
+    "GameDate": "2022-06-06",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  }
+]

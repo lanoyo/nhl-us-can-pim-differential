@@ -1,0 +1,842 @@
+[
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030121,
+    "GameDate": "1991-04-03",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 50
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 48
+    },
+    "TotalPim": 98,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030122,
+    "GameDate": "1991-04-05",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030123,
+    "GameDate": "1991-04-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 26
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 32
+    },
+    "TotalPim": 58,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030124,
+    "GameDate": "1991-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030125,
+    "GameDate": "1991-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030126,
+    "GameDate": "1991-04-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 80
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 93
+    },
+    "TotalPim": 173,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030171,
+    "GameDate": "1991-04-04",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030172,
+    "GameDate": "1991-04-06",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 23
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 19
+    },
+    "TotalPim": 42,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030173,
+    "GameDate": "1991-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 46
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 42
+    },
+    "TotalPim": 88,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030174,
+    "GameDate": "1991-04-10",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 37
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 35
+    },
+    "TotalPim": 72,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030175,
+    "GameDate": "1991-04-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 30
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 26
+    },
+    "TotalPim": 56,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030176,
+    "GameDate": "1991-04-14",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030211,
+    "GameDate": "1991-04-17",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030212,
+    "GameDate": "1991-04-19",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030213,
+    "GameDate": "1991-04-21",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030214,
+    "GameDate": "1991-04-23",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 31
+    },
+    "TotalPim": 49,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030215,
+    "GameDate": "1991-04-25",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 42
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 64
+    },
+    "TotalPim": 106,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030216,
+    "GameDate": "1991-04-27",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030217,
+    "GameDate": "1991-04-29",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030241,
+    "GameDate": "1991-04-18",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 23
+    },
+    "TotalPim": 37,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030242,
+    "GameDate": "1991-04-20",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "TotalPim": 40,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030243,
+    "GameDate": "1991-04-22",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 28
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 40,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030244,
+    "GameDate": "1991-04-24",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 25
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 21
+    },
+    "TotalPim": 46,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030245,
+    "GameDate": "1991-04-26",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 33
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 42
+    },
+    "TotalPim": 75,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030246,
+    "GameDate": "1991-04-28",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030321,
+    "GameDate": "1991-05-02",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030322,
+    "GameDate": "1991-05-04",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 38
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 25
+    },
+    "TotalPim": 63,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030323,
+    "GameDate": "1991-05-06",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030324,
+    "GameDate": "1991-05-08",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 49
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 33
+    },
+    "TotalPim": 82,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1990-1991",
+    "SeasonStartYear": 1990,
+    "GameId": 1990030325,
+    "GameDate": "1991-05-10",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 24
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 38
+    },
+    "TotalPim": 62,
+    "PimSource": "playerByGameStats sum"
+  }
+]

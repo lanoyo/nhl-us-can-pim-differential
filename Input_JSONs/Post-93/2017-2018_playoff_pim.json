@@ -1,0 +1,674 @@
+[
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030121,
+    "GameDate": "2018-04-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 21
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 27,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030122,
+    "GameDate": "2018-04-14",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030123,
+    "GameDate": "2018-04-16",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030124,
+    "GameDate": "2018-04-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 0
+    },
+    "TotalPim": 2,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030125,
+    "GameDate": "2018-04-21",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030126,
+    "GameDate": "2018-04-23",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030127,
+    "GameDate": "2018-04-25",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030161,
+    "GameDate": "2018-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MIN",
+      "PlaceName": "Minnesota",
+      "CommonName": "Wild",
+      "FullName": "Minnesota Wild",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "TotalPim": 6,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030162,
+    "GameDate": "2018-04-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MIN",
+      "PlaceName": "Minnesota",
+      "CommonName": "Wild",
+      "FullName": "Minnesota Wild",
+      "Country": "USA",
+      "Pim": 40
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 42
+    },
+    "TotalPim": 82,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030163,
+    "GameDate": "2018-04-15",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "MIN",
+      "PlaceName": "Minnesota",
+      "CommonName": "Wild",
+      "FullName": "Minnesota Wild",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030164,
+    "GameDate": "2018-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "MIN",
+      "PlaceName": "Minnesota",
+      "CommonName": "Wild",
+      "FullName": "Minnesota Wild",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "TotalPim": 6,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030165,
+    "GameDate": "2018-04-20",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MIN",
+      "PlaceName": "Minnesota",
+      "CommonName": "Wild",
+      "FullName": "Minnesota Wild",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030231,
+    "GameDate": "2018-04-27",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "NSH",
+      "PlaceName": "Nashville",
+      "CommonName": "Predators",
+      "FullName": "Nashville Predators",
+      "Country": "USA",
+      "Pim": 0
+    },
+    "TotalPim": 6,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030232,
+    "GameDate": "2018-04-29",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "NSH",
+      "PlaceName": "Nashville",
+      "CommonName": "Predators",
+      "FullName": "Nashville Predators",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030233,
+    "GameDate": "2018-05-01",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "NSH",
+      "PlaceName": "Nashville",
+      "CommonName": "Predators",
+      "FullName": "Nashville Predators",
+      "Country": "USA",
+      "Pim": 17
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 15
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030234,
+    "GameDate": "2018-05-03",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "NSH",
+      "PlaceName": "Nashville",
+      "CommonName": "Predators",
+      "FullName": "Nashville Predators",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030235,
+    "GameDate": "2018-05-05",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "HomeTeam": {
+      "Abbrev": "NSH",
+      "PlaceName": "Nashville",
+      "CommonName": "Predators",
+      "FullName": "Nashville Predators",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030236,
+    "GameDate": "2018-05-07",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "NSH",
+      "PlaceName": "Nashville",
+      "CommonName": "Predators",
+      "FullName": "Nashville Predators",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030237,
+    "GameDate": "2018-05-10",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "NSH",
+      "PlaceName": "Nashville",
+      "CommonName": "Predators",
+      "FullName": "Nashville Predators",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030321,
+    "GameDate": "2018-05-12",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030322,
+    "GameDate": "2018-05-14",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030323,
+    "GameDate": "2018-05-16",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 40,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030324,
+    "GameDate": "2018-05-18",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2017-2018",
+    "SeasonStartYear": 2017,
+    "GameId": 2017030325,
+    "GameDate": "2018-05-20",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030111,
+    "GameDate": "1984-04-04",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 46
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 25
+    },
+    "TotalPim": 71,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030112,
+    "GameDate": "1984-04-05",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 35
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 25
+    },
+    "TotalPim": 60,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030113,
+    "GameDate": "1984-04-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 27
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 30
+    },
+    "TotalPim": 57,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030121,
+    "GameDate": "1984-04-04",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 15
+    },
+    "TotalPim": 29,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030122,
+    "GameDate": "1984-04-05",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 30
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 24
+    },
+    "TotalPim": 54,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030123,
+    "GameDate": "1984-04-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 36
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 36
+    },
+    "TotalPim": 72,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030311,
+    "GameDate": "1984-04-24",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030312,
+    "GameDate": "1984-04-26",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 34
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 30
+    },
+    "TotalPim": 64,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030313,
+    "GameDate": "1984-04-28",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030314,
+    "GameDate": "1984-05-01",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 27
+    },
+    "TotalPim": 47,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030315,
+    "GameDate": "1984-05-03",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030316,
+    "GameDate": "1984-05-05",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 15
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 27,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030321,
+    "GameDate": "1984-04-24",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030322,
+    "GameDate": "1984-04-26",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 35
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 35
+    },
+    "TotalPim": 70,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030323,
+    "GameDate": "1984-04-28",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 37
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 34
+    },
+    "TotalPim": 71,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030324,
+    "GameDate": "1984-05-01",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 13
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 13
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030411,
+    "GameDate": "1984-05-10",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030412,
+    "GameDate": "1984-05-12",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 64
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 60
+    },
+    "TotalPim": 124,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030413,
+    "GameDate": "1984-05-15",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 29
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 33
+    },
+    "TotalPim": 62,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030414,
+    "GameDate": "1984-05-17",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "TotalPim": 40,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1983-1984",
+    "SeasonStartYear": 1983,
+    "GameId": 1983030415,
+    "GameDate": "1984-05-19",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  }
+]

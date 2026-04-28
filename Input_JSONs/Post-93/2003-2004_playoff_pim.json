@@ -1,0 +1,1010 @@
+[
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030121,
+    "GameDate": "2004-04-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030122,
+    "GameDate": "2004-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030123,
+    "GameDate": "2004-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030124,
+    "GameDate": "2004-04-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030125,
+    "GameDate": "2004-04-15",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030126,
+    "GameDate": "2004-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030127,
+    "GameDate": "2004-04-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030211,
+    "GameDate": "2004-04-23",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 27
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 11
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030212,
+    "GameDate": "2004-04-25",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030213,
+    "GameDate": "2004-04-27",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 28
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 30
+    },
+    "TotalPim": 58,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030214,
+    "GameDate": "2004-04-29",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 17
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 21
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030221,
+    "GameDate": "2004-04-22",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030222,
+    "GameDate": "2004-04-25",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030223,
+    "GameDate": "2004-04-28",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030224,
+    "GameDate": "2004-04-30",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030225,
+    "GameDate": "2004-05-02",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 50
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 28
+    },
+    "TotalPim": 78,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030226,
+    "GameDate": "2004-05-04",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 2,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030231,
+    "GameDate": "2004-04-22",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030232,
+    "GameDate": "2004-04-24",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 26
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 24
+    },
+    "TotalPim": 50,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030233,
+    "GameDate": "2004-04-27",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030234,
+    "GameDate": "2004-04-29",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 13
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 24
+    },
+    "TotalPim": 37,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030235,
+    "GameDate": "2004-05-01",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030236,
+    "GameDate": "2004-05-03",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030321,
+    "GameDate": "2004-05-09",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030322,
+    "GameDate": "2004-05-11",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030323,
+    "GameDate": "2004-05-13",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 15
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 51
+    },
+    "TotalPim": 66,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030324,
+    "GameDate": "2004-05-16",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 37
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 35
+    },
+    "TotalPim": 72,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030325,
+    "GameDate": "2004-05-17",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030326,
+    "GameDate": "2004-05-19",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030411,
+    "GameDate": "2004-05-25",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030412,
+    "GameDate": "2004-05-27",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 67
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 68
+    },
+    "TotalPim": 135,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030413,
+    "GameDate": "2004-05-29",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 23
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 13
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030414,
+    "GameDate": "2004-05-31",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 23
+    },
+    "TotalPim": 27,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030415,
+    "GameDate": "2004-06-03",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030416,
+    "GameDate": "2004-06-05",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2003-2004",
+    "SeasonStartYear": 2003,
+    "GameId": 2003030417,
+    "GameDate": "2004-06-07",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  }
+]

@@ -1,0 +1,870 @@
+[
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030111,
+    "GameDate": "1995-05-06",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "NYR",
+      "PlaceName": "New York",
+      "CommonName": "Rangers",
+      "FullName": "New York Rangers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030112,
+    "GameDate": "1995-05-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "NYR",
+      "PlaceName": "New York",
+      "CommonName": "Rangers",
+      "FullName": "New York Rangers",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030113,
+    "GameDate": "1995-05-10",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "NYR",
+      "PlaceName": "New York",
+      "CommonName": "Rangers",
+      "FullName": "New York Rangers",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030114,
+    "GameDate": "1995-05-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "NYR",
+      "PlaceName": "New York",
+      "CommonName": "Rangers",
+      "FullName": "New York Rangers",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030115,
+    "GameDate": "1995-05-14",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "NYR",
+      "PlaceName": "New York",
+      "CommonName": "Rangers",
+      "FullName": "New York Rangers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030116,
+    "GameDate": "1995-05-16",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 27
+    },
+    "HomeTeam": {
+      "Abbrev": "NYR",
+      "PlaceName": "New York",
+      "CommonName": "Rangers",
+      "FullName": "New York Rangers",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 39,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030161,
+    "GameDate": "1995-05-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "TotalPim": 34,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030162,
+    "GameDate": "1995-05-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 15
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 17
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030163,
+    "GameDate": "1995-05-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 35
+    },
+    "HomeTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 21
+    },
+    "TotalPim": 56,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030164,
+    "GameDate": "1995-05-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030165,
+    "GameDate": "1995-05-15",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030166,
+    "GameDate": "1995-05-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 21
+    },
+    "HomeTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 27,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030167,
+    "GameDate": "1995-05-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "SJS",
+      "PlaceName": "San Jose",
+      "CommonName": "Sharks",
+      "FullName": "San Jose Sharks",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 6,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030171,
+    "GameDate": "1995-05-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 26
+    },
+    "TotalPim": 46,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030172,
+    "GameDate": "1995-05-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030173,
+    "GameDate": "1995-05-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 70
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 38
+    },
+    "TotalPim": 108,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030174,
+    "GameDate": "1995-05-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030175,
+    "GameDate": "1995-05-15",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 24
+    },
+    "HomeTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 33
+    },
+    "TotalPim": 57,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030176,
+    "GameDate": "1995-05-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 41
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 94
+    },
+    "TotalPim": 135,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030177,
+    "GameDate": "1995-05-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030181,
+    "GameDate": "1995-05-07",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030182,
+    "GameDate": "1995-05-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030183,
+    "GameDate": "1995-05-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 35
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 31
+    },
+    "TotalPim": 66,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030184,
+    "GameDate": "1995-05-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030185,
+    "GameDate": "1995-05-15",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "TotalPim": 34,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030186,
+    "GameDate": "1995-05-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030187,
+    "GameDate": "1995-05-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030241,
+    "GameDate": "1995-05-21",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030242,
+    "GameDate": "1995-05-23",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030243,
+    "GameDate": "1995-05-25",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1994-1995",
+    "SeasonStartYear": 1994,
+    "GameId": 1994030244,
+    "GameDate": "1995-05-27",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  }
+]

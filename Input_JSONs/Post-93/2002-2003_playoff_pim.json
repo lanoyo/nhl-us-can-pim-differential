@@ -1,0 +1,1262 @@
+[
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030111,
+    "GameDate": "2003-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 34,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030112,
+    "GameDate": "2003-04-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 52
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 25
+    },
+    "TotalPim": 77,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030113,
+    "GameDate": "2003-04-14",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030114,
+    "GameDate": "2003-04-16",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030115,
+    "GameDate": "2003-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030141,
+    "GameDate": "2003-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030142,
+    "GameDate": "2003-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 15
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 13
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030143,
+    "GameDate": "2003-04-14",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030144,
+    "GameDate": "2003-04-16",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030145,
+    "GameDate": "2003-04-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030146,
+    "GameDate": "2003-04-21",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030147,
+    "GameDate": "2003-04-22",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030151,
+    "GameDate": "2003-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 23
+    },
+    "TotalPim": 33,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030152,
+    "GameDate": "2003-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 73
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 53
+    },
+    "TotalPim": 126,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030153,
+    "GameDate": "2003-04-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030154,
+    "GameDate": "2003-04-15",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030155,
+    "GameDate": "2003-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030156,
+    "GameDate": "2003-04-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030181,
+    "GameDate": "2003-04-10",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 24
+    },
+    "TotalPim": 42,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030182,
+    "GameDate": "2003-04-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "TotalPim": 42,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030183,
+    "GameDate": "2003-04-14",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 32
+    },
+    "HomeTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "TotalPim": 52,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030184,
+    "GameDate": "2003-04-16",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030185,
+    "GameDate": "2003-04-18",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 35
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "TotalPim": 57,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030186,
+    "GameDate": "2003-04-20",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030187,
+    "GameDate": "2003-04-22",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030211,
+    "GameDate": "2003-04-25",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030212,
+    "GameDate": "2003-04-27",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030213,
+    "GameDate": "2003-04-29",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030214,
+    "GameDate": "2003-05-01",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030215,
+    "GameDate": "2003-05-03",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 27
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 21
+    },
+    "TotalPim": 48,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030216,
+    "GameDate": "2003-05-05",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030241,
+    "GameDate": "2003-04-25",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MIN",
+      "PlaceName": "Minnesota",
+      "CommonName": "Wild",
+      "FullName": "Minnesota Wild",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030242,
+    "GameDate": "2003-04-27",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MIN",
+      "PlaceName": "Minnesota",
+      "CommonName": "Wild",
+      "FullName": "Minnesota Wild",
+      "Country": "USA",
+      "Pim": 32
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 30
+    },
+    "TotalPim": 62,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030243,
+    "GameDate": "2003-04-29",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 21
+    },
+    "HomeTeam": {
+      "Abbrev": "MIN",
+      "PlaceName": "Minnesota",
+      "CommonName": "Wild",
+      "FullName": "Minnesota Wild",
+      "Country": "USA",
+      "Pim": 19
+    },
+    "TotalPim": 40,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030244,
+    "GameDate": "2003-05-02",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MIN",
+      "PlaceName": "Minnesota",
+      "CommonName": "Wild",
+      "FullName": "Minnesota Wild",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030245,
+    "GameDate": "2003-05-05",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MIN",
+      "PlaceName": "Minnesota",
+      "CommonName": "Wild",
+      "FullName": "Minnesota Wild",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030246,
+    "GameDate": "2003-05-07",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "MIN",
+      "PlaceName": "Minnesota",
+      "CommonName": "Wild",
+      "FullName": "Minnesota Wild",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030247,
+    "GameDate": "2003-05-08",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "MIN",
+      "PlaceName": "Minnesota",
+      "CommonName": "Wild",
+      "FullName": "Minnesota Wild",
+      "Country": "USA",
+      "Pim": 0
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 4,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030311,
+    "GameDate": "2003-05-10",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030312,
+    "GameDate": "2003-05-13",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030313,
+    "GameDate": "2003-05-15",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030314,
+    "GameDate": "2003-05-17",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030315,
+    "GameDate": "2003-05-19",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030316,
+    "GameDate": "2003-05-21",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2002-2003",
+    "SeasonStartYear": 2002,
+    "GameId": 2002030317,
+    "GameDate": "2003-05-23",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  }
+]

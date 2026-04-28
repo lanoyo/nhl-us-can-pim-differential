@@ -1,0 +1,674 @@
+[
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030111,
+    "GameDate": "1997-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 31
+    },
+    "HomeTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 31
+    },
+    "TotalPim": 62,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030112,
+    "GameDate": "1997-04-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030113,
+    "GameDate": "1997-04-22",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030114,
+    "GameDate": "1997-04-24",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030115,
+    "GameDate": "1997-04-26",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 30
+    },
+    "HomeTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030121,
+    "GameDate": "1997-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030122,
+    "GameDate": "1997-04-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030123,
+    "GameDate": "1997-04-21",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030124,
+    "GameDate": "1997-04-23",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030125,
+    "GameDate": "1997-04-25",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 17
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 43
+    },
+    "TotalPim": 60,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030126,
+    "GameDate": "1997-04-27",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 24
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030127,
+    "GameDate": "1997-04-29",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030161,
+    "GameDate": "1997-04-16",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030162,
+    "GameDate": "1997-04-18",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 36
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 24
+    },
+    "TotalPim": 60,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030163,
+    "GameDate": "1997-04-20",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 28
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 28
+    },
+    "TotalPim": 56,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030164,
+    "GameDate": "1997-04-22",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 30
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 46,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030165,
+    "GameDate": "1997-04-25",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030166,
+    "GameDate": "1997-04-27",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 30
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "TotalPim": 50,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030167,
+    "GameDate": "1997-04-29",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030231,
+    "GameDate": "1997-05-02",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030232,
+    "GameDate": "1997-05-04",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030233,
+    "GameDate": "1997-05-07",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "TotalPim": 34,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030234,
+    "GameDate": "1997-05-09",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1996-1997",
+    "SeasonStartYear": 1996,
+    "GameId": 1996030235,
+    "GameDate": "1997-05-11",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  }
+]

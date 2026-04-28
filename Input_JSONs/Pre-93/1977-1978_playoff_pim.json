@@ -1,0 +1,562 @@
+[
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030131,
+    "GameDate": "1978-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 3,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 26
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 28
+    },
+    "TotalPim": 54,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030132,
+    "GameDate": "1978-04-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 3,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 13
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 13
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030211,
+    "GameDate": "1978-04-17",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030212,
+    "GameDate": "1978-04-19",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030213,
+    "GameDate": "1978-04-21",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 25
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 27
+    },
+    "TotalPim": 52,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030214,
+    "GameDate": "1978-04-23",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030215,
+    "GameDate": "1978-04-25",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030231,
+    "GameDate": "1978-04-17",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030232,
+    "GameDate": "1978-04-19",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 34
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 24
+    },
+    "TotalPim": 58,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030233,
+    "GameDate": "1978-04-21",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 15
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "TotalPim": 34,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030234,
+    "GameDate": "1978-04-23",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 51
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 60
+    },
+    "TotalPim": 111,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030235,
+    "GameDate": "1978-04-25",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030236,
+    "GameDate": "1978-04-27",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 46
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 40
+    },
+    "TotalPim": 86,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030237,
+    "GameDate": "1978-04-29",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 3,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 13
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 13
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030411,
+    "GameDate": "1978-05-13",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030412,
+    "GameDate": "1978-05-16",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030413,
+    "GameDate": "1978-05-18",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030414,
+    "GameDate": "1978-05-21",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 38
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 36
+    },
+    "TotalPim": 74,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030415,
+    "GameDate": "1978-05-23",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 62
+    },
+    "HomeTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 44
+    },
+    "TotalPim": 106,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1977-1978",
+    "SeasonStartYear": 1977,
+    "GameId": 1977030416,
+    "GameDate": "1978-05-25",
+    "GameState": "OFF",
+    "Round": 4,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "MTL",
+      "PlaceName": "Montr\u00E9al",
+      "CommonName": "Canadiens",
+      "FullName": "Montr\u00E9al Canadiens",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  }
+]

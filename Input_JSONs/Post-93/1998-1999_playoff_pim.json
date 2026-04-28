@@ -1,0 +1,702 @@
+[
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030121,
+    "GameDate": "1999-04-21",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030122,
+    "GameDate": "1999-04-23",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "TotalPim": 40,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030123,
+    "GameDate": "1999-04-25",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030124,
+    "GameDate": "1999-04-27",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "OTT",
+      "PlaceName": "Ottawa",
+      "CommonName": "Senators",
+      "FullName": "Ottawa Senators",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030141,
+    "GameDate": "1999-04-22",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030142,
+    "GameDate": "1999-04-24",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 34,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030143,
+    "GameDate": "1999-04-26",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030144,
+    "GameDate": "1999-04-28",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030145,
+    "GameDate": "1999-04-30",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030146,
+    "GameDate": "1999-05-02",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 4,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030151,
+    "GameDate": "1999-04-21",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 41
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 24
+    },
+    "TotalPim": 65,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030152,
+    "GameDate": "1999-04-23",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030153,
+    "GameDate": "1999-04-25",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 20
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030154,
+    "GameDate": "1999-04-27",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030211,
+    "GameDate": "1999-05-07",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030212,
+    "GameDate": "1999-05-09",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 31
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 43,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030213,
+    "GameDate": "1999-05-11",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030214,
+    "GameDate": "1999-05-13",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030215,
+    "GameDate": "1999-05-15",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 42
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 26
+    },
+    "TotalPim": 68,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030216,
+    "GameDate": "1999-05-17",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "PIT",
+      "PlaceName": "Pittsburgh",
+      "CommonName": "Penguins",
+      "FullName": "Pittsburgh Penguins",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030311,
+    "GameDate": "1999-05-23",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030312,
+    "GameDate": "1999-05-25",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030313,
+    "GameDate": "1999-05-27",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 76
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 64
+    },
+    "TotalPim": 140,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030314,
+    "GameDate": "1999-05-29",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1998-1999",
+    "SeasonStartYear": 1998,
+    "GameId": 1998030315,
+    "GameDate": "1999-05-31",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  }
+]

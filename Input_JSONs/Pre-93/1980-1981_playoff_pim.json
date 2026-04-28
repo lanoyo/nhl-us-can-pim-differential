@@ -1,0 +1,926 @@
+[
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030111,
+    "GameDate": "1981-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 23
+    },
+    "TotalPim": 42,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030112,
+    "GameDate": "1981-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030113,
+    "GameDate": "1981-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 13
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 17
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030151,
+    "GameDate": "1981-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 17
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030152,
+    "GameDate": "1981-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 46
+    },
+    "HomeTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 46
+    },
+    "TotalPim": 92,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030153,
+    "GameDate": "1981-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 5,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BUF",
+      "PlaceName": "Buffalo",
+      "CommonName": "Sabres",
+      "FullName": "Buffalo Sabres",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "VAN",
+      "PlaceName": "Vancouver",
+      "CommonName": "Canucks",
+      "FullName": "Vancouver Canucks",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030161,
+    "GameDate": "1981-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 91
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 73
+    },
+    "TotalPim": 164,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030162,
+    "GameDate": "1981-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 73
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 71
+    },
+    "TotalPim": 144,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030163,
+    "GameDate": "1981-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 23
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "TotalPim": 42,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030164,
+    "GameDate": "1981-04-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030165,
+    "GameDate": "1981-04-14",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "QUE",
+      "PlaceName": "Quebec",
+      "CommonName": "Nordiques",
+      "FullName": "Quebec Nordiques",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 28
+    },
+    "TotalPim": 50,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030171,
+    "GameDate": "1981-04-08",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030172,
+    "GameDate": "1981-04-09",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 15
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 13
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030173,
+    "GameDate": "1981-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "CHI",
+      "PlaceName": "Chicago",
+      "CommonName": "Blackhawks",
+      "FullName": "Chicago Blackhawks",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030211,
+    "GameDate": "1981-04-16",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 19
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030212,
+    "GameDate": "1981-04-17",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 17
+    },
+    "TotalPim": 39,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030213,
+    "GameDate": "1981-04-19",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 24
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 20
+    },
+    "TotalPim": 44,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030214,
+    "GameDate": "1981-04-20",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030215,
+    "GameDate": "1981-04-22",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030216,
+    "GameDate": "1981-04-24",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "NYI",
+      "PlaceName": "New York",
+      "CommonName": "Islanders",
+      "FullName": "New York Islanders",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030241,
+    "GameDate": "1981-04-16",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 9
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 11
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030242,
+    "GameDate": "1981-04-17",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 26
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 23
+    },
+    "TotalPim": 49,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030243,
+    "GameDate": "1981-04-19",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 21
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 15
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030244,
+    "GameDate": "1981-04-20",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 34
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 46
+    },
+    "TotalPim": 80,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030245,
+    "GameDate": "1981-04-22",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 96
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 81
+    },
+    "TotalPim": 177,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030246,
+    "GameDate": "1981-04-24",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030247,
+    "GameDate": "1981-04-26",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "PHI",
+      "PlaceName": "Philadelphia",
+      "CommonName": "Flyers",
+      "FullName": "Philadelphia Flyers",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030321,
+    "GameDate": "1981-04-28",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 22
+    },
+    "TotalPim": 34,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030322,
+    "GameDate": "1981-04-30",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 11
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 17
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030323,
+    "GameDate": "1981-05-03",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 34,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030324,
+    "GameDate": "1981-05-05",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030325,
+    "GameDate": "1981-05-07",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1980-1981",
+    "SeasonStartYear": 1980,
+    "GameId": 1980030326,
+    "GameDate": "1981-05-09",
+    "GameState": "OFF",
+    "Round": 3,
+    "SeriesMatchup": 2,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "HomeTeam": {
+      "Abbrev": "MNS",
+      "PlaceName": "Minnesota",
+      "CommonName": "North Stars",
+      "FullName": "Minnesota North Stars",
+      "Country": "USA",
+      "Pim": 19
+    },
+    "TotalPim": 38,
+    "PimSource": "playerByGameStats sum"
+  }
+]

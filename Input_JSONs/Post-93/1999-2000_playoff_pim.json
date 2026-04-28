@@ -1,0 +1,310 @@
+[
+  {
+    "Season": "1999-2000",
+    "SeasonStartYear": 1999,
+    "GameId": 1999030161,
+    "GameDate": "2000-04-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1999-2000",
+    "SeasonStartYear": 1999,
+    "GameId": 1999030162,
+    "GameDate": "2000-04-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1999-2000",
+    "SeasonStartYear": 1999,
+    "GameId": 1999030163,
+    "GameDate": "2000-04-16",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 38
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 44
+    },
+    "TotalPim": 82,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1999-2000",
+    "SeasonStartYear": 1999,
+    "GameId": 1999030164,
+    "GameDate": "2000-04-18",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 26
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1999-2000",
+    "SeasonStartYear": 1999,
+    "GameId": 1999030165,
+    "GameDate": "2000-04-21",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "DAL",
+      "PlaceName": "Dallas",
+      "CommonName": "Stars",
+      "FullName": "Dallas Stars",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 20,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1999-2000",
+    "SeasonStartYear": 1999,
+    "GameId": 1999030221,
+    "GameDate": "2000-04-27",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1999-2000",
+    "SeasonStartYear": 1999,
+    "GameId": 1999030222,
+    "GameDate": "2000-04-29",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1999-2000",
+    "SeasonStartYear": 1999,
+    "GameId": 1999030223,
+    "GameDate": "2000-05-01",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 24,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1999-2000",
+    "SeasonStartYear": 1999,
+    "GameId": 1999030224,
+    "GameDate": "2000-05-03",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1999-2000",
+    "SeasonStartYear": 1999,
+    "GameId": 1999030225,
+    "GameDate": "2000-05-06",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1999-2000",
+    "SeasonStartYear": 1999,
+    "GameId": 1999030226,
+    "GameDate": "2000-05-08",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 2,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 13
+    },
+    "HomeTeam": {
+      "Abbrev": "NJD",
+      "PlaceName": "New Jersey",
+      "CommonName": "Devils",
+      "FullName": "New Jersey Devils",
+      "Country": "USA",
+      "Pim": 9
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  }
+]

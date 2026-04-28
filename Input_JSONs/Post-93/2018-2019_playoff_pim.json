@@ -1,0 +1,506 @@
+[
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030121,
+    "GameDate": "2019-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "TotalPim": 6,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030122,
+    "GameDate": "2019-04-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 21
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 29,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030123,
+    "GameDate": "2019-04-15",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030124,
+    "GameDate": "2019-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030125,
+    "GameDate": "2019-04-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 0
+    },
+    "TotalPim": 6,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030126,
+    "GameDate": "2019-04-21",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030127,
+    "GameDate": "2019-04-23",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 0
+    },
+    "HomeTeam": {
+      "Abbrev": "BOS",
+      "PlaceName": "Boston",
+      "CommonName": "Bruins",
+      "FullName": "Boston Bruins",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "TotalPim": 2,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030161,
+    "GameDate": "2019-04-10",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030162,
+    "GameDate": "2019-04-12",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 14,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030163,
+    "GameDate": "2019-04-14",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030164,
+    "GameDate": "2019-04-16",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "TotalPim": 6,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030165,
+    "GameDate": "2019-04-18",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030166,
+    "GameDate": "2019-04-20",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 6,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "STL",
+      "PlaceName": "St. Louis",
+      "CommonName": "Blues",
+      "FullName": "St. Louis Blues",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030171,
+    "GameDate": "2019-04-11",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030172,
+    "GameDate": "2019-04-13",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030173,
+    "GameDate": "2019-04-15",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 48
+    },
+    "HomeTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 36
+    },
+    "TotalPim": 84,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030174,
+    "GameDate": "2019-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2018-2019",
+    "SeasonStartYear": 2018,
+    "GameId": 2018030175,
+    "GameDate": "2019-04-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "COL",
+      "PlaceName": "Colorado",
+      "CommonName": "Avalanche",
+      "FullName": "Colorado Avalanche",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "CGY",
+      "PlaceName": "Calgary",
+      "CommonName": "Flames",
+      "FullName": "Calgary Flames",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  }
+]

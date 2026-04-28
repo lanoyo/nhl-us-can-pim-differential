@@ -1,0 +1,786 @@
+[
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030121,
+    "GameDate": "2023-04-18",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 23
+    },
+    "TotalPim": 31,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030122,
+    "GameDate": "2023-04-20",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 49
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 23
+    },
+    "TotalPim": 72,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030123,
+    "GameDate": "2023-04-22",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030124,
+    "GameDate": "2023-04-24",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030125,
+    "GameDate": "2023-04-27",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030126,
+    "GameDate": "2023-04-29",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 2,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "TBL",
+      "PlaceName": "Tampa Bay",
+      "CommonName": "Lightning",
+      "FullName": "Tampa Bay Lightning",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030171,
+    "GameDate": "2023-04-18",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "TotalPim": 30,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030172,
+    "GameDate": "2023-04-20",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030173,
+    "GameDate": "2023-04-22",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 17
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 19
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030174,
+    "GameDate": "2023-04-24",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030175,
+    "GameDate": "2023-04-27",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 7,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "WPG",
+      "PlaceName": "Winnipeg",
+      "CommonName": "Jets",
+      "FullName": "Winnipeg Jets",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030181,
+    "GameDate": "2023-04-17",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030182,
+    "GameDate": "2023-04-19",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 2
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030183,
+    "GameDate": "2023-04-21",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 14
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 26,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030184,
+    "GameDate": "2023-04-23",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030185,
+    "GameDate": "2023-04-25",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "TotalPim": 28,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030186,
+    "GameDate": "2023-04-29",
+    "GameState": "OFF",
+    "Round": 1,
+    "SeriesMatchup": 8,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "LAK",
+      "PlaceName": "Los Angeles",
+      "CommonName": "Kings",
+      "FullName": "Los Angeles Kings",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "TotalPim": 10,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030211,
+    "GameDate": "2023-05-02",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "FLA",
+      "PlaceName": "Florida",
+      "CommonName": "Panthers",
+      "FullName": "Florida Panthers",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "TotalPim": 12,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030212,
+    "GameDate": "2023-05-04",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "FLA",
+      "PlaceName": "Florida",
+      "CommonName": "Panthers",
+      "FullName": "Florida Panthers",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 2
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030213,
+    "GameDate": "2023-05-07",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "FLA",
+      "PlaceName": "Florida",
+      "CommonName": "Panthers",
+      "FullName": "Florida Panthers",
+      "Country": "USA",
+      "Pim": 0
+    },
+    "TotalPim": 4,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030214,
+    "GameDate": "2023-05-10",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 16
+    },
+    "HomeTeam": {
+      "Abbrev": "FLA",
+      "PlaceName": "Florida",
+      "CommonName": "Panthers",
+      "FullName": "Florida Panthers",
+      "Country": "USA",
+      "Pim": 26
+    },
+    "TotalPim": 42,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030215,
+    "GameDate": "2023-05-12",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "FLA",
+      "PlaceName": "Florida",
+      "CommonName": "Panthers",
+      "FullName": "Florida Panthers",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030241,
+    "GameDate": "2023-05-03",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030242,
+    "GameDate": "2023-05-06",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 54
+    },
+    "HomeTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 68
+    },
+    "TotalPim": 122,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030243,
+    "GameDate": "2023-05-08",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 6
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 16,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030244,
+    "GameDate": "2023-05-10",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 62
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 47
+    },
+    "TotalPim": 109,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030245,
+    "GameDate": "2023-05-12",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 21
+    },
+    "TotalPim": 33,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "2022-2023",
+    "SeasonStartYear": 2022,
+    "GameId": 2022030246,
+    "GameDate": "2023-05-14",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 4,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "VGK",
+      "PlaceName": "Vegas",
+      "CommonName": "Golden Knights",
+      "FullName": "Vegas Golden Knights",
+      "Country": "USA",
+      "Pim": 4
+    },
+    "HomeTeam": {
+      "Abbrev": "EDM",
+      "PlaceName": "Edmonton",
+      "CommonName": "Oilers",
+      "FullName": "Edmonton Oilers",
+      "Country": "Canada",
+      "Pim": 4
+    },
+    "TotalPim": 8,
+    "PimSource": "playerByGameStats sum"
+  }
+]

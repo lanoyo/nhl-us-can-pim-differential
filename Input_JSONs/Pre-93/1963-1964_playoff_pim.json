@@ -1,0 +1,198 @@
+[
+  {
+    "Season": "1963-1964",
+    "SeasonStartYear": 1963,
+    "GameId": 1963030211,
+    "GameDate": "1964-04-11",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 1,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 32
+    },
+    "TotalPim": 50,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1963-1964",
+    "SeasonStartYear": 1963,
+    "GameId": 1963030212,
+    "GameDate": "1964-04-14",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 2,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 22,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1963-1964",
+    "SeasonStartYear": 1963,
+    "GameId": 1963030213,
+    "GameDate": "1964-04-16",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 3,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1963-1964",
+    "SeasonStartYear": 1963,
+    "GameId": 1963030214,
+    "GameDate": "1964-04-18",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 4,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 24
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "TotalPim": 36,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1963-1964",
+    "SeasonStartYear": 1963,
+    "GameId": 1963030215,
+    "GameDate": "1964-04-21",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 5,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 12
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 6
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1963-1964",
+    "SeasonStartYear": 1963,
+    "GameId": 1963030216,
+    "GameDate": "1964-04-23",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 6,
+    "AwayTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 18
+    },
+    "HomeTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 14
+    },
+    "TotalPim": 32,
+    "PimSource": "playerByGameStats sum"
+  },
+  {
+    "Season": "1963-1964",
+    "SeasonStartYear": 1963,
+    "GameId": 1963030217,
+    "GameDate": "1964-04-25",
+    "GameState": "OFF",
+    "Round": 2,
+    "SeriesMatchup": 1,
+    "SeriesGame": 7,
+    "AwayTeam": {
+      "Abbrev": "DET",
+      "PlaceName": "Detroit",
+      "CommonName": "Red Wings",
+      "FullName": "Detroit Red Wings",
+      "Country": "USA",
+      "Pim": 8
+    },
+    "HomeTeam": {
+      "Abbrev": "TOR",
+      "PlaceName": "Toronto",
+      "CommonName": "Maple Leafs",
+      "FullName": "Toronto Maple Leafs",
+      "Country": "Canada",
+      "Pim": 10
+    },
+    "TotalPim": 18,
+    "PimSource": "playerByGameStats sum"
+  }
+]
