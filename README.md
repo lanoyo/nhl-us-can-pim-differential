@@ -8,11 +8,11 @@ I then divided the US's PIM total by Canada's PIM total to get the differential.
 
 Result: A PIM differential of 1 would mean that both the US and Canada had equal penalty minutes. A <1 would indicate that the US teams had less penalty minutes than the Canada teams. 
 As you can see from the output:
-Pre-93 - PIM Differential of ~.935, which means the US got 93.5% of the penalty minutes that Canada did.
-Post-93 - PIM Differential of ~1.013, which means that the US got 101.3% of the penalty minutes that Canada did. 
+Pre-93 - PIM Differential of ~1.013, which means that the US got 101.3% of the penalty minutes that Canada did. 
+Post-93 - PIM Differential of ~.935, which means the US got 93.5% of the penalty minutes that Canada did.
 
 Conclusion:
-As the official NHL data clearly shows, the US teams have gotten slightly more penalty minutes since 93' when Bettman became commissioner. 
+As the official NHL data shows, the US teams, on average, are getting ~6.5% fewer penalties than the Canadian teams post-Bettman. I will note that I was not able to reasonably account for some outlier data like teams that switched countries.
 
 Note: I am not a professional data analyst or statistician, just a hobby programmer who loves hockey. While I did my best to check my work, it is always possible that I made a mistake. I have included the exported JSONs and CSV files if anyone else would like to check my work, in fact I
 would appreciate it as it has been 8+ years since my statistics class in University and am quite rusty. It is not my intention to disparage anyone, or to bring negative attention to anyone. I operated with the sole intention of bringing the data to confirm the information that was being 
