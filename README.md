@@ -1,3 +1,4 @@
+# I removed the program files I uploaded as I had accidentally left some personal info in the file paths hard-coded into the files. If requested, I can clean them and re-upload them #
 The purpose of these 2 programs is to grab data from the NHL API. I specifically retrieved the data on all playoff games from the 1963-1993 seasons, and the 1993-2025 seasons where a US team faced a Canada team.
 
 My intent was to get the actual backing data to verify the claims made by u/ccrypt524 on Reddit, who claims that since Gary Bettman took over the NHL, that Canadian teams have gotten disproportionately more penalties than the US teams when in a direct match-up. 
