@@ -1,0 +1,1317 @@
+﻿Season,SeasonStartYear,GameDate,GameId,GameState,Round,SeriesMatchup,SeriesGame,TeamAbbrev,TeamName,TeamCountry,IsHomeTeam,OpponentAbbrev,OpponentName,OpponentCountry,TeamPim,OpponentPim,TotalGamePim,PimSource
+1963-1964,1963,1964-04-11,1963030211,OFF,2,1,1,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,18,32,50,playerByGameStats sum
+1963-1964,1963,1964-04-11,1963030211,OFF,2,1,1,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,32,18,50,playerByGameStats sum
+1963-1964,1963,1964-04-14,1963030212,OFF,2,1,2,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,12,10,22,playerByGameStats sum
+1963-1964,1963,1964-04-14,1963030212,OFF,2,1,2,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,10,12,22,playerByGameStats sum
+1963-1964,1963,1964-04-16,1963030213,OFF,2,1,3,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,8,10,18,playerByGameStats sum
+1963-1964,1963,1964-04-16,1963030213,OFF,2,1,3,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,10,8,18,playerByGameStats sum
+1963-1964,1963,1964-04-18,1963030214,OFF,2,1,4,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,24,12,36,playerByGameStats sum
+1963-1964,1963,1964-04-18,1963030214,OFF,2,1,4,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,12,24,36,playerByGameStats sum
+1963-1964,1963,1964-04-21,1963030215,OFF,2,1,5,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,12,6,18,playerByGameStats sum
+1963-1964,1963,1964-04-21,1963030215,OFF,2,1,5,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,6,12,18,playerByGameStats sum
+1963-1964,1963,1964-04-23,1963030216,OFF,2,1,6,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,18,14,32,playerByGameStats sum
+1963-1964,1963,1964-04-23,1963030216,OFF,2,1,6,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,14,18,32,playerByGameStats sum
+1963-1964,1963,1964-04-25,1963030217,OFF,2,1,7,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,8,10,18,playerByGameStats sum
+1963-1964,1963,1964-04-25,1963030217,OFF,2,1,7,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,10,8,18,playerByGameStats sum
+1964-1965,1964,1965-04-17,1964030211,OFF,2,1,1,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,14,18,32,playerByGameStats sum
+1964-1965,1964,1965-04-17,1964030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,18,14,32,playerByGameStats sum
+1964-1965,1964,1965-04-20,1964030212,OFF,2,1,2,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,22,20,42,playerByGameStats sum
+1964-1965,1964,1965-04-20,1964030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,20,22,42,playerByGameStats sum
+1964-1965,1964,1965-04-22,1964030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,30,18,48,playerByGameStats sum
+1964-1965,1964,1965-04-22,1964030213,OFF,2,1,3,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,18,30,48,playerByGameStats sum
+1964-1965,1964,1965-04-25,1964030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,38,18,56,playerByGameStats sum
+1964-1965,1964,1965-04-25,1964030214,OFF,2,1,4,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,18,38,56,playerByGameStats sum
+1964-1965,1964,1965-04-27,1964030215,OFF,2,1,5,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,22,23,45,playerByGameStats sum
+1964-1965,1964,1965-04-27,1964030215,OFF,2,1,5,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,23,22,45,playerByGameStats sum
+1964-1965,1964,1965-04-29,1964030216,OFF,2,1,6,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,34,32,66,playerByGameStats sum
+1964-1965,1964,1965-04-29,1964030216,OFF,2,1,6,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,32,34,66,playerByGameStats sum
+1964-1965,1964,1965-05-01,1964030217,OFF,2,1,7,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,16,22,38,playerByGameStats sum
+1964-1965,1964,1965-05-01,1964030217,OFF,2,1,7,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,22,16,38,playerByGameStats sum
+1965-1966,1965,1966-04-24,1965030211,OFF,2,1,1,DET,Detroit Red Wings,USA,False,MTL,Montréal Canadiens,Canada,4,2,6,playerByGameStats sum
+1965-1966,1965,1966-04-24,1965030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,DET,Detroit Red Wings,USA,2,4,6,playerByGameStats sum
+1965-1966,1965,1966-04-26,1965030212,OFF,2,1,2,DET,Detroit Red Wings,USA,False,MTL,Montréal Canadiens,Canada,14,16,30,playerByGameStats sum
+1965-1966,1965,1966-04-26,1965030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,DET,Detroit Red Wings,USA,16,14,30,playerByGameStats sum
+1965-1966,1965,1966-04-28,1965030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,DET,Detroit Red Wings,USA,18,10,28,playerByGameStats sum
+1965-1966,1965,1966-04-28,1965030213,OFF,2,1,3,DET,Detroit Red Wings,USA,True,MTL,Montréal Canadiens,Canada,10,18,28,playerByGameStats sum
+1965-1966,1965,1966-05-01,1965030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,DET,Detroit Red Wings,USA,8,12,20,playerByGameStats sum
+1965-1966,1965,1966-05-01,1965030214,OFF,2,1,4,DET,Detroit Red Wings,USA,True,MTL,Montréal Canadiens,Canada,12,8,20,playerByGameStats sum
+1965-1966,1965,1966-05-03,1965030215,OFF,2,1,5,DET,Detroit Red Wings,USA,False,MTL,Montréal Canadiens,Canada,12,8,20,playerByGameStats sum
+1965-1966,1965,1966-05-03,1965030215,OFF,2,1,5,MTL,Montréal Canadiens,Canada,True,DET,Detroit Red Wings,USA,8,12,20,playerByGameStats sum
+1965-1966,1965,1966-05-05,1965030216,OFF,2,1,6,MTL,Montréal Canadiens,Canada,False,DET,Detroit Red Wings,USA,14,10,24,playerByGameStats sum
+1965-1966,1965,1966-05-05,1965030216,OFF,2,1,6,DET,Detroit Red Wings,USA,True,MTL,Montréal Canadiens,Canada,10,14,24,playerByGameStats sum
+1966-1967,1966,1967-04-06,1966030111,OFF,1,1,1,TOR,Toronto Maple Leafs,Canada,False,CHI,Chicago Blackhawks,USA,21,33,54,playerByGameStats sum
+1966-1967,1966,1967-04-06,1966030111,OFF,1,1,1,CHI,Chicago Blackhawks,USA,True,TOR,Toronto Maple Leafs,Canada,33,21,54,playerByGameStats sum
+1966-1967,1966,1967-04-06,1966030121,OFF,1,2,1,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,10,11,21,playerByGameStats sum
+1966-1967,1966,1967-04-06,1966030121,OFF,1,2,1,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,11,10,21,playerByGameStats sum
+1966-1967,1966,1967-04-08,1966030122,OFF,1,2,2,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,12,24,36,playerByGameStats sum
+1966-1967,1966,1967-04-08,1966030122,OFF,1,2,2,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,24,12,36,playerByGameStats sum
+1966-1967,1966,1967-04-09,1966030112,OFF,1,1,2,TOR,Toronto Maple Leafs,Canada,False,CHI,Chicago Blackhawks,USA,4,4,8,playerByGameStats sum
+1966-1967,1966,1967-04-09,1966030112,OFF,1,1,2,CHI,Chicago Blackhawks,USA,True,TOR,Toronto Maple Leafs,Canada,4,4,8,playerByGameStats sum
+1966-1967,1966,1967-04-11,1966030113,OFF,1,1,3,CHI,Chicago Blackhawks,USA,False,TOR,Toronto Maple Leafs,Canada,8,10,18,playerByGameStats sum
+1966-1967,1966,1967-04-11,1966030113,OFF,1,1,3,TOR,Toronto Maple Leafs,Canada,True,CHI,Chicago Blackhawks,USA,10,8,18,playerByGameStats sum
+1966-1967,1966,1967-04-11,1966030123,OFF,1,2,3,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,6,8,14,playerByGameStats sum
+1966-1967,1966,1967-04-11,1966030123,OFF,1,2,3,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,8,6,14,playerByGameStats sum
+1966-1967,1966,1967-04-13,1966030114,OFF,1,1,4,CHI,Chicago Blackhawks,USA,False,TOR,Toronto Maple Leafs,Canada,12,12,24,playerByGameStats sum
+1966-1967,1966,1967-04-13,1966030114,OFF,1,1,4,TOR,Toronto Maple Leafs,Canada,True,CHI,Chicago Blackhawks,USA,12,12,24,playerByGameStats sum
+1966-1967,1966,1967-04-13,1966030124,OFF,1,2,4,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,24,26,50,playerByGameStats sum
+1966-1967,1966,1967-04-13,1966030124,OFF,1,2,4,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,26,24,50,playerByGameStats sum
+1966-1967,1966,1967-04-15,1966030115,OFF,1,1,5,TOR,Toronto Maple Leafs,Canada,False,CHI,Chicago Blackhawks,USA,20,18,38,playerByGameStats sum
+1966-1967,1966,1967-04-15,1966030115,OFF,1,1,5,CHI,Chicago Blackhawks,USA,True,TOR,Toronto Maple Leafs,Canada,18,20,38,playerByGameStats sum
+1966-1967,1966,1967-04-18,1966030116,OFF,1,1,6,CHI,Chicago Blackhawks,USA,False,TOR,Toronto Maple Leafs,Canada,6,4,10,playerByGameStats sum
+1966-1967,1966,1967-04-18,1966030116,OFF,1,1,6,TOR,Toronto Maple Leafs,Canada,True,CHI,Chicago Blackhawks,USA,4,6,10,playerByGameStats sum
+1967-1968,1967,1968-04-04,1967030111,OFF,1,1,1,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,20,30,50,playerByGameStats sum
+1967-1968,1967,1968-04-04,1967030111,OFF,1,1,1,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,30,20,50,playerByGameStats sum
+1967-1968,1967,1968-04-06,1967030112,OFF,1,1,2,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,10,10,20,playerByGameStats sum
+1967-1968,1967,1968-04-06,1967030112,OFF,1,1,2,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,10,10,20,playerByGameStats sum
+1967-1968,1967,1968-04-09,1967030113,OFF,1,1,3,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,6,12,18,playerByGameStats sum
+1967-1968,1967,1968-04-09,1967030113,OFF,1,1,3,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,12,6,18,playerByGameStats sum
+1967-1968,1967,1968-04-11,1967030114,OFF,1,1,4,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,12,14,26,playerByGameStats sum
+1967-1968,1967,1968-04-11,1967030114,OFF,1,1,4,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,14,12,26,playerByGameStats sum
+1967-1968,1967,1968-04-18,1967030211,OFF,2,1,1,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,4,8,12,playerByGameStats sum
+1967-1968,1967,1968-04-18,1967030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,8,4,12,playerByGameStats sum
+1967-1968,1967,1968-04-20,1967030212,OFF,2,1,2,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,8,14,22,playerByGameStats sum
+1967-1968,1967,1968-04-20,1967030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,14,8,22,playerByGameStats sum
+1967-1968,1967,1968-04-23,1967030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,8,6,14,playerByGameStats sum
+1967-1968,1967,1968-04-23,1967030213,OFF,2,1,3,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,6,8,14,playerByGameStats sum
+1967-1968,1967,1968-04-25,1967030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,12,6,18,playerByGameStats sum
+1967-1968,1967,1968-04-25,1967030214,OFF,2,1,4,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,6,12,18,playerByGameStats sum
+1967-1968,1967,1968-04-28,1967030215,OFF,2,1,5,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,12,12,24,playerByGameStats sum
+1967-1968,1967,1968-04-28,1967030215,OFF,2,1,5,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,12,12,24,playerByGameStats sum
+1967-1968,1967,1968-05-05,1967030311,OFF,3,1,1,MTL,Montréal Canadiens,Canada,False,STL,St. Louis Blues,USA,8,10,18,playerByGameStats sum
+1967-1968,1967,1968-05-05,1967030311,OFF,3,1,1,STL,St. Louis Blues,USA,True,MTL,Montréal Canadiens,Canada,10,8,18,playerByGameStats sum
+1967-1968,1967,1968-05-07,1967030312,OFF,3,1,2,MTL,Montréal Canadiens,Canada,False,STL,St. Louis Blues,USA,16,15,31,playerByGameStats sum
+1967-1968,1967,1968-05-07,1967030312,OFF,3,1,2,STL,St. Louis Blues,USA,True,MTL,Montréal Canadiens,Canada,15,16,31,playerByGameStats sum
+1967-1968,1967,1968-05-09,1967030313,OFF,3,1,3,STL,St. Louis Blues,USA,False,MTL,Montréal Canadiens,Canada,20,4,24,playerByGameStats sum
+1967-1968,1967,1968-05-09,1967030313,OFF,3,1,3,MTL,Montréal Canadiens,Canada,True,STL,St. Louis Blues,USA,4,20,24,playerByGameStats sum
+1967-1968,1967,1968-05-11,1967030314,OFF,3,1,4,STL,St. Louis Blues,USA,False,MTL,Montréal Canadiens,Canada,12,12,24,playerByGameStats sum
+1967-1968,1967,1968-05-11,1967030314,OFF,3,1,4,MTL,Montréal Canadiens,Canada,True,STL,St. Louis Blues,USA,12,12,24,playerByGameStats sum
+1968-1969,1968,1969-04-02,1968030111,OFF,1,1,1,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,4,8,12,playerByGameStats sum
+1968-1969,1968,1969-04-02,1968030111,OFF,1,1,1,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,8,4,12,playerByGameStats sum
+1968-1969,1968,1969-04-02,1968030121,OFF,1,2,1,TOR,Toronto Maple Leafs,Canada,False,BOS,Boston Bruins,USA,79,56,135,playerByGameStats sum
+1968-1969,1968,1969-04-02,1968030121,OFF,1,2,1,BOS,Boston Bruins,USA,True,TOR,Toronto Maple Leafs,Canada,56,79,135,playerByGameStats sum
+1968-1969,1968,1969-04-03,1968030112,OFF,1,1,2,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,6,8,14,playerByGameStats sum
+1968-1969,1968,1969-04-03,1968030112,OFF,1,1,2,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,8,6,14,playerByGameStats sum
+1968-1969,1968,1969-04-03,1968030122,OFF,1,2,2,TOR,Toronto Maple Leafs,Canada,False,BOS,Boston Bruins,USA,13,17,30,playerByGameStats sum
+1968-1969,1968,1969-04-03,1968030122,OFF,1,2,2,BOS,Boston Bruins,USA,True,TOR,Toronto Maple Leafs,Canada,17,13,30,playerByGameStats sum
+1968-1969,1968,1969-04-05,1968030113,OFF,1,1,3,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,55,28,83,playerByGameStats sum
+1968-1969,1968,1969-04-05,1968030113,OFF,1,1,3,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,28,55,83,playerByGameStats sum
+1968-1969,1968,1969-04-05,1968030123,OFF,1,2,3,BOS,Boston Bruins,USA,False,TOR,Toronto Maple Leafs,Canada,23,15,38,playerByGameStats sum
+1968-1969,1968,1969-04-05,1968030123,OFF,1,2,3,TOR,Toronto Maple Leafs,Canada,True,BOS,Boston Bruins,USA,15,23,38,playerByGameStats sum
+1968-1969,1968,1969-04-06,1968030114,OFF,1,1,4,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,0,0,0,playerByGameStats sum
+1968-1969,1968,1969-04-06,1968030114,OFF,1,1,4,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,0,0,0,playerByGameStats sum
+1968-1969,1968,1969-04-06,1968030124,OFF,1,2,4,BOS,Boston Bruins,USA,False,TOR,Toronto Maple Leafs,Canada,22,12,34,playerByGameStats sum
+1968-1969,1968,1969-04-06,1968030124,OFF,1,2,4,TOR,Toronto Maple Leafs,Canada,True,BOS,Boston Bruins,USA,12,22,34,playerByGameStats sum
+1968-1969,1968,1969-04-10,1968030211,OFF,2,1,1,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,26,22,48,playerByGameStats sum
+1968-1969,1968,1969-04-10,1968030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,22,26,48,playerByGameStats sum
+1968-1969,1968,1969-04-13,1968030212,OFF,2,1,2,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,16,8,24,playerByGameStats sum
+1968-1969,1968,1969-04-13,1968030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,8,16,24,playerByGameStats sum
+1968-1969,1968,1969-04-17,1968030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,8,8,16,playerByGameStats sum
+1968-1969,1968,1969-04-17,1968030213,OFF,2,1,3,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,8,8,16,playerByGameStats sum
+1968-1969,1968,1969-04-20,1968030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,21,29,50,playerByGameStats sum
+1968-1969,1968,1969-04-20,1968030214,OFF,2,1,4,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,29,21,50,playerByGameStats sum
+1968-1969,1968,1969-04-22,1968030215,OFF,2,1,5,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,12,16,28,playerByGameStats sum
+1968-1969,1968,1969-04-22,1968030215,OFF,2,1,5,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,16,12,28,playerByGameStats sum
+1968-1969,1968,1969-04-24,1968030216,OFF,2,1,6,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,17,17,34,playerByGameStats sum
+1968-1969,1968,1969-04-24,1968030216,OFF,2,1,6,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,17,17,34,playerByGameStats sum
+1968-1969,1968,1969-04-27,1968030311,OFF,3,1,1,STL,St. Louis Blues,USA,False,MTL,Montréal Canadiens,Canada,12,26,38,playerByGameStats sum
+1968-1969,1968,1969-04-27,1968030311,OFF,3,1,1,MTL,Montréal Canadiens,Canada,True,STL,St. Louis Blues,USA,26,12,38,playerByGameStats sum
+1968-1969,1968,1969-04-29,1968030312,OFF,3,1,2,STL,St. Louis Blues,USA,False,MTL,Montréal Canadiens,Canada,16,30,46,playerByGameStats sum
+1968-1969,1968,1969-04-29,1968030312,OFF,3,1,2,MTL,Montréal Canadiens,Canada,True,STL,St. Louis Blues,USA,30,16,46,playerByGameStats sum
+1968-1969,1968,1969-05-01,1968030313,OFF,3,1,3,MTL,Montréal Canadiens,Canada,False,STL,St. Louis Blues,USA,10,8,18,playerByGameStats sum
+1968-1969,1968,1969-05-01,1968030313,OFF,3,1,3,STL,St. Louis Blues,USA,True,MTL,Montréal Canadiens,Canada,8,10,18,playerByGameStats sum
+1968-1969,1968,1969-05-04,1968030314,OFF,3,1,4,MTL,Montréal Canadiens,Canada,False,STL,St. Louis Blues,USA,18,18,36,playerByGameStats sum
+1968-1969,1968,1969-05-04,1968030314,OFF,3,1,4,STL,St. Louis Blues,USA,True,MTL,Montréal Canadiens,Canada,18,18,36,playerByGameStats sum
+1970-1971,1970,1971-04-07,1970030111,OFF,1,1,1,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,34,38,72,playerByGameStats sum
+1970-1971,1970,1971-04-07,1970030111,OFF,1,1,1,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,38,34,72,playerByGameStats sum
+1970-1971,1970,1971-04-07,1970030121,OFF,1,2,1,TOR,Toronto Maple Leafs,Canada,False,NYR,New York Rangers,USA,16,14,30,playerByGameStats sum
+1970-1971,1970,1971-04-07,1970030121,OFF,1,2,1,NYR,New York Rangers,USA,True,TOR,Toronto Maple Leafs,Canada,14,16,30,playerByGameStats sum
+1970-1971,1970,1971-04-08,1970030112,OFF,1,1,2,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,19,39,58,playerByGameStats sum
+1970-1971,1970,1971-04-08,1970030112,OFF,1,1,2,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,39,19,58,playerByGameStats sum
+1970-1971,1970,1971-04-08,1970030122,OFF,1,2,2,TOR,Toronto Maple Leafs,Canada,False,NYR,New York Rangers,USA,81,87,168,playerByGameStats sum
+1970-1971,1970,1971-04-08,1970030122,OFF,1,2,2,NYR,New York Rangers,USA,True,TOR,Toronto Maple Leafs,Canada,87,81,168,playerByGameStats sum
+1970-1971,1970,1971-04-10,1970030113,OFF,1,1,3,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,19,21,40,playerByGameStats sum
+1970-1971,1970,1971-04-10,1970030113,OFF,1,1,3,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,21,19,40,playerByGameStats sum
+1970-1971,1970,1971-04-10,1970030123,OFF,1,2,3,NYR,New York Rangers,USA,False,TOR,Toronto Maple Leafs,Canada,14,16,30,playerByGameStats sum
+1970-1971,1970,1971-04-10,1970030123,OFF,1,2,3,TOR,Toronto Maple Leafs,Canada,True,NYR,New York Rangers,USA,16,14,30,playerByGameStats sum
+1970-1971,1970,1971-04-11,1970030114,OFF,1,1,4,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,21,25,46,playerByGameStats sum
+1970-1971,1970,1971-04-11,1970030114,OFF,1,1,4,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,25,21,46,playerByGameStats sum
+1970-1971,1970,1971-04-11,1970030124,OFF,1,2,4,NYR,New York Rangers,USA,False,TOR,Toronto Maple Leafs,Canada,18,10,28,playerByGameStats sum
+1970-1971,1970,1971-04-11,1970030124,OFF,1,2,4,TOR,Toronto Maple Leafs,Canada,True,NYR,New York Rangers,USA,10,18,28,playerByGameStats sum
+1970-1971,1970,1971-04-13,1970030115,OFF,1,1,5,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,23,29,52,playerByGameStats sum
+1970-1971,1970,1971-04-13,1970030115,OFF,1,1,5,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,29,23,52,playerByGameStats sum
+1970-1971,1970,1971-04-13,1970030125,OFF,1,2,5,TOR,Toronto Maple Leafs,Canada,False,NYR,New York Rangers,USA,6,22,28,playerByGameStats sum
+1970-1971,1970,1971-04-13,1970030125,OFF,1,2,5,NYR,New York Rangers,USA,True,TOR,Toronto Maple Leafs,Canada,22,6,28,playerByGameStats sum
+1970-1971,1970,1971-04-15,1970030116,OFF,1,1,6,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,26,24,50,playerByGameStats sum
+1970-1971,1970,1971-04-15,1970030116,OFF,1,1,6,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,24,26,50,playerByGameStats sum
+1970-1971,1970,1971-04-15,1970030126,OFF,1,2,6,NYR,New York Rangers,USA,False,TOR,Toronto Maple Leafs,Canada,22,18,40,playerByGameStats sum
+1970-1971,1970,1971-04-15,1970030126,OFF,1,2,6,TOR,Toronto Maple Leafs,Canada,True,NYR,New York Rangers,USA,18,22,40,playerByGameStats sum
+1970-1971,1970,1971-04-18,1970030117,OFF,1,1,7,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,22,18,40,playerByGameStats sum
+1970-1971,1970,1971-04-18,1970030117,OFF,1,1,7,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,18,22,40,playerByGameStats sum
+1970-1971,1970,1971-04-20,1970030211,OFF,2,1,1,MNS,Minnesota North Stars,USA,False,MTL,Montréal Canadiens,Canada,10,8,18,playerByGameStats sum
+1970-1971,1970,1971-04-20,1970030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,MNS,Minnesota North Stars,USA,8,10,18,playerByGameStats sum
+1970-1971,1970,1971-04-22,1970030212,OFF,2,1,2,MNS,Minnesota North Stars,USA,False,MTL,Montréal Canadiens,Canada,15,17,32,playerByGameStats sum
+1970-1971,1970,1971-04-22,1970030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,MNS,Minnesota North Stars,USA,17,15,32,playerByGameStats sum
+1970-1971,1970,1971-04-24,1970030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,MNS,Minnesota North Stars,USA,17,13,30,playerByGameStats sum
+1970-1971,1970,1971-04-24,1970030213,OFF,2,1,3,MNS,Minnesota North Stars,USA,True,MTL,Montréal Canadiens,Canada,13,17,30,playerByGameStats sum
+1970-1971,1970,1971-04-25,1970030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,MNS,Minnesota North Stars,USA,11,7,18,playerByGameStats sum
+1970-1971,1970,1971-04-25,1970030214,OFF,2,1,4,MNS,Minnesota North Stars,USA,True,MTL,Montréal Canadiens,Canada,7,11,18,playerByGameStats sum
+1970-1971,1970,1971-04-27,1970030215,OFF,2,1,5,MNS,Minnesota North Stars,USA,False,MTL,Montréal Canadiens,Canada,10,12,22,playerByGameStats sum
+1970-1971,1970,1971-04-27,1970030215,OFF,2,1,5,MTL,Montréal Canadiens,Canada,True,MNS,Minnesota North Stars,USA,12,10,22,playerByGameStats sum
+1970-1971,1970,1971-04-29,1970030216,OFF,2,1,6,MTL,Montréal Canadiens,Canada,False,MNS,Minnesota North Stars,USA,6,8,14,playerByGameStats sum
+1970-1971,1970,1971-04-29,1970030216,OFF,2,1,6,MNS,Minnesota North Stars,USA,True,MTL,Montréal Canadiens,Canada,8,6,14,playerByGameStats sum
+1970-1971,1970,1971-05-04,1970030311,OFF,3,1,1,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,12,10,22,playerByGameStats sum
+1970-1971,1970,1971-05-04,1970030311,OFF,3,1,1,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,10,12,22,playerByGameStats sum
+1970-1971,1970,1971-05-06,1970030312,OFF,3,1,2,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,8,10,18,playerByGameStats sum
+1970-1971,1970,1971-05-06,1970030312,OFF,3,1,2,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,10,8,18,playerByGameStats sum
+1970-1971,1970,1971-05-09,1970030313,OFF,3,1,3,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,34,24,58,playerByGameStats sum
+1970-1971,1970,1971-05-09,1970030313,OFF,3,1,3,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,24,34,58,playerByGameStats sum
+1970-1971,1970,1971-05-11,1970030314,OFF,3,1,4,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,61,49,110,playerByGameStats sum
+1970-1971,1970,1971-05-11,1970030314,OFF,3,1,4,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,49,61,110,playerByGameStats sum
+1970-1971,1970,1971-05-13,1970030315,OFF,3,1,5,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,17,19,36,playerByGameStats sum
+1970-1971,1970,1971-05-13,1970030315,OFF,3,1,5,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,19,17,36,playerByGameStats sum
+1970-1971,1970,1971-05-16,1970030316,OFF,3,1,6,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,8,14,22,playerByGameStats sum
+1970-1971,1970,1971-05-16,1970030316,OFF,3,1,6,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,14,8,22,playerByGameStats sum
+1970-1971,1970,1971-05-18,1970030317,OFF,3,1,7,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,16,12,28,playerByGameStats sum
+1970-1971,1970,1971-05-18,1970030317,OFF,3,1,7,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,12,16,28,playerByGameStats sum
+1971-1972,1971,1972-04-05,1971030111,OFF,1,1,1,TOR,Toronto Maple Leafs,Canada,False,BOS,Boston Bruins,USA,13,23,36,playerByGameStats sum
+1971-1972,1971,1972-04-05,1971030111,OFF,1,1,1,BOS,Boston Bruins,USA,True,TOR,Toronto Maple Leafs,Canada,23,13,36,playerByGameStats sum
+1971-1972,1971,1972-04-05,1971030121,OFF,1,2,1,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,10,12,22,playerByGameStats sum
+1971-1972,1971,1972-04-05,1971030121,OFF,1,2,1,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,12,10,22,playerByGameStats sum
+1971-1972,1971,1972-04-06,1971030112,OFF,1,1,2,TOR,Toronto Maple Leafs,Canada,False,BOS,Boston Bruins,USA,22,20,42,playerByGameStats sum
+1971-1972,1971,1972-04-06,1971030112,OFF,1,1,2,BOS,Boston Bruins,USA,True,TOR,Toronto Maple Leafs,Canada,20,22,42,playerByGameStats sum
+1971-1972,1971,1972-04-06,1971030122,OFF,1,2,2,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,6,8,14,playerByGameStats sum
+1971-1972,1971,1972-04-06,1971030122,OFF,1,2,2,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,8,6,14,playerByGameStats sum
+1971-1972,1971,1972-04-08,1971030113,OFF,1,1,3,BOS,Boston Bruins,USA,False,TOR,Toronto Maple Leafs,Canada,20,20,40,playerByGameStats sum
+1971-1972,1971,1972-04-08,1971030113,OFF,1,1,3,TOR,Toronto Maple Leafs,Canada,True,BOS,Boston Bruins,USA,20,20,40,playerByGameStats sum
+1971-1972,1971,1972-04-08,1971030123,OFF,1,2,3,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,12,16,28,playerByGameStats sum
+1971-1972,1971,1972-04-08,1971030123,OFF,1,2,3,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,16,12,28,playerByGameStats sum
+1971-1972,1971,1972-04-09,1971030114,OFF,1,1,4,BOS,Boston Bruins,USA,False,TOR,Toronto Maple Leafs,Canada,38,24,62,playerByGameStats sum
+1971-1972,1971,1972-04-09,1971030114,OFF,1,1,4,TOR,Toronto Maple Leafs,Canada,True,BOS,Boston Bruins,USA,24,38,62,playerByGameStats sum
+1971-1972,1971,1972-04-09,1971030124,OFF,1,2,4,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,26,18,44,playerByGameStats sum
+1971-1972,1971,1972-04-09,1971030124,OFF,1,2,4,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,18,26,44,playerByGameStats sum
+1971-1972,1971,1972-04-11,1971030115,OFF,1,1,5,TOR,Toronto Maple Leafs,Canada,False,BOS,Boston Bruins,USA,13,15,28,playerByGameStats sum
+1971-1972,1971,1972-04-11,1971030115,OFF,1,1,5,BOS,Boston Bruins,USA,True,TOR,Toronto Maple Leafs,Canada,15,13,28,playerByGameStats sum
+1971-1972,1971,1972-04-11,1971030125,OFF,1,2,5,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,8,10,18,playerByGameStats sum
+1971-1972,1971,1972-04-11,1971030125,OFF,1,2,5,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,10,8,18,playerByGameStats sum
+1971-1972,1971,1972-04-13,1971030126,OFF,1,2,6,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,10,18,28,playerByGameStats sum
+1971-1972,1971,1972-04-13,1971030126,OFF,1,2,6,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,18,10,28,playerByGameStats sum
+1972-1973,1972,1973-04-04,1972030111,OFF,1,1,1,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,14,10,24,playerByGameStats sum
+1972-1973,1972,1973-04-04,1972030111,OFF,1,1,1,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,10,14,24,playerByGameStats sum
+1972-1973,1972,1973-04-05,1972030112,OFF,1,1,2,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,11,15,26,playerByGameStats sum
+1972-1973,1972,1973-04-05,1972030112,OFF,1,1,2,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,15,11,26,playerByGameStats sum
+1972-1973,1972,1973-04-07,1972030113,OFF,1,1,3,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,24,14,38,playerByGameStats sum
+1972-1973,1972,1973-04-07,1972030113,OFF,1,1,3,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,14,24,38,playerByGameStats sum
+1972-1973,1972,1973-04-08,1972030114,OFF,1,1,4,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,2,4,6,playerByGameStats sum
+1972-1973,1972,1973-04-08,1972030114,OFF,1,1,4,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,4,2,6,playerByGameStats sum
+1972-1973,1972,1973-04-10,1972030115,OFF,1,1,5,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,10,10,20,playerByGameStats sum
+1972-1973,1972,1973-04-10,1972030115,OFF,1,1,5,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,10,10,20,playerByGameStats sum
+1972-1973,1972,1973-04-12,1972030116,OFF,1,1,6,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,18,6,24,playerByGameStats sum
+1972-1973,1972,1973-04-12,1972030116,OFF,1,1,6,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,6,18,24,playerByGameStats sum
+1972-1973,1972,1973-04-14,1972030211,OFF,2,1,1,PHI,Philadelphia Flyers,USA,False,MTL,Montréal Canadiens,Canada,10,6,16,playerByGameStats sum
+1972-1973,1972,1973-04-14,1972030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,PHI,Philadelphia Flyers,USA,6,10,16,playerByGameStats sum
+1972-1973,1972,1973-04-17,1972030212,OFF,2,1,2,PHI,Philadelphia Flyers,USA,False,MTL,Montréal Canadiens,Canada,22,18,40,playerByGameStats sum
+1972-1973,1972,1973-04-17,1972030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,PHI,Philadelphia Flyers,USA,18,22,40,playerByGameStats sum
+1972-1973,1972,1973-04-19,1972030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,PHI,Philadelphia Flyers,USA,11,13,24,playerByGameStats sum
+1972-1973,1972,1973-04-19,1972030213,OFF,2,1,3,PHI,Philadelphia Flyers,USA,True,MTL,Montréal Canadiens,Canada,13,11,24,playerByGameStats sum
+1972-1973,1972,1973-04-22,1972030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,PHI,Philadelphia Flyers,USA,15,14,29,playerByGameStats sum
+1972-1973,1972,1973-04-22,1972030214,OFF,2,1,4,PHI,Philadelphia Flyers,USA,True,MTL,Montréal Canadiens,Canada,14,15,29,playerByGameStats sum
+1972-1973,1972,1973-04-24,1972030215,OFF,2,1,5,PHI,Philadelphia Flyers,USA,False,MTL,Montréal Canadiens,Canada,18,6,24,playerByGameStats sum
+1972-1973,1972,1973-04-24,1972030215,OFF,2,1,5,MTL,Montréal Canadiens,Canada,True,PHI,Philadelphia Flyers,USA,6,18,24,playerByGameStats sum
+1972-1973,1972,1973-04-29,1972030311,OFF,3,1,1,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,10,6,16,playerByGameStats sum
+1972-1973,1972,1973-04-29,1972030311,OFF,3,1,1,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,6,10,16,playerByGameStats sum
+1972-1973,1972,1973-05-01,1972030312,OFF,3,1,2,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,10,6,16,playerByGameStats sum
+1972-1973,1972,1973-05-01,1972030312,OFF,3,1,2,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,6,10,16,playerByGameStats sum
+1972-1973,1972,1973-05-03,1972030313,OFF,3,1,3,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,20,8,28,playerByGameStats sum
+1972-1973,1972,1973-05-03,1972030313,OFF,3,1,3,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,8,20,28,playerByGameStats sum
+1972-1973,1972,1973-05-06,1972030314,OFF,3,1,4,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,8,2,10,playerByGameStats sum
+1972-1973,1972,1973-05-06,1972030314,OFF,3,1,4,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,2,8,10,playerByGameStats sum
+1972-1973,1972,1973-05-08,1972030315,OFF,3,1,5,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,12,2,14,playerByGameStats sum
+1972-1973,1972,1973-05-08,1972030315,OFF,3,1,5,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,2,12,14,playerByGameStats sum
+1972-1973,1972,1973-05-10,1972030316,OFF,3,1,6,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,8,12,20,playerByGameStats sum
+1972-1973,1972,1973-05-10,1972030316,OFF,3,1,6,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,12,8,20,playerByGameStats sum
+1973-1974,1973,1974-04-10,1973030111,OFF,1,1,1,TOR,Toronto Maple Leafs,Canada,False,BOS,Boston Bruins,USA,10,18,28,playerByGameStats sum
+1973-1974,1973,1974-04-10,1973030111,OFF,1,1,1,BOS,Boston Bruins,USA,True,TOR,Toronto Maple Leafs,Canada,18,10,28,playerByGameStats sum
+1973-1974,1973,1974-04-10,1973030121,OFF,1,2,1,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,23,19,42,playerByGameStats sum
+1973-1974,1973,1974-04-10,1973030121,OFF,1,2,1,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,19,23,42,playerByGameStats sum
+1973-1974,1973,1974-04-11,1973030112,OFF,1,1,2,TOR,Toronto Maple Leafs,Canada,False,BOS,Boston Bruins,USA,10,18,28,playerByGameStats sum
+1973-1974,1973,1974-04-11,1973030112,OFF,1,1,2,BOS,Boston Bruins,USA,True,TOR,Toronto Maple Leafs,Canada,18,10,28,playerByGameStats sum
+1973-1974,1973,1974-04-11,1973030122,OFF,1,2,2,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,13,19,32,playerByGameStats sum
+1973-1974,1973,1974-04-11,1973030122,OFF,1,2,2,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,19,13,32,playerByGameStats sum
+1973-1974,1973,1974-04-13,1973030113,OFF,1,1,3,BOS,Boston Bruins,USA,False,TOR,Toronto Maple Leafs,Canada,18,10,28,playerByGameStats sum
+1973-1974,1973,1974-04-13,1973030113,OFF,1,1,3,TOR,Toronto Maple Leafs,Canada,True,BOS,Boston Bruins,USA,10,18,28,playerByGameStats sum
+1973-1974,1973,1974-04-13,1973030123,OFF,1,2,3,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,16,18,34,playerByGameStats sum
+1973-1974,1973,1974-04-13,1973030123,OFF,1,2,3,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,18,16,34,playerByGameStats sum
+1973-1974,1973,1974-04-14,1973030114,OFF,1,1,4,BOS,Boston Bruins,USA,False,TOR,Toronto Maple Leafs,Canada,13,15,28,playerByGameStats sum
+1973-1974,1973,1974-04-14,1973030114,OFF,1,1,4,TOR,Toronto Maple Leafs,Canada,True,BOS,Boston Bruins,USA,15,13,28,playerByGameStats sum
+1973-1974,1973,1974-04-14,1973030124,OFF,1,2,4,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,10,14,24,playerByGameStats sum
+1973-1974,1973,1974-04-14,1973030124,OFF,1,2,4,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,14,10,24,playerByGameStats sum
+1973-1974,1973,1974-04-16,1973030125,OFF,1,2,5,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,4,6,10,playerByGameStats sum
+1973-1974,1973,1974-04-16,1973030125,OFF,1,2,5,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,6,4,10,playerByGameStats sum
+1973-1974,1973,1974-04-18,1973030126,OFF,1,2,6,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,21,21,42,playerByGameStats sum
+1973-1974,1973,1974-04-18,1973030126,OFF,1,2,6,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,21,21,42,playerByGameStats sum
+1974-1975,1974,1975-04-08,1974030111,OFF,1,1,1,TOR,Toronto Maple Leafs,Canada,False,LAK,Los Angeles Kings,USA,6,4,10,playerByGameStats sum
+1974-1975,1974,1975-04-08,1974030111,OFF,1,1,1,LAK,Los Angeles Kings,USA,True,TOR,Toronto Maple Leafs,Canada,4,6,10,playerByGameStats sum
+1974-1975,1974,1975-04-10,1974030112,OFF,1,1,2,LAK,Los Angeles Kings,USA,False,TOR,Toronto Maple Leafs,Canada,29,21,50,playerByGameStats sum
+1974-1975,1974,1975-04-10,1974030112,OFF,1,1,2,TOR,Toronto Maple Leafs,Canada,True,LAK,Los Angeles Kings,USA,21,29,50,playerByGameStats sum
+1974-1975,1974,1975-04-11,1974030113,OFF,1,1,3,TOR,Toronto Maple Leafs,Canada,False,LAK,Los Angeles Kings,USA,25,49,74,playerByGameStats sum
+1974-1975,1974,1975-04-11,1974030113,OFF,1,1,3,LAK,Los Angeles Kings,USA,True,TOR,Toronto Maple Leafs,Canada,49,25,74,playerByGameStats sum
+1974-1975,1974,1975-04-13,1974030211,OFF,2,1,1,TOR,Toronto Maple Leafs,Canada,False,PHI,Philadelphia Flyers,USA,20,42,62,playerByGameStats sum
+1974-1975,1974,1975-04-13,1974030211,OFF,2,1,1,PHI,Philadelphia Flyers,USA,True,TOR,Toronto Maple Leafs,Canada,42,20,62,playerByGameStats sum
+1974-1975,1974,1975-04-15,1974030212,OFF,2,1,2,TOR,Toronto Maple Leafs,Canada,False,PHI,Philadelphia Flyers,USA,8,8,16,playerByGameStats sum
+1974-1975,1974,1975-04-15,1974030212,OFF,2,1,2,PHI,Philadelphia Flyers,USA,True,TOR,Toronto Maple Leafs,Canada,8,8,16,playerByGameStats sum
+1974-1975,1974,1975-04-17,1974030213,OFF,2,1,3,PHI,Philadelphia Flyers,USA,False,TOR,Toronto Maple Leafs,Canada,20,8,28,playerByGameStats sum
+1974-1975,1974,1975-04-17,1974030213,OFF,2,1,3,TOR,Toronto Maple Leafs,Canada,True,PHI,Philadelphia Flyers,USA,8,20,28,playerByGameStats sum
+1974-1975,1974,1975-04-19,1974030214,OFF,2,1,4,PHI,Philadelphia Flyers,USA,False,TOR,Toronto Maple Leafs,Canada,26,20,46,playerByGameStats sum
+1974-1975,1974,1975-04-19,1974030214,OFF,2,1,4,TOR,Toronto Maple Leafs,Canada,True,PHI,Philadelphia Flyers,USA,20,26,46,playerByGameStats sum
+1974-1975,1974,1975-04-27,1974030321,OFF,3,2,1,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,10,10,20,playerByGameStats sum
+1974-1975,1974,1975-04-27,1974030321,OFF,3,2,1,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,10,10,20,playerByGameStats sum
+1974-1975,1974,1975-04-29,1974030322,OFF,3,2,2,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,13,15,28,playerByGameStats sum
+1974-1975,1974,1975-04-29,1974030322,OFF,3,2,2,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,15,13,28,playerByGameStats sum
+1974-1975,1974,1975-05-01,1974030323,OFF,3,2,3,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,22,16,38,playerByGameStats sum
+1974-1975,1974,1975-05-01,1974030323,OFF,3,2,3,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,16,22,38,playerByGameStats sum
+1974-1975,1974,1975-05-03,1974030324,OFF,3,2,4,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,55,32,87,playerByGameStats sum
+1974-1975,1974,1975-05-03,1974030324,OFF,3,2,4,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,32,55,87,playerByGameStats sum
+1974-1975,1974,1975-05-06,1974030325,OFF,3,2,5,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,8,4,12,playerByGameStats sum
+1974-1975,1974,1975-05-06,1974030325,OFF,3,2,5,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,4,8,12,playerByGameStats sum
+1974-1975,1974,1975-05-08,1974030326,OFF,3,2,6,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,6,2,8,playerByGameStats sum
+1974-1975,1974,1975-05-08,1974030326,OFF,3,2,6,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,2,6,8,playerByGameStats sum
+1975-1976,1975,1976-04-06,1975030121,OFF,1,2,1,VAN,Vancouver Canucks,Canada,False,NYI,New York Islanders,USA,11,17,28,playerByGameStats sum
+1975-1976,1975,1976-04-06,1975030121,OFF,1,2,1,NYI,New York Islanders,USA,True,VAN,Vancouver Canucks,Canada,17,11,28,playerByGameStats sum
+1975-1976,1975,1976-04-06,1975030141,OFF,1,4,1,PIT,Pittsburgh Penguins,USA,False,TOR,Toronto Maple Leafs,Canada,8,12,20,playerByGameStats sum
+1975-1976,1975,1976-04-06,1975030141,OFF,1,4,1,TOR,Toronto Maple Leafs,Canada,True,PIT,Pittsburgh Penguins,USA,12,8,20,playerByGameStats sum
+1975-1976,1975,1976-04-08,1975030122,OFF,1,2,2,NYI,New York Islanders,USA,False,VAN,Vancouver Canucks,Canada,14,8,22,playerByGameStats sum
+1975-1976,1975,1976-04-08,1975030122,OFF,1,2,2,VAN,Vancouver Canucks,Canada,True,NYI,New York Islanders,USA,8,14,22,playerByGameStats sum
+1975-1976,1975,1976-04-08,1975030142,OFF,1,4,2,TOR,Toronto Maple Leafs,Canada,False,PIT,Pittsburgh Penguins,USA,13,11,24,playerByGameStats sum
+1975-1976,1975,1976-04-08,1975030142,OFF,1,4,2,PIT,Pittsburgh Penguins,USA,True,TOR,Toronto Maple Leafs,Canada,11,13,24,playerByGameStats sum
+1975-1976,1975,1976-04-09,1975030143,OFF,1,4,3,PIT,Pittsburgh Penguins,USA,False,TOR,Toronto Maple Leafs,Canada,6,11,17,playerByGameStats sum
+1975-1976,1975,1976-04-09,1975030143,OFF,1,4,3,TOR,Toronto Maple Leafs,Canada,True,PIT,Pittsburgh Penguins,USA,11,6,17,playerByGameStats sum
+1975-1976,1975,1976-04-11,1975030211,OFF,2,1,1,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,17,15,32,playerByGameStats sum
+1975-1976,1975,1976-04-11,1975030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,15,17,32,playerByGameStats sum
+1975-1976,1975,1976-04-12,1975030221,OFF,2,2,1,TOR,Toronto Maple Leafs,Canada,False,PHI,Philadelphia Flyers,USA,8,10,18,playerByGameStats sum
+1975-1976,1975,1976-04-12,1975030221,OFF,2,2,1,PHI,Philadelphia Flyers,USA,True,TOR,Toronto Maple Leafs,Canada,10,8,18,playerByGameStats sum
+1975-1976,1975,1976-04-13,1975030212,OFF,2,1,2,CHI,Chicago Blackhawks,USA,False,MTL,Montréal Canadiens,Canada,20,16,36,playerByGameStats sum
+1975-1976,1975,1976-04-13,1975030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,CHI,Chicago Blackhawks,USA,16,20,36,playerByGameStats sum
+1975-1976,1975,1976-04-13,1975030222,OFF,2,2,2,TOR,Toronto Maple Leafs,Canada,False,PHI,Philadelphia Flyers,USA,12,20,32,playerByGameStats sum
+1975-1976,1975,1976-04-13,1975030222,OFF,2,2,2,PHI,Philadelphia Flyers,USA,True,TOR,Toronto Maple Leafs,Canada,20,12,32,playerByGameStats sum
+1975-1976,1975,1976-04-15,1975030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,8,10,18,playerByGameStats sum
+1975-1976,1975,1976-04-15,1975030213,OFF,2,1,3,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,10,8,18,playerByGameStats sum
+1975-1976,1975,1976-04-15,1975030223,OFF,2,2,3,PHI,Philadelphia Flyers,USA,False,TOR,Toronto Maple Leafs,Canada,107,66,173,playerByGameStats sum
+1975-1976,1975,1976-04-15,1975030223,OFF,2,2,3,TOR,Toronto Maple Leafs,Canada,True,PHI,Philadelphia Flyers,USA,66,107,173,playerByGameStats sum
+1975-1976,1975,1976-04-17,1975030224,OFF,2,2,4,PHI,Philadelphia Flyers,USA,False,TOR,Toronto Maple Leafs,Canada,14,6,20,playerByGameStats sum
+1975-1976,1975,1976-04-17,1975030224,OFF,2,2,4,TOR,Toronto Maple Leafs,Canada,True,PHI,Philadelphia Flyers,USA,6,14,20,playerByGameStats sum
+1975-1976,1975,1976-04-18,1975030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,CHI,Chicago Blackhawks,USA,16,18,34,playerByGameStats sum
+1975-1976,1975,1976-04-18,1975030214,OFF,2,1,4,CHI,Chicago Blackhawks,USA,True,MTL,Montréal Canadiens,Canada,18,16,34,playerByGameStats sum
+1975-1976,1975,1976-04-20,1975030225,OFF,2,2,5,TOR,Toronto Maple Leafs,Canada,False,PHI,Philadelphia Flyers,USA,24,30,54,playerByGameStats sum
+1975-1976,1975,1976-04-20,1975030225,OFF,2,2,5,PHI,Philadelphia Flyers,USA,True,TOR,Toronto Maple Leafs,Canada,30,24,54,playerByGameStats sum
+1975-1976,1975,1976-04-22,1975030226,OFF,2,2,6,PHI,Philadelphia Flyers,USA,False,TOR,Toronto Maple Leafs,Canada,91,94,185,playerByGameStats sum
+1975-1976,1975,1976-04-22,1975030226,OFF,2,2,6,TOR,Toronto Maple Leafs,Canada,True,PHI,Philadelphia Flyers,USA,94,91,185,playerByGameStats sum
+1975-1976,1975,1976-04-25,1975030227,OFF,2,2,7,TOR,Toronto Maple Leafs,Canada,False,PHI,Philadelphia Flyers,USA,20,21,41,playerByGameStats sum
+1975-1976,1975,1976-04-25,1975030227,OFF,2,2,7,PHI,Philadelphia Flyers,USA,True,TOR,Toronto Maple Leafs,Canada,21,20,41,playerByGameStats sum
+1975-1976,1975,1976-04-27,1975030311,OFF,3,1,1,NYI,New York Islanders,USA,False,MTL,Montréal Canadiens,Canada,16,12,28,playerByGameStats sum
+1975-1976,1975,1976-04-27,1975030311,OFF,3,1,1,MTL,Montréal Canadiens,Canada,True,NYI,New York Islanders,USA,12,16,28,playerByGameStats sum
+1975-1976,1975,1976-04-29,1975030312,OFF,3,1,2,NYI,New York Islanders,USA,False,MTL,Montréal Canadiens,Canada,23,24,47,playerByGameStats sum
+1975-1976,1975,1976-04-29,1975030312,OFF,3,1,2,MTL,Montréal Canadiens,Canada,True,NYI,New York Islanders,USA,24,23,47,playerByGameStats sum
+1975-1976,1975,1976-05-01,1975030313,OFF,3,1,3,MTL,Montréal Canadiens,Canada,False,NYI,New York Islanders,USA,8,8,16,playerByGameStats sum
+1975-1976,1975,1976-05-01,1975030313,OFF,3,1,3,NYI,New York Islanders,USA,True,MTL,Montréal Canadiens,Canada,8,8,16,playerByGameStats sum
+1975-1976,1975,1976-05-04,1975030314,OFF,3,1,4,MTL,Montréal Canadiens,Canada,False,NYI,New York Islanders,USA,29,29,58,playerByGameStats sum
+1975-1976,1975,1976-05-04,1975030314,OFF,3,1,4,NYI,New York Islanders,USA,True,MTL,Montréal Canadiens,Canada,29,29,58,playerByGameStats sum
+1975-1976,1975,1976-05-06,1975030315,OFF,3,1,5,NYI,New York Islanders,USA,False,MTL,Montréal Canadiens,Canada,10,8,18,playerByGameStats sum
+1975-1976,1975,1976-05-06,1975030315,OFF,3,1,5,MTL,Montréal Canadiens,Canada,True,NYI,New York Islanders,USA,8,10,18,playerByGameStats sum
+1975-1976,1975,1976-05-09,1975030411,OFF,4,1,1,PHI,Philadelphia Flyers,USA,False,MTL,Montréal Canadiens,Canada,20,16,36,playerByGameStats sum
+1975-1976,1975,1976-05-09,1975030411,OFF,4,1,1,MTL,Montréal Canadiens,Canada,True,PHI,Philadelphia Flyers,USA,16,20,36,playerByGameStats sum
+1975-1976,1975,1976-05-11,1975030412,OFF,4,1,2,PHI,Philadelphia Flyers,USA,False,MTL,Montréal Canadiens,Canada,11,13,24,playerByGameStats sum
+1975-1976,1975,1976-05-11,1975030412,OFF,4,1,2,MTL,Montréal Canadiens,Canada,True,PHI,Philadelphia Flyers,USA,13,11,24,playerByGameStats sum
+1975-1976,1975,1976-05-13,1975030413,OFF,4,1,3,MTL,Montréal Canadiens,Canada,False,PHI,Philadelphia Flyers,USA,10,12,22,playerByGameStats sum
+1975-1976,1975,1976-05-13,1975030413,OFF,4,1,3,PHI,Philadelphia Flyers,USA,True,MTL,Montréal Canadiens,Canada,12,10,22,playerByGameStats sum
+1975-1976,1975,1976-05-16,1975030414,OFF,4,1,4,MTL,Montréal Canadiens,Canada,False,PHI,Philadelphia Flyers,USA,12,14,26,playerByGameStats sum
+1975-1976,1975,1976-05-16,1975030414,OFF,4,1,4,PHI,Philadelphia Flyers,USA,True,MTL,Montréal Canadiens,Canada,14,12,26,playerByGameStats sum
+1976-1977,1976,1977-04-05,1976030141,OFF,1,4,1,TOR,Toronto Maple Leafs,Canada,False,PIT,Pittsburgh Penguins,USA,10,14,24,playerByGameStats sum
+1976-1977,1976,1977-04-05,1976030141,OFF,1,4,1,PIT,Pittsburgh Penguins,USA,True,TOR,Toronto Maple Leafs,Canada,14,10,24,playerByGameStats sum
+1976-1977,1976,1977-04-07,1976030142,OFF,1,4,2,PIT,Pittsburgh Penguins,USA,False,TOR,Toronto Maple Leafs,Canada,17,11,28,playerByGameStats sum
+1976-1977,1976,1977-04-07,1976030142,OFF,1,4,2,TOR,Toronto Maple Leafs,Canada,True,PIT,Pittsburgh Penguins,USA,11,17,28,playerByGameStats sum
+1976-1977,1976,1977-04-09,1976030143,OFF,1,4,3,TOR,Toronto Maple Leafs,Canada,False,PIT,Pittsburgh Penguins,USA,19,27,46,playerByGameStats sum
+1976-1977,1976,1977-04-09,1976030143,OFF,1,4,3,PIT,Pittsburgh Penguins,USA,True,TOR,Toronto Maple Leafs,Canada,27,19,46,playerByGameStats sum
+1976-1977,1976,1977-04-11,1976030211,OFF,2,1,1,STL,St. Louis Blues,USA,False,MTL,Montréal Canadiens,Canada,10,8,18,playerByGameStats sum
+1976-1977,1976,1977-04-11,1976030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,STL,St. Louis Blues,USA,8,10,18,playerByGameStats sum
+1976-1977,1976,1977-04-11,1976030221,OFF,2,2,1,TOR,Toronto Maple Leafs,Canada,False,PHI,Philadelphia Flyers,USA,14,12,26,playerByGameStats sum
+1976-1977,1976,1977-04-11,1976030221,OFF,2,2,1,PHI,Philadelphia Flyers,USA,True,TOR,Toronto Maple Leafs,Canada,12,14,26,playerByGameStats sum
+1976-1977,1976,1977-04-13,1976030212,OFF,2,1,2,STL,St. Louis Blues,USA,False,MTL,Montréal Canadiens,Canada,15,13,28,playerByGameStats sum
+1976-1977,1976,1977-04-13,1976030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,STL,St. Louis Blues,USA,13,15,28,playerByGameStats sum
+1976-1977,1976,1977-04-13,1976030222,OFF,2,2,2,TOR,Toronto Maple Leafs,Canada,False,PHI,Philadelphia Flyers,USA,10,10,20,playerByGameStats sum
+1976-1977,1976,1977-04-13,1976030222,OFF,2,2,2,PHI,Philadelphia Flyers,USA,True,TOR,Toronto Maple Leafs,Canada,10,10,20,playerByGameStats sum
+1976-1977,1976,1977-04-15,1976030223,OFF,2,2,3,PHI,Philadelphia Flyers,USA,False,TOR,Toronto Maple Leafs,Canada,17,11,28,playerByGameStats sum
+1976-1977,1976,1977-04-15,1976030223,OFF,2,2,3,TOR,Toronto Maple Leafs,Canada,True,PHI,Philadelphia Flyers,USA,11,17,28,playerByGameStats sum
+1976-1977,1976,1977-04-16,1976030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,STL,St. Louis Blues,USA,18,21,39,playerByGameStats sum
+1976-1977,1976,1977-04-16,1976030213,OFF,2,1,3,STL,St. Louis Blues,USA,True,MTL,Montréal Canadiens,Canada,21,18,39,playerByGameStats sum
+1976-1977,1976,1977-04-17,1976030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,STL,St. Louis Blues,USA,14,14,28,playerByGameStats sum
+1976-1977,1976,1977-04-17,1976030214,OFF,2,1,4,STL,St. Louis Blues,USA,True,MTL,Montréal Canadiens,Canada,14,14,28,playerByGameStats sum
+1976-1977,1976,1977-04-17,1976030224,OFF,2,2,4,PHI,Philadelphia Flyers,USA,False,TOR,Toronto Maple Leafs,Canada,65,12,77,playerByGameStats sum
+1976-1977,1976,1977-04-17,1976030224,OFF,2,2,4,TOR,Toronto Maple Leafs,Canada,True,PHI,Philadelphia Flyers,USA,12,65,77,playerByGameStats sum
+1976-1977,1976,1977-04-19,1976030225,OFF,2,2,5,TOR,Toronto Maple Leafs,Canada,False,PHI,Philadelphia Flyers,USA,10,16,26,playerByGameStats sum
+1976-1977,1976,1977-04-19,1976030225,OFF,2,2,5,PHI,Philadelphia Flyers,USA,True,TOR,Toronto Maple Leafs,Canada,16,10,26,playerByGameStats sum
+1976-1977,1976,1977-04-21,1976030226,OFF,2,2,6,PHI,Philadelphia Flyers,USA,False,TOR,Toronto Maple Leafs,Canada,35,18,53,playerByGameStats sum
+1976-1977,1976,1977-04-21,1976030226,OFF,2,2,6,TOR,Toronto Maple Leafs,Canada,True,PHI,Philadelphia Flyers,USA,18,35,53,playerByGameStats sum
+1976-1977,1976,1977-04-23,1976030311,OFF,3,1,1,NYI,New York Islanders,USA,False,MTL,Montréal Canadiens,Canada,6,4,10,playerByGameStats sum
+1976-1977,1976,1977-04-23,1976030311,OFF,3,1,1,MTL,Montréal Canadiens,Canada,True,NYI,New York Islanders,USA,4,6,10,playerByGameStats sum
+1976-1977,1976,1977-04-26,1976030312,OFF,3,1,2,NYI,New York Islanders,USA,False,MTL,Montréal Canadiens,Canada,22,14,36,playerByGameStats sum
+1976-1977,1976,1977-04-26,1976030312,OFF,3,1,2,MTL,Montréal Canadiens,Canada,True,NYI,New York Islanders,USA,14,22,36,playerByGameStats sum
+1976-1977,1976,1977-04-28,1976030313,OFF,3,1,3,MTL,Montréal Canadiens,Canada,False,NYI,New York Islanders,USA,12,12,24,playerByGameStats sum
+1976-1977,1976,1977-04-28,1976030313,OFF,3,1,3,NYI,New York Islanders,USA,True,MTL,Montréal Canadiens,Canada,12,12,24,playerByGameStats sum
+1976-1977,1976,1977-04-30,1976030314,OFF,3,1,4,MTL,Montréal Canadiens,Canada,False,NYI,New York Islanders,USA,8,8,16,playerByGameStats sum
+1976-1977,1976,1977-04-30,1976030314,OFF,3,1,4,NYI,New York Islanders,USA,True,MTL,Montréal Canadiens,Canada,8,8,16,playerByGameStats sum
+1976-1977,1976,1977-05-03,1976030315,OFF,3,1,5,NYI,New York Islanders,USA,False,MTL,Montréal Canadiens,Canada,10,6,16,playerByGameStats sum
+1976-1977,1976,1977-05-03,1976030315,OFF,3,1,5,MTL,Montréal Canadiens,Canada,True,NYI,New York Islanders,USA,6,10,16,playerByGameStats sum
+1976-1977,1976,1977-05-05,1976030316,OFF,3,1,6,MTL,Montréal Canadiens,Canada,False,NYI,New York Islanders,USA,10,6,16,playerByGameStats sum
+1976-1977,1976,1977-05-05,1976030316,OFF,3,1,6,NYI,New York Islanders,USA,True,MTL,Montréal Canadiens,Canada,6,10,16,playerByGameStats sum
+1976-1977,1976,1977-05-07,1976030411,OFF,4,1,1,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,23,19,42,playerByGameStats sum
+1976-1977,1976,1977-05-07,1976030411,OFF,4,1,1,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,19,23,42,playerByGameStats sum
+1976-1977,1976,1977-05-10,1976030412,OFF,4,1,2,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,32,18,50,playerByGameStats sum
+1976-1977,1976,1977-05-10,1976030412,OFF,4,1,2,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,18,32,50,playerByGameStats sum
+1976-1977,1976,1977-05-12,1976030413,OFF,4,1,3,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,18,14,32,playerByGameStats sum
+1976-1977,1976,1977-05-12,1976030413,OFF,4,1,3,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,14,18,32,playerByGameStats sum
+1976-1977,1976,1977-05-14,1976030414,OFF,4,1,4,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,6,6,12,playerByGameStats sum
+1976-1977,1976,1977-05-14,1976030414,OFF,4,1,4,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,6,6,12,playerByGameStats sum
+1977-1978,1977,1978-04-11,1977030131,OFF,1,3,1,LAK,Los Angeles Kings,USA,False,TOR,Toronto Maple Leafs,Canada,26,28,54,playerByGameStats sum
+1977-1978,1977,1978-04-11,1977030131,OFF,1,3,1,TOR,Toronto Maple Leafs,Canada,True,LAK,Los Angeles Kings,USA,28,26,54,playerByGameStats sum
+1977-1978,1977,1978-04-13,1977030132,OFF,1,3,2,TOR,Toronto Maple Leafs,Canada,False,LAK,Los Angeles Kings,USA,13,13,26,playerByGameStats sum
+1977-1978,1977,1978-04-13,1977030132,OFF,1,3,2,LAK,Los Angeles Kings,USA,True,TOR,Toronto Maple Leafs,Canada,13,13,26,playerByGameStats sum
+1977-1978,1977,1978-04-17,1977030211,OFF,2,1,1,DET,Detroit Red Wings,USA,False,MTL,Montréal Canadiens,Canada,8,12,20,playerByGameStats sum
+1977-1978,1977,1978-04-17,1977030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,DET,Detroit Red Wings,USA,12,8,20,playerByGameStats sum
+1977-1978,1977,1978-04-17,1977030231,OFF,2,3,1,TOR,Toronto Maple Leafs,Canada,False,NYI,New York Islanders,USA,10,10,20,playerByGameStats sum
+1977-1978,1977,1978-04-17,1977030231,OFF,2,3,1,NYI,New York Islanders,USA,True,TOR,Toronto Maple Leafs,Canada,10,10,20,playerByGameStats sum
+1977-1978,1977,1978-04-19,1977030212,OFF,2,1,2,DET,Detroit Red Wings,USA,False,MTL,Montréal Canadiens,Canada,8,14,22,playerByGameStats sum
+1977-1978,1977,1978-04-19,1977030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,DET,Detroit Red Wings,USA,14,8,22,playerByGameStats sum
+1977-1978,1977,1978-04-19,1977030232,OFF,2,3,2,TOR,Toronto Maple Leafs,Canada,False,NYI,New York Islanders,USA,34,24,58,playerByGameStats sum
+1977-1978,1977,1978-04-19,1977030232,OFF,2,3,2,NYI,New York Islanders,USA,True,TOR,Toronto Maple Leafs,Canada,24,34,58,playerByGameStats sum
+1977-1978,1977,1978-04-21,1977030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,DET,Detroit Red Wings,USA,25,27,52,playerByGameStats sum
+1977-1978,1977,1978-04-21,1977030213,OFF,2,1,3,DET,Detroit Red Wings,USA,True,MTL,Montréal Canadiens,Canada,27,25,52,playerByGameStats sum
+1977-1978,1977,1978-04-21,1977030233,OFF,2,3,3,NYI,New York Islanders,USA,False,TOR,Toronto Maple Leafs,Canada,15,19,34,playerByGameStats sum
+1977-1978,1977,1978-04-21,1977030233,OFF,2,3,3,TOR,Toronto Maple Leafs,Canada,True,NYI,New York Islanders,USA,19,15,34,playerByGameStats sum
+1977-1978,1977,1978-04-23,1977030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,DET,Detroit Red Wings,USA,12,10,22,playerByGameStats sum
+1977-1978,1977,1978-04-23,1977030214,OFF,2,1,4,DET,Detroit Red Wings,USA,True,MTL,Montréal Canadiens,Canada,10,12,22,playerByGameStats sum
+1977-1978,1977,1978-04-23,1977030234,OFF,2,3,4,NYI,New York Islanders,USA,False,TOR,Toronto Maple Leafs,Canada,51,60,111,playerByGameStats sum
+1977-1978,1977,1978-04-23,1977030234,OFF,2,3,4,TOR,Toronto Maple Leafs,Canada,True,NYI,New York Islanders,USA,60,51,111,playerByGameStats sum
+1977-1978,1977,1978-04-25,1977030215,OFF,2,1,5,DET,Detroit Red Wings,USA,False,MTL,Montréal Canadiens,Canada,10,12,22,playerByGameStats sum
+1977-1978,1977,1978-04-25,1977030215,OFF,2,1,5,MTL,Montréal Canadiens,Canada,True,DET,Detroit Red Wings,USA,12,10,22,playerByGameStats sum
+1977-1978,1977,1978-04-25,1977030235,OFF,2,3,5,TOR,Toronto Maple Leafs,Canada,False,NYI,New York Islanders,USA,16,16,32,playerByGameStats sum
+1977-1978,1977,1978-04-25,1977030235,OFF,2,3,5,NYI,New York Islanders,USA,True,TOR,Toronto Maple Leafs,Canada,16,16,32,playerByGameStats sum
+1977-1978,1977,1978-04-27,1977030236,OFF,2,3,6,NYI,New York Islanders,USA,False,TOR,Toronto Maple Leafs,Canada,46,40,86,playerByGameStats sum
+1977-1978,1977,1978-04-27,1977030236,OFF,2,3,6,TOR,Toronto Maple Leafs,Canada,True,NYI,New York Islanders,USA,40,46,86,playerByGameStats sum
+1977-1978,1977,1978-04-29,1977030237,OFF,2,3,7,TOR,Toronto Maple Leafs,Canada,False,NYI,New York Islanders,USA,13,13,26,playerByGameStats sum
+1977-1978,1977,1978-04-29,1977030237,OFF,2,3,7,NYI,New York Islanders,USA,True,TOR,Toronto Maple Leafs,Canada,13,13,26,playerByGameStats sum
+1977-1978,1977,1978-05-13,1977030411,OFF,4,1,1,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,10,8,18,playerByGameStats sum
+1977-1978,1977,1978-05-13,1977030411,OFF,4,1,1,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,8,10,18,playerByGameStats sum
+1977-1978,1977,1978-05-16,1977030412,OFF,4,1,2,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,10,12,22,playerByGameStats sum
+1977-1978,1977,1978-05-16,1977030412,OFF,4,1,2,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,12,10,22,playerByGameStats sum
+1977-1978,1977,1978-05-18,1977030413,OFF,4,1,3,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,8,8,16,playerByGameStats sum
+1977-1978,1977,1978-05-18,1977030413,OFF,4,1,3,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,8,8,16,playerByGameStats sum
+1977-1978,1977,1978-05-21,1977030414,OFF,4,1,4,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,38,36,74,playerByGameStats sum
+1977-1978,1977,1978-05-21,1977030414,OFF,4,1,4,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,36,38,74,playerByGameStats sum
+1977-1978,1977,1978-05-23,1977030415,OFF,4,1,5,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,62,44,106,playerByGameStats sum
+1977-1978,1977,1978-05-23,1977030415,OFF,4,1,5,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,44,62,106,playerByGameStats sum
+1977-1978,1977,1978-05-25,1977030416,OFF,4,1,6,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,4,6,10,playerByGameStats sum
+1977-1978,1977,1978-05-25,1977030416,OFF,4,1,6,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,6,4,10,playerByGameStats sum
+1978-1979,1978,1979-04-10,1978030111,OFF,1,1,1,VAN,Vancouver Canucks,Canada,False,PHI,Philadelphia Flyers,USA,8,14,22,playerByGameStats sum
+1978-1979,1978,1979-04-10,1978030111,OFF,1,1,1,PHI,Philadelphia Flyers,USA,True,VAN,Vancouver Canucks,Canada,14,8,22,playerByGameStats sum
+1978-1979,1978,1979-04-10,1978030131,OFF,1,3,1,TOR,Toronto Maple Leafs,Canada,False,AFM,Atlanta Flames,USA,109,115,224,playerByGameStats sum
+1978-1979,1978,1979-04-10,1978030131,OFF,1,3,1,AFM,Atlanta Flames,USA,True,TOR,Toronto Maple Leafs,Canada,115,109,224,playerByGameStats sum
+1978-1979,1978,1979-04-12,1978030112,OFF,1,1,2,PHI,Philadelphia Flyers,USA,False,VAN,Vancouver Canucks,Canada,21,17,38,playerByGameStats sum
+1978-1979,1978,1979-04-12,1978030112,OFF,1,1,2,VAN,Vancouver Canucks,Canada,True,PHI,Philadelphia Flyers,USA,17,21,38,playerByGameStats sum
+1978-1979,1978,1979-04-12,1978030132,OFF,1,3,2,AFM,Atlanta Flames,USA,False,TOR,Toronto Maple Leafs,Canada,14,16,30,playerByGameStats sum
+1978-1979,1978,1979-04-12,1978030132,OFF,1,3,2,TOR,Toronto Maple Leafs,Canada,True,AFM,Atlanta Flames,USA,16,14,30,playerByGameStats sum
+1978-1979,1978,1979-04-14,1978030113,OFF,1,1,3,VAN,Vancouver Canucks,Canada,False,PHI,Philadelphia Flyers,USA,22,26,48,playerByGameStats sum
+1978-1979,1978,1979-04-14,1978030113,OFF,1,1,3,PHI,Philadelphia Flyers,USA,True,VAN,Vancouver Canucks,Canada,26,22,48,playerByGameStats sum
+1978-1979,1978,1979-04-26,1978030321,OFF,3,2,1,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,10,8,18,playerByGameStats sum
+1978-1979,1978,1979-04-26,1978030321,OFF,3,2,1,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,8,10,18,playerByGameStats sum
+1978-1979,1978,1979-04-28,1978030322,OFF,3,2,2,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,6,4,10,playerByGameStats sum
+1978-1979,1978,1979-04-28,1978030322,OFF,3,2,2,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,4,6,10,playerByGameStats sum
+1978-1979,1978,1979-05-01,1978030323,OFF,3,2,3,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,10,6,16,playerByGameStats sum
+1978-1979,1978,1979-05-01,1978030323,OFF,3,2,3,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,6,10,16,playerByGameStats sum
+1978-1979,1978,1979-05-03,1978030324,OFF,3,2,4,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,4,4,8,playerByGameStats sum
+1978-1979,1978,1979-05-03,1978030324,OFF,3,2,4,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,4,4,8,playerByGameStats sum
+1978-1979,1978,1979-05-05,1978030325,OFF,3,2,5,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,20,18,38,playerByGameStats sum
+1978-1979,1978,1979-05-05,1978030325,OFF,3,2,5,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,18,20,38,playerByGameStats sum
+1978-1979,1978,1979-05-08,1978030326,OFF,3,2,6,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,10,8,18,playerByGameStats sum
+1978-1979,1978,1979-05-08,1978030326,OFF,3,2,6,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,8,10,18,playerByGameStats sum
+1978-1979,1978,1979-05-10,1978030327,OFF,3,2,7,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,12,10,22,playerByGameStats sum
+1978-1979,1978,1979-05-10,1978030327,OFF,3,2,7,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,10,12,22,playerByGameStats sum
+1978-1979,1978,1979-05-13,1978030411,OFF,4,1,1,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,16,22,38,playerByGameStats sum
+1978-1979,1978,1979-05-13,1978030411,OFF,4,1,1,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,22,16,38,playerByGameStats sum
+1978-1979,1978,1979-05-15,1978030412,OFF,4,1,2,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,18,16,34,playerByGameStats sum
+1978-1979,1978,1979-05-15,1978030412,OFF,4,1,2,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,16,18,34,playerByGameStats sum
+1978-1979,1978,1979-05-17,1978030413,OFF,4,1,3,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,14,10,24,playerByGameStats sum
+1978-1979,1978,1979-05-17,1978030413,OFF,4,1,3,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,10,14,24,playerByGameStats sum
+1978-1979,1978,1979-05-19,1978030414,OFF,4,1,4,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,10,12,22,playerByGameStats sum
+1978-1979,1978,1979-05-19,1978030414,OFF,4,1,4,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,12,10,22,playerByGameStats sum
+1978-1979,1978,1979-05-21,1978030415,OFF,4,1,5,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,4,4,8,playerByGameStats sum
+1978-1979,1978,1979-05-21,1978030415,OFF,4,1,5,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,4,4,8,playerByGameStats sum
+1979-1980,1979,1980-04-08,1979030111,OFF,1,1,1,EDM,Edmonton Oilers,Canada,False,PHI,Philadelphia Flyers,USA,14,10,24,playerByGameStats sum
+1979-1980,1979,1980-04-08,1979030111,OFF,1,1,1,PHI,Philadelphia Flyers,USA,True,EDM,Edmonton Oilers,Canada,10,14,24,playerByGameStats sum
+1979-1980,1979,1980-04-08,1979030121,OFF,1,2,1,VAN,Vancouver Canucks,Canada,False,BUF,Buffalo Sabres,USA,8,6,14,playerByGameStats sum
+1979-1980,1979,1980-04-08,1979030121,OFF,1,2,1,BUF,Buffalo Sabres,USA,True,VAN,Vancouver Canucks,Canada,6,8,14,playerByGameStats sum
+1979-1980,1979,1980-04-08,1979030131,OFF,1,3,1,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,6,4,10,playerByGameStats sum
+1979-1980,1979,1980-04-08,1979030131,OFF,1,3,1,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,4,6,10,playerByGameStats sum
+1979-1980,1979,1980-04-08,1979030161,OFF,1,6,1,TOR,Toronto Maple Leafs,Canada,False,MNS,Minnesota North Stars,USA,45,29,74,playerByGameStats sum
+1979-1980,1979,1980-04-08,1979030161,OFF,1,6,1,MNS,Minnesota North Stars,USA,True,TOR,Toronto Maple Leafs,Canada,29,45,74,playerByGameStats sum
+1979-1980,1979,1980-04-09,1979030112,OFF,1,1,2,EDM,Edmonton Oilers,Canada,False,PHI,Philadelphia Flyers,USA,22,46,68,playerByGameStats sum
+1979-1980,1979,1980-04-09,1979030112,OFF,1,1,2,PHI,Philadelphia Flyers,USA,True,EDM,Edmonton Oilers,Canada,46,22,68,playerByGameStats sum
+1979-1980,1979,1980-04-09,1979030122,OFF,1,2,2,VAN,Vancouver Canucks,Canada,False,BUF,Buffalo Sabres,USA,44,30,74,playerByGameStats sum
+1979-1980,1979,1980-04-09,1979030122,OFF,1,2,2,BUF,Buffalo Sabres,USA,True,VAN,Vancouver Canucks,Canada,30,44,74,playerByGameStats sum
+1979-1980,1979,1980-04-09,1979030132,OFF,1,3,2,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,4,4,8,playerByGameStats sum
+1979-1980,1979,1980-04-09,1979030132,OFF,1,3,2,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,4,4,8,playerByGameStats sum
+1979-1980,1979,1980-04-09,1979030162,OFF,1,6,2,TOR,Toronto Maple Leafs,Canada,False,MNS,Minnesota North Stars,USA,24,18,42,playerByGameStats sum
+1979-1980,1979,1980-04-09,1979030162,OFF,1,6,2,MNS,Minnesota North Stars,USA,True,TOR,Toronto Maple Leafs,Canada,18,24,42,playerByGameStats sum
+1979-1980,1979,1980-04-11,1979030113,OFF,1,1,3,PHI,Philadelphia Flyers,USA,False,EDM,Edmonton Oilers,Canada,28,19,47,playerByGameStats sum
+1979-1980,1979,1980-04-11,1979030113,OFF,1,1,3,EDM,Edmonton Oilers,Canada,True,PHI,Philadelphia Flyers,USA,19,28,47,playerByGameStats sum
+1979-1980,1979,1980-04-11,1979030123,OFF,1,2,3,BUF,Buffalo Sabres,USA,False,VAN,Vancouver Canucks,Canada,25,14,39,playerByGameStats sum
+1979-1980,1979,1980-04-11,1979030123,OFF,1,2,3,VAN,Vancouver Canucks,Canada,True,BUF,Buffalo Sabres,USA,14,25,39,playerByGameStats sum
+1979-1980,1979,1980-04-11,1979030133,OFF,1,3,3,MTL,Montréal Canadiens,Canada,False,HFD,Hartford Whalers,USA,8,12,20,playerByGameStats sum
+1979-1980,1979,1980-04-11,1979030133,OFF,1,3,3,HFD,Hartford Whalers,USA,True,MTL,Montréal Canadiens,Canada,12,8,20,playerByGameStats sum
+1979-1980,1979,1980-04-11,1979030163,OFF,1,6,3,MNS,Minnesota North Stars,USA,False,TOR,Toronto Maple Leafs,Canada,32,32,64,playerByGameStats sum
+1979-1980,1979,1980-04-11,1979030163,OFF,1,6,3,TOR,Toronto Maple Leafs,Canada,True,MNS,Minnesota North Stars,USA,32,32,64,playerByGameStats sum
+1979-1980,1979,1980-04-12,1979030124,OFF,1,2,4,BUF,Buffalo Sabres,USA,False,VAN,Vancouver Canucks,Canada,16,16,32,playerByGameStats sum
+1979-1980,1979,1980-04-12,1979030124,OFF,1,2,4,VAN,Vancouver Canucks,Canada,True,BUF,Buffalo Sabres,USA,16,16,32,playerByGameStats sum
+1979-1980,1979,1980-04-16,1979030231,OFF,2,3,1,MNS,Minnesota North Stars,USA,False,MTL,Montréal Canadiens,Canada,4,4,8,playerByGameStats sum
+1979-1980,1979,1980-04-16,1979030231,OFF,2,3,1,MTL,Montréal Canadiens,Canada,True,MNS,Minnesota North Stars,USA,4,4,8,playerByGameStats sum
+1979-1980,1979,1980-04-17,1979030232,OFF,2,3,2,MNS,Minnesota North Stars,USA,False,MTL,Montréal Canadiens,Canada,15,15,30,playerByGameStats sum
+1979-1980,1979,1980-04-17,1979030232,OFF,2,3,2,MTL,Montréal Canadiens,Canada,True,MNS,Minnesota North Stars,USA,15,15,30,playerByGameStats sum
+1979-1980,1979,1980-04-19,1979030233,OFF,2,3,3,MTL,Montréal Canadiens,Canada,False,MNS,Minnesota North Stars,USA,6,4,10,playerByGameStats sum
+1979-1980,1979,1980-04-19,1979030233,OFF,2,3,3,MNS,Minnesota North Stars,USA,True,MTL,Montréal Canadiens,Canada,4,6,10,playerByGameStats sum
+1979-1980,1979,1980-04-20,1979030234,OFF,2,3,4,MTL,Montréal Canadiens,Canada,False,MNS,Minnesota North Stars,USA,6,6,12,playerByGameStats sum
+1979-1980,1979,1980-04-20,1979030234,OFF,2,3,4,MNS,Minnesota North Stars,USA,True,MTL,Montréal Canadiens,Canada,6,6,12,playerByGameStats sum
+1979-1980,1979,1980-04-22,1979030235,OFF,2,3,5,MNS,Minnesota North Stars,USA,False,MTL,Montréal Canadiens,Canada,10,10,20,playerByGameStats sum
+1979-1980,1979,1980-04-22,1979030235,OFF,2,3,5,MTL,Montréal Canadiens,Canada,True,MNS,Minnesota North Stars,USA,10,10,20,playerByGameStats sum
+1979-1980,1979,1980-04-24,1979030236,OFF,2,3,6,MTL,Montréal Canadiens,Canada,False,MNS,Minnesota North Stars,USA,10,10,20,playerByGameStats sum
+1979-1980,1979,1980-04-24,1979030236,OFF,2,3,6,MNS,Minnesota North Stars,USA,True,MTL,Montréal Canadiens,Canada,10,10,20,playerByGameStats sum
+1979-1980,1979,1980-04-27,1979030237,OFF,2,3,7,MNS,Minnesota North Stars,USA,False,MTL,Montréal Canadiens,Canada,12,10,22,playerByGameStats sum
+1979-1980,1979,1980-04-27,1979030237,OFF,2,3,7,MTL,Montréal Canadiens,Canada,True,MNS,Minnesota North Stars,USA,10,12,22,playerByGameStats sum
+1980-1981,1980,1981-04-08,1980030111,OFF,1,1,1,TOR,Toronto Maple Leafs,Canada,False,NYI,New York Islanders,USA,19,23,42,playerByGameStats sum
+1980-1981,1980,1981-04-08,1980030111,OFF,1,1,1,NYI,New York Islanders,USA,True,TOR,Toronto Maple Leafs,Canada,23,19,42,playerByGameStats sum
+1980-1981,1980,1981-04-08,1980030151,OFF,1,5,1,VAN,Vancouver Canucks,Canada,False,BUF,Buffalo Sabres,USA,19,17,36,playerByGameStats sum
+1980-1981,1980,1981-04-08,1980030151,OFF,1,5,1,BUF,Buffalo Sabres,USA,True,VAN,Vancouver Canucks,Canada,17,19,36,playerByGameStats sum
+1980-1981,1980,1981-04-08,1980030161,OFF,1,6,1,QUE,Quebec Nordiques,Canada,False,PHI,Philadelphia Flyers,USA,91,73,164,playerByGameStats sum
+1980-1981,1980,1981-04-08,1980030161,OFF,1,6,1,PHI,Philadelphia Flyers,USA,True,QUE,Quebec Nordiques,Canada,73,91,164,playerByGameStats sum
+1980-1981,1980,1981-04-08,1980030171,OFF,1,7,1,CHI,Chicago Blackhawks,USA,False,CGY,Calgary Flames,Canada,16,16,32,playerByGameStats sum
+1980-1981,1980,1981-04-08,1980030171,OFF,1,7,1,CGY,Calgary Flames,Canada,True,CHI,Chicago Blackhawks,USA,16,16,32,playerByGameStats sum
+1980-1981,1980,1981-04-09,1980030112,OFF,1,1,2,TOR,Toronto Maple Leafs,Canada,False,NYI,New York Islanders,USA,16,12,28,playerByGameStats sum
+1980-1981,1980,1981-04-09,1980030112,OFF,1,1,2,NYI,New York Islanders,USA,True,TOR,Toronto Maple Leafs,Canada,12,16,28,playerByGameStats sum
+1980-1981,1980,1981-04-09,1980030152,OFF,1,5,2,VAN,Vancouver Canucks,Canada,False,BUF,Buffalo Sabres,USA,46,46,92,playerByGameStats sum
+1980-1981,1980,1981-04-09,1980030152,OFF,1,5,2,BUF,Buffalo Sabres,USA,True,VAN,Vancouver Canucks,Canada,46,46,92,playerByGameStats sum
+1980-1981,1980,1981-04-09,1980030162,OFF,1,6,2,QUE,Quebec Nordiques,Canada,False,PHI,Philadelphia Flyers,USA,73,71,144,playerByGameStats sum
+1980-1981,1980,1981-04-09,1980030162,OFF,1,6,2,PHI,Philadelphia Flyers,USA,True,QUE,Quebec Nordiques,Canada,71,73,144,playerByGameStats sum
+1980-1981,1980,1981-04-09,1980030172,OFF,1,7,2,CHI,Chicago Blackhawks,USA,False,CGY,Calgary Flames,Canada,15,13,28,playerByGameStats sum
+1980-1981,1980,1981-04-09,1980030172,OFF,1,7,2,CGY,Calgary Flames,Canada,True,CHI,Chicago Blackhawks,USA,13,15,28,playerByGameStats sum
+1980-1981,1980,1981-04-11,1980030113,OFF,1,1,3,NYI,New York Islanders,USA,False,TOR,Toronto Maple Leafs,Canada,13,17,30,playerByGameStats sum
+1980-1981,1980,1981-04-11,1980030113,OFF,1,1,3,TOR,Toronto Maple Leafs,Canada,True,NYI,New York Islanders,USA,17,13,30,playerByGameStats sum
+1980-1981,1980,1981-04-11,1980030153,OFF,1,5,3,BUF,Buffalo Sabres,USA,False,VAN,Vancouver Canucks,Canada,16,12,28,playerByGameStats sum
+1980-1981,1980,1981-04-11,1980030153,OFF,1,5,3,VAN,Vancouver Canucks,Canada,True,BUF,Buffalo Sabres,USA,12,16,28,playerByGameStats sum
+1980-1981,1980,1981-04-11,1980030163,OFF,1,6,3,PHI,Philadelphia Flyers,USA,False,QUE,Quebec Nordiques,Canada,23,19,42,playerByGameStats sum
+1980-1981,1980,1981-04-11,1980030163,OFF,1,6,3,QUE,Quebec Nordiques,Canada,True,PHI,Philadelphia Flyers,USA,19,23,42,playerByGameStats sum
+1980-1981,1980,1981-04-11,1980030173,OFF,1,7,3,CGY,Calgary Flames,Canada,False,CHI,Chicago Blackhawks,USA,14,10,24,playerByGameStats sum
+1980-1981,1980,1981-04-11,1980030173,OFF,1,7,3,CHI,Chicago Blackhawks,USA,True,CGY,Calgary Flames,Canada,10,14,24,playerByGameStats sum
+1980-1981,1980,1981-04-12,1980030164,OFF,1,6,4,PHI,Philadelphia Flyers,USA,False,QUE,Quebec Nordiques,Canada,14,12,26,playerByGameStats sum
+1980-1981,1980,1981-04-12,1980030164,OFF,1,6,4,QUE,Quebec Nordiques,Canada,True,PHI,Philadelphia Flyers,USA,12,14,26,playerByGameStats sum
+1980-1981,1980,1981-04-14,1980030165,OFF,1,6,5,QUE,Quebec Nordiques,Canada,False,PHI,Philadelphia Flyers,USA,22,28,50,playerByGameStats sum
+1980-1981,1980,1981-04-14,1980030165,OFF,1,6,5,PHI,Philadelphia Flyers,USA,True,QUE,Quebec Nordiques,Canada,28,22,50,playerByGameStats sum
+1980-1981,1980,1981-04-16,1980030211,OFF,2,1,1,EDM,Edmonton Oilers,Canada,False,NYI,New York Islanders,USA,19,19,38,playerByGameStats sum
+1980-1981,1980,1981-04-16,1980030211,OFF,2,1,1,NYI,New York Islanders,USA,True,EDM,Edmonton Oilers,Canada,19,19,38,playerByGameStats sum
+1980-1981,1980,1981-04-16,1980030241,OFF,2,4,1,CGY,Calgary Flames,Canada,False,PHI,Philadelphia Flyers,USA,9,11,20,playerByGameStats sum
+1980-1981,1980,1981-04-16,1980030241,OFF,2,4,1,PHI,Philadelphia Flyers,USA,True,CGY,Calgary Flames,Canada,11,9,20,playerByGameStats sum
+1980-1981,1980,1981-04-17,1980030212,OFF,2,1,2,EDM,Edmonton Oilers,Canada,False,NYI,New York Islanders,USA,22,17,39,playerByGameStats sum
+1980-1981,1980,1981-04-17,1980030212,OFF,2,1,2,NYI,New York Islanders,USA,True,EDM,Edmonton Oilers,Canada,17,22,39,playerByGameStats sum
+1980-1981,1980,1981-04-17,1980030242,OFF,2,4,2,CGY,Calgary Flames,Canada,False,PHI,Philadelphia Flyers,USA,26,23,49,playerByGameStats sum
+1980-1981,1980,1981-04-17,1980030242,OFF,2,4,2,PHI,Philadelphia Flyers,USA,True,CGY,Calgary Flames,Canada,23,26,49,playerByGameStats sum
+1980-1981,1980,1981-04-19,1980030213,OFF,2,1,3,NYI,New York Islanders,USA,False,EDM,Edmonton Oilers,Canada,24,20,44,playerByGameStats sum
+1980-1981,1980,1981-04-19,1980030213,OFF,2,1,3,EDM,Edmonton Oilers,Canada,True,NYI,New York Islanders,USA,20,24,44,playerByGameStats sum
+1980-1981,1980,1981-04-19,1980030243,OFF,2,4,3,PHI,Philadelphia Flyers,USA,False,CGY,Calgary Flames,Canada,21,15,36,playerByGameStats sum
+1980-1981,1980,1981-04-19,1980030243,OFF,2,4,3,CGY,Calgary Flames,Canada,True,PHI,Philadelphia Flyers,USA,15,21,36,playerByGameStats sum
+1980-1981,1980,1981-04-20,1980030214,OFF,2,1,4,NYI,New York Islanders,USA,False,EDM,Edmonton Oilers,Canada,16,12,28,playerByGameStats sum
+1980-1981,1980,1981-04-20,1980030214,OFF,2,1,4,EDM,Edmonton Oilers,Canada,True,NYI,New York Islanders,USA,12,16,28,playerByGameStats sum
+1980-1981,1980,1981-04-20,1980030244,OFF,2,4,4,PHI,Philadelphia Flyers,USA,False,CGY,Calgary Flames,Canada,34,46,80,playerByGameStats sum
+1980-1981,1980,1981-04-20,1980030244,OFF,2,4,4,CGY,Calgary Flames,Canada,True,PHI,Philadelphia Flyers,USA,46,34,80,playerByGameStats sum
+1980-1981,1980,1981-04-22,1980030215,OFF,2,1,5,EDM,Edmonton Oilers,Canada,False,NYI,New York Islanders,USA,10,8,18,playerByGameStats sum
+1980-1981,1980,1981-04-22,1980030215,OFF,2,1,5,NYI,New York Islanders,USA,True,EDM,Edmonton Oilers,Canada,8,10,18,playerByGameStats sum
+1980-1981,1980,1981-04-22,1980030245,OFF,2,4,5,CGY,Calgary Flames,Canada,False,PHI,Philadelphia Flyers,USA,96,81,177,playerByGameStats sum
+1980-1981,1980,1981-04-22,1980030245,OFF,2,4,5,PHI,Philadelphia Flyers,USA,True,CGY,Calgary Flames,Canada,81,96,177,playerByGameStats sum
+1980-1981,1980,1981-04-24,1980030216,OFF,2,1,6,NYI,New York Islanders,USA,False,EDM,Edmonton Oilers,Canada,16,12,28,playerByGameStats sum
+1980-1981,1980,1981-04-24,1980030216,OFF,2,1,6,EDM,Edmonton Oilers,Canada,True,NYI,New York Islanders,USA,12,16,28,playerByGameStats sum
+1980-1981,1980,1981-04-24,1980030246,OFF,2,4,6,PHI,Philadelphia Flyers,USA,False,CGY,Calgary Flames,Canada,8,14,22,playerByGameStats sum
+1980-1981,1980,1981-04-24,1980030246,OFF,2,4,6,CGY,Calgary Flames,Canada,True,PHI,Philadelphia Flyers,USA,14,8,22,playerByGameStats sum
+1980-1981,1980,1981-04-26,1980030247,OFF,2,4,7,CGY,Calgary Flames,Canada,False,PHI,Philadelphia Flyers,USA,10,18,28,playerByGameStats sum
+1980-1981,1980,1981-04-26,1980030247,OFF,2,4,7,PHI,Philadelphia Flyers,USA,True,CGY,Calgary Flames,Canada,18,10,28,playerByGameStats sum
+1980-1981,1980,1981-04-28,1980030321,OFF,3,2,1,MNS,Minnesota North Stars,USA,False,CGY,Calgary Flames,Canada,12,22,34,playerByGameStats sum
+1980-1981,1980,1981-04-28,1980030321,OFF,3,2,1,CGY,Calgary Flames,Canada,True,MNS,Minnesota North Stars,USA,22,12,34,playerByGameStats sum
+1980-1981,1980,1981-04-30,1980030322,OFF,3,2,2,MNS,Minnesota North Stars,USA,False,CGY,Calgary Flames,Canada,11,17,28,playerByGameStats sum
+1980-1981,1980,1981-04-30,1980030322,OFF,3,2,2,CGY,Calgary Flames,Canada,True,MNS,Minnesota North Stars,USA,17,11,28,playerByGameStats sum
+1980-1981,1980,1981-05-03,1980030323,OFF,3,2,3,CGY,Calgary Flames,Canada,False,MNS,Minnesota North Stars,USA,16,18,34,playerByGameStats sum
+1980-1981,1980,1981-05-03,1980030323,OFF,3,2,3,MNS,Minnesota North Stars,USA,True,CGY,Calgary Flames,Canada,18,16,34,playerByGameStats sum
+1980-1981,1980,1981-05-05,1980030324,OFF,3,2,4,CGY,Calgary Flames,Canada,False,MNS,Minnesota North Stars,USA,14,14,28,playerByGameStats sum
+1980-1981,1980,1981-05-05,1980030324,OFF,3,2,4,MNS,Minnesota North Stars,USA,True,CGY,Calgary Flames,Canada,14,14,28,playerByGameStats sum
+1980-1981,1980,1981-05-07,1980030325,OFF,3,2,5,MNS,Minnesota North Stars,USA,False,CGY,Calgary Flames,Canada,8,16,24,playerByGameStats sum
+1980-1981,1980,1981-05-07,1980030325,OFF,3,2,5,CGY,Calgary Flames,Canada,True,MNS,Minnesota North Stars,USA,16,8,24,playerByGameStats sum
+1980-1981,1980,1981-05-09,1980030326,OFF,3,2,6,CGY,Calgary Flames,Canada,False,MNS,Minnesota North Stars,USA,19,19,38,playerByGameStats sum
+1980-1981,1980,1981-05-09,1980030326,OFF,3,2,6,MNS,Minnesota North Stars,USA,True,CGY,Calgary Flames,Canada,19,19,38,playerByGameStats sum
+1981-1982,1981,1982-04-07,1981030141,OFF,1,4,1,STL,St. Louis Blues,USA,False,WIN,Winnipeg Jets,Canada,25,25,50,playerByGameStats sum
+1981-1982,1981,1982-04-07,1981030141,OFF,1,4,1,WIN,Winnipeg Jets,Canada,True,STL,St. Louis Blues,USA,25,25,50,playerByGameStats sum
+1981-1982,1981,1982-04-07,1981030171,OFF,1,7,1,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,38,26,64,playerByGameStats sum
+1981-1982,1981,1982-04-07,1981030171,OFF,1,7,1,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,26,38,64,playerByGameStats sum
+1981-1982,1981,1982-04-08,1981030142,OFF,1,4,2,STL,St. Louis Blues,USA,False,WIN,Winnipeg Jets,Canada,18,14,32,playerByGameStats sum
+1981-1982,1981,1982-04-08,1981030142,OFF,1,4,2,WIN,Winnipeg Jets,Canada,True,STL,St. Louis Blues,USA,14,18,32,playerByGameStats sum
+1981-1982,1981,1982-04-08,1981030172,OFF,1,7,2,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,10,12,22,playerByGameStats sum
+1981-1982,1981,1982-04-08,1981030172,OFF,1,7,2,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,12,10,22,playerByGameStats sum
+1981-1982,1981,1982-04-10,1981030143,OFF,1,4,3,WIN,Winnipeg Jets,Canada,False,STL,St. Louis Blues,USA,12,18,30,playerByGameStats sum
+1981-1982,1981,1982-04-10,1981030143,OFF,1,4,3,STL,St. Louis Blues,USA,True,WIN,Winnipeg Jets,Canada,18,12,30,playerByGameStats sum
+1981-1982,1981,1982-04-10,1981030173,OFF,1,7,3,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,111,116,227,playerByGameStats sum
+1981-1982,1981,1982-04-10,1981030173,OFF,1,7,3,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,116,111,227,playerByGameStats sum
+1981-1982,1981,1982-04-11,1981030144,OFF,1,4,4,WIN,Winnipeg Jets,Canada,False,STL,St. Louis Blues,USA,70,70,140,playerByGameStats sum
+1981-1982,1981,1982-04-11,1981030144,OFF,1,4,4,STL,St. Louis Blues,USA,True,WIN,Winnipeg Jets,Canada,70,70,140,playerByGameStats sum
+1981-1982,1981,1982-04-12,1981030174,OFF,1,7,4,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,19,19,38,playerByGameStats sum
+1981-1982,1981,1982-04-12,1981030174,OFF,1,7,4,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,19,19,38,playerByGameStats sum
+1981-1982,1981,1982-04-13,1981030175,OFF,1,7,5,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,10,8,18,playerByGameStats sum
+1981-1982,1981,1982-04-13,1981030175,OFF,1,7,5,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,8,10,18,playerByGameStats sum
+1981-1982,1981,1982-04-15,1981030211,OFF,2,1,1,QUE,Quebec Nordiques,Canada,False,BOS,Boston Bruins,USA,4,4,8,playerByGameStats sum
+1981-1982,1981,1982-04-15,1981030211,OFF,2,1,1,BOS,Boston Bruins,USA,True,QUE,Quebec Nordiques,Canada,4,4,8,playerByGameStats sum
+1981-1982,1981,1982-04-15,1981030241,OFF,2,4,1,LAK,Los Angeles Kings,USA,False,VAN,Vancouver Canucks,Canada,12,6,18,playerByGameStats sum
+1981-1982,1981,1982-04-15,1981030241,OFF,2,4,1,VAN,Vancouver Canucks,Canada,True,LAK,Los Angeles Kings,USA,6,12,18,playerByGameStats sum
+1981-1982,1981,1982-04-16,1981030212,OFF,2,1,2,QUE,Quebec Nordiques,Canada,False,BOS,Boston Bruins,USA,6,6,12,playerByGameStats sum
+1981-1982,1981,1982-04-16,1981030212,OFF,2,1,2,BOS,Boston Bruins,USA,True,QUE,Quebec Nordiques,Canada,6,6,12,playerByGameStats sum
+1981-1982,1981,1982-04-16,1981030242,OFF,2,4,2,LAK,Los Angeles Kings,USA,False,VAN,Vancouver Canucks,Canada,10,10,20,playerByGameStats sum
+1981-1982,1981,1982-04-16,1981030242,OFF,2,4,2,VAN,Vancouver Canucks,Canada,True,LAK,Los Angeles Kings,USA,10,10,20,playerByGameStats sum
+1981-1982,1981,1982-04-18,1981030213,OFF,2,1,3,BOS,Boston Bruins,USA,False,QUE,Quebec Nordiques,Canada,10,8,18,playerByGameStats sum
+1981-1982,1981,1982-04-18,1981030213,OFF,2,1,3,QUE,Quebec Nordiques,Canada,True,BOS,Boston Bruins,USA,8,10,18,playerByGameStats sum
+1981-1982,1981,1982-04-18,1981030243,OFF,2,4,3,VAN,Vancouver Canucks,Canada,False,LAK,Los Angeles Kings,USA,40,36,76,playerByGameStats sum
+1981-1982,1981,1982-04-18,1981030243,OFF,2,4,3,LAK,Los Angeles Kings,USA,True,VAN,Vancouver Canucks,Canada,36,40,76,playerByGameStats sum
+1981-1982,1981,1982-04-19,1981030214,OFF,2,1,4,BOS,Boston Bruins,USA,False,QUE,Quebec Nordiques,Canada,68,50,118,playerByGameStats sum
+1981-1982,1981,1982-04-19,1981030214,OFF,2,1,4,QUE,Quebec Nordiques,Canada,True,BOS,Boston Bruins,USA,50,68,118,playerByGameStats sum
+1981-1982,1981,1982-04-19,1981030244,OFF,2,4,4,VAN,Vancouver Canucks,Canada,False,LAK,Los Angeles Kings,USA,24,18,42,playerByGameStats sum
+1981-1982,1981,1982-04-19,1981030244,OFF,2,4,4,LAK,Los Angeles Kings,USA,True,VAN,Vancouver Canucks,Canada,18,24,42,playerByGameStats sum
+1981-1982,1981,1982-04-21,1981030215,OFF,2,1,5,QUE,Quebec Nordiques,Canada,False,BOS,Boston Bruins,USA,29,25,54,playerByGameStats sum
+1981-1982,1981,1982-04-21,1981030215,OFF,2,1,5,BOS,Boston Bruins,USA,True,QUE,Quebec Nordiques,Canada,25,29,54,playerByGameStats sum
+1981-1982,1981,1982-04-21,1981030245,OFF,2,4,5,LAK,Los Angeles Kings,USA,False,VAN,Vancouver Canucks,Canada,40,46,86,playerByGameStats sum
+1981-1982,1981,1982-04-21,1981030245,OFF,2,4,5,VAN,Vancouver Canucks,Canada,True,LAK,Los Angeles Kings,USA,46,40,86,playerByGameStats sum
+1981-1982,1981,1982-04-23,1981030216,OFF,2,1,6,BOS,Boston Bruins,USA,False,QUE,Quebec Nordiques,Canada,12,8,20,playerByGameStats sum
+1981-1982,1981,1982-04-23,1981030216,OFF,2,1,6,QUE,Quebec Nordiques,Canada,True,BOS,Boston Bruins,USA,8,12,20,playerByGameStats sum
+1981-1982,1981,1982-04-25,1981030217,OFF,2,1,7,QUE,Quebec Nordiques,Canada,False,BOS,Boston Bruins,USA,10,18,28,playerByGameStats sum
+1981-1982,1981,1982-04-25,1981030217,OFF,2,1,7,BOS,Boston Bruins,USA,True,QUE,Quebec Nordiques,Canada,18,10,28,playerByGameStats sum
+1981-1982,1981,1982-04-27,1981030311,OFF,3,1,1,QUE,Quebec Nordiques,Canada,False,NYI,New York Islanders,USA,22,22,44,playerByGameStats sum
+1981-1982,1981,1982-04-27,1981030311,OFF,3,1,1,NYI,New York Islanders,USA,True,QUE,Quebec Nordiques,Canada,22,22,44,playerByGameStats sum
+1981-1982,1981,1982-04-27,1981030321,OFF,3,2,1,VAN,Vancouver Canucks,Canada,False,CHI,Chicago Blackhawks,USA,23,23,46,playerByGameStats sum
+1981-1982,1981,1982-04-27,1981030321,OFF,3,2,1,CHI,Chicago Blackhawks,USA,True,VAN,Vancouver Canucks,Canada,23,23,46,playerByGameStats sum
+1981-1982,1981,1982-04-29,1981030312,OFF,3,1,2,QUE,Quebec Nordiques,Canada,False,NYI,New York Islanders,USA,17,13,30,playerByGameStats sum
+1981-1982,1981,1982-04-29,1981030312,OFF,3,1,2,NYI,New York Islanders,USA,True,QUE,Quebec Nordiques,Canada,13,17,30,playerByGameStats sum
+1981-1982,1981,1982-04-29,1981030322,OFF,3,2,2,VAN,Vancouver Canucks,Canada,False,CHI,Chicago Blackhawks,USA,104,80,184,playerByGameStats sum
+1981-1982,1981,1982-04-29,1981030322,OFF,3,2,2,CHI,Chicago Blackhawks,USA,True,VAN,Vancouver Canucks,Canada,80,104,184,playerByGameStats sum
+1981-1982,1981,1982-05-01,1981030313,OFF,3,1,3,NYI,New York Islanders,USA,False,QUE,Quebec Nordiques,Canada,29,23,52,playerByGameStats sum
+1981-1982,1981,1982-05-01,1981030313,OFF,3,1,3,QUE,Quebec Nordiques,Canada,True,NYI,New York Islanders,USA,23,29,52,playerByGameStats sum
+1981-1982,1981,1982-05-01,1981030323,OFF,3,2,3,CHI,Chicago Blackhawks,USA,False,VAN,Vancouver Canucks,Canada,33,19,52,playerByGameStats sum
+1981-1982,1981,1982-05-01,1981030323,OFF,3,2,3,VAN,Vancouver Canucks,Canada,True,CHI,Chicago Blackhawks,USA,19,33,52,playerByGameStats sum
+1981-1982,1981,1982-05-04,1981030314,OFF,3,1,4,NYI,New York Islanders,USA,False,QUE,Quebec Nordiques,Canada,6,4,10,playerByGameStats sum
+1981-1982,1981,1982-05-04,1981030314,OFF,3,1,4,QUE,Quebec Nordiques,Canada,True,NYI,New York Islanders,USA,4,6,10,playerByGameStats sum
+1981-1982,1981,1982-05-04,1981030324,OFF,3,2,4,CHI,Chicago Blackhawks,USA,False,VAN,Vancouver Canucks,Canada,47,45,92,playerByGameStats sum
+1981-1982,1981,1982-05-04,1981030324,OFF,3,2,4,VAN,Vancouver Canucks,Canada,True,CHI,Chicago Blackhawks,USA,45,47,92,playerByGameStats sum
+1981-1982,1981,1982-05-06,1981030325,OFF,3,2,5,VAN,Vancouver Canucks,Canada,False,CHI,Chicago Blackhawks,USA,92,90,182,playerByGameStats sum
+1981-1982,1981,1982-05-06,1981030325,OFF,3,2,5,CHI,Chicago Blackhawks,USA,True,VAN,Vancouver Canucks,Canada,90,92,182,playerByGameStats sum
+1981-1982,1981,1982-05-08,1981030411,OFF,4,1,1,VAN,Vancouver Canucks,Canada,False,NYI,New York Islanders,USA,70,60,130,playerByGameStats sum
+1981-1982,1981,1982-05-08,1981030411,OFF,4,1,1,NYI,New York Islanders,USA,True,VAN,Vancouver Canucks,Canada,60,70,130,playerByGameStats sum
+1981-1982,1981,1982-05-11,1981030412,OFF,4,1,2,VAN,Vancouver Canucks,Canada,False,NYI,New York Islanders,USA,46,50,96,playerByGameStats sum
+1981-1982,1981,1982-05-11,1981030412,OFF,4,1,2,NYI,New York Islanders,USA,True,VAN,Vancouver Canucks,Canada,50,46,96,playerByGameStats sum
+1981-1982,1981,1982-05-13,1981030413,OFF,4,1,3,NYI,New York Islanders,USA,False,VAN,Vancouver Canucks,Canada,16,16,32,playerByGameStats sum
+1981-1982,1981,1982-05-13,1981030413,OFF,4,1,3,VAN,Vancouver Canucks,Canada,True,NYI,New York Islanders,USA,16,16,32,playerByGameStats sum
+1981-1982,1981,1982-05-16,1981030414,OFF,4,1,4,NYI,New York Islanders,USA,False,VAN,Vancouver Canucks,Canada,10,16,26,playerByGameStats sum
+1981-1982,1981,1982-05-16,1981030414,OFF,4,1,4,VAN,Vancouver Canucks,Canada,True,NYI,New York Islanders,USA,16,10,26,playerByGameStats sum
+1982-1983,1982,1983-04-05,1982030111,OFF,1,1,1,QUE,Quebec Nordiques,Canada,False,BOS,Boston Bruins,USA,23,15,38,playerByGameStats sum
+1982-1983,1982,1983-04-05,1982030111,OFF,1,1,1,BOS,Boston Bruins,USA,True,QUE,Quebec Nordiques,Canada,15,23,38,playerByGameStats sum
+1982-1983,1982,1983-04-06,1982030121,OFF,1,2,1,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,32,26,58,playerByGameStats sum
+1982-1983,1982,1983-04-06,1982030121,OFF,1,2,1,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,26,32,58,playerByGameStats sum
+1982-1983,1982,1983-04-06,1982030161,OFF,1,6,1,TOR,Toronto Maple Leafs,Canada,False,MNS,Minnesota North Stars,USA,30,28,58,playerByGameStats sum
+1982-1983,1982,1983-04-06,1982030161,OFF,1,6,1,MNS,Minnesota North Stars,USA,True,TOR,Toronto Maple Leafs,Canada,28,30,58,playerByGameStats sum
+1982-1983,1982,1983-04-07,1982030112,OFF,1,1,2,QUE,Quebec Nordiques,Canada,False,BOS,Boston Bruins,USA,31,17,48,playerByGameStats sum
+1982-1983,1982,1983-04-07,1982030112,OFF,1,1,2,BOS,Boston Bruins,USA,True,QUE,Quebec Nordiques,Canada,17,31,48,playerByGameStats sum
+1982-1983,1982,1983-04-07,1982030122,OFF,1,2,2,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,8,4,12,playerByGameStats sum
+1982-1983,1982,1983-04-07,1982030122,OFF,1,2,2,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,4,8,12,playerByGameStats sum
+1982-1983,1982,1983-04-07,1982030162,OFF,1,6,2,TOR,Toronto Maple Leafs,Canada,False,MNS,Minnesota North Stars,USA,22,24,46,playerByGameStats sum
+1982-1983,1982,1983-04-07,1982030162,OFF,1,6,2,MNS,Minnesota North Stars,USA,True,TOR,Toronto Maple Leafs,Canada,24,22,46,playerByGameStats sum
+1982-1983,1982,1983-04-09,1982030113,OFF,1,1,3,BOS,Boston Bruins,USA,False,QUE,Quebec Nordiques,Canada,29,46,75,playerByGameStats sum
+1982-1983,1982,1983-04-09,1982030113,OFF,1,1,3,QUE,Quebec Nordiques,Canada,True,BOS,Boston Bruins,USA,46,29,75,playerByGameStats sum
+1982-1983,1982,1983-04-09,1982030123,OFF,1,2,3,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,21,11,32,playerByGameStats sum
+1982-1983,1982,1983-04-09,1982030123,OFF,1,2,3,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,11,21,32,playerByGameStats sum
+1982-1983,1982,1983-04-09,1982030163,OFF,1,6,3,MNS,Minnesota North Stars,USA,False,TOR,Toronto Maple Leafs,Canada,31,29,60,playerByGameStats sum
+1982-1983,1982,1983-04-09,1982030163,OFF,1,6,3,TOR,Toronto Maple Leafs,Canada,True,MNS,Minnesota North Stars,USA,29,31,60,playerByGameStats sum
+1982-1983,1982,1983-04-10,1982030114,OFF,1,1,4,BOS,Boston Bruins,USA,False,QUE,Quebec Nordiques,Canada,17,17,34,playerByGameStats sum
+1982-1983,1982,1983-04-10,1982030114,OFF,1,1,4,QUE,Quebec Nordiques,Canada,True,BOS,Boston Bruins,USA,17,17,34,playerByGameStats sum
+1982-1983,1982,1983-04-10,1982030164,OFF,1,6,4,MNS,Minnesota North Stars,USA,False,TOR,Toronto Maple Leafs,Canada,26,28,54,playerByGameStats sum
+1982-1983,1982,1983-04-10,1982030164,OFF,1,6,4,TOR,Toronto Maple Leafs,Canada,True,MNS,Minnesota North Stars,USA,28,26,54,playerByGameStats sum
+1982-1983,1982,1983-04-24,1982030321,OFF,3,2,1,CHI,Chicago Blackhawks,USA,False,EDM,Edmonton Oilers,Canada,20,15,35,playerByGameStats sum
+1982-1983,1982,1983-04-24,1982030321,OFF,3,2,1,EDM,Edmonton Oilers,Canada,True,CHI,Chicago Blackhawks,USA,15,20,35,playerByGameStats sum
+1982-1983,1982,1983-04-26,1982030322,OFF,3,2,2,CHI,Chicago Blackhawks,USA,False,EDM,Edmonton Oilers,Canada,4,6,10,playerByGameStats sum
+1982-1983,1982,1983-04-26,1982030322,OFF,3,2,2,EDM,Edmonton Oilers,Canada,True,CHI,Chicago Blackhawks,USA,6,4,10,playerByGameStats sum
+1982-1983,1982,1983-05-01,1982030323,OFF,3,2,3,EDM,Edmonton Oilers,Canada,False,CHI,Chicago Blackhawks,USA,13,9,22,playerByGameStats sum
+1982-1983,1982,1983-05-01,1982030323,OFF,3,2,3,CHI,Chicago Blackhawks,USA,True,EDM,Edmonton Oilers,Canada,9,13,22,playerByGameStats sum
+1982-1983,1982,1983-05-03,1982030324,OFF,3,2,4,EDM,Edmonton Oilers,Canada,False,CHI,Chicago Blackhawks,USA,15,12,27,playerByGameStats sum
+1982-1983,1982,1983-05-03,1982030324,OFF,3,2,4,CHI,Chicago Blackhawks,USA,True,EDM,Edmonton Oilers,Canada,12,15,27,playerByGameStats sum
+1982-1983,1982,1983-05-10,1982030411,OFF,4,1,1,NYI,New York Islanders,USA,False,EDM,Edmonton Oilers,Canada,18,12,30,playerByGameStats sum
+1982-1983,1982,1983-05-10,1982030411,OFF,4,1,1,EDM,Edmonton Oilers,Canada,True,NYI,New York Islanders,USA,12,18,30,playerByGameStats sum
+1982-1983,1982,1983-05-12,1982030412,OFF,4,1,2,NYI,New York Islanders,USA,False,EDM,Edmonton Oilers,Canada,15,11,26,playerByGameStats sum
+1982-1983,1982,1983-05-12,1982030412,OFF,4,1,2,EDM,Edmonton Oilers,Canada,True,NYI,New York Islanders,USA,11,15,26,playerByGameStats sum
+1982-1983,1982,1983-05-14,1982030413,OFF,4,1,3,EDM,Edmonton Oilers,Canada,False,NYI,New York Islanders,USA,8,10,18,playerByGameStats sum
+1982-1983,1982,1983-05-14,1982030413,OFF,4,1,3,NYI,New York Islanders,USA,True,EDM,Edmonton Oilers,Canada,10,8,18,playerByGameStats sum
+1982-1983,1982,1983-05-17,1982030414,OFF,4,1,4,EDM,Edmonton Oilers,Canada,False,NYI,New York Islanders,USA,17,16,33,playerByGameStats sum
+1982-1983,1982,1983-05-17,1982030414,OFF,4,1,4,NYI,New York Islanders,USA,True,EDM,Edmonton Oilers,Canada,16,17,33,playerByGameStats sum
+1983-1984,1983,1984-04-04,1983030111,OFF,1,1,1,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,46,25,71,playerByGameStats sum
+1983-1984,1983,1984-04-04,1983030111,OFF,1,1,1,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,25,46,71,playerByGameStats sum
+1983-1984,1983,1984-04-04,1983030121,OFF,1,2,1,QUE,Quebec Nordiques,Canada,False,BUF,Buffalo Sabres,USA,14,15,29,playerByGameStats sum
+1983-1984,1983,1984-04-04,1983030121,OFF,1,2,1,BUF,Buffalo Sabres,USA,True,QUE,Quebec Nordiques,Canada,15,14,29,playerByGameStats sum
+1983-1984,1983,1984-04-05,1983030112,OFF,1,1,2,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,35,25,60,playerByGameStats sum
+1983-1984,1983,1984-04-05,1983030112,OFF,1,1,2,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,25,35,60,playerByGameStats sum
+1983-1984,1983,1984-04-05,1983030122,OFF,1,2,2,QUE,Quebec Nordiques,Canada,False,BUF,Buffalo Sabres,USA,30,24,54,playerByGameStats sum
+1983-1984,1983,1984-04-05,1983030122,OFF,1,2,2,BUF,Buffalo Sabres,USA,True,QUE,Quebec Nordiques,Canada,24,30,54,playerByGameStats sum
+1983-1984,1983,1984-04-07,1983030113,OFF,1,1,3,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,27,30,57,playerByGameStats sum
+1983-1984,1983,1984-04-07,1983030113,OFF,1,1,3,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,30,27,57,playerByGameStats sum
+1983-1984,1983,1984-04-07,1983030123,OFF,1,2,3,BUF,Buffalo Sabres,USA,False,QUE,Quebec Nordiques,Canada,36,36,72,playerByGameStats sum
+1983-1984,1983,1984-04-07,1983030123,OFF,1,2,3,QUE,Quebec Nordiques,Canada,True,BUF,Buffalo Sabres,USA,36,36,72,playerByGameStats sum
+1983-1984,1983,1984-04-24,1983030311,OFF,3,1,1,NYI,New York Islanders,USA,False,MTL,Montréal Canadiens,Canada,6,6,12,playerByGameStats sum
+1983-1984,1983,1984-04-24,1983030311,OFF,3,1,1,MTL,Montréal Canadiens,Canada,True,NYI,New York Islanders,USA,6,6,12,playerByGameStats sum
+1983-1984,1983,1984-04-24,1983030321,OFF,3,2,1,MNS,Minnesota North Stars,USA,False,EDM,Edmonton Oilers,Canada,16,20,36,playerByGameStats sum
+1983-1984,1983,1984-04-24,1983030321,OFF,3,2,1,EDM,Edmonton Oilers,Canada,True,MNS,Minnesota North Stars,USA,20,16,36,playerByGameStats sum
+1983-1984,1983,1984-04-26,1983030312,OFF,3,1,2,NYI,New York Islanders,USA,False,MTL,Montréal Canadiens,Canada,34,30,64,playerByGameStats sum
+1983-1984,1983,1984-04-26,1983030312,OFF,3,1,2,MTL,Montréal Canadiens,Canada,True,NYI,New York Islanders,USA,30,34,64,playerByGameStats sum
+1983-1984,1983,1984-04-26,1983030322,OFF,3,2,2,MNS,Minnesota North Stars,USA,False,EDM,Edmonton Oilers,Canada,35,35,70,playerByGameStats sum
+1983-1984,1983,1984-04-26,1983030322,OFF,3,2,2,EDM,Edmonton Oilers,Canada,True,MNS,Minnesota North Stars,USA,35,35,70,playerByGameStats sum
+1983-1984,1983,1984-04-28,1983030313,OFF,3,1,3,MTL,Montréal Canadiens,Canada,False,NYI,New York Islanders,USA,8,12,20,playerByGameStats sum
+1983-1984,1983,1984-04-28,1983030313,OFF,3,1,3,NYI,New York Islanders,USA,True,MTL,Montréal Canadiens,Canada,12,8,20,playerByGameStats sum
+1983-1984,1983,1984-04-28,1983030323,OFF,3,2,3,EDM,Edmonton Oilers,Canada,False,MNS,Minnesota North Stars,USA,37,34,71,playerByGameStats sum
+1983-1984,1983,1984-04-28,1983030323,OFF,3,2,3,MNS,Minnesota North Stars,USA,True,EDM,Edmonton Oilers,Canada,34,37,71,playerByGameStats sum
+1983-1984,1983,1984-05-01,1983030314,OFF,3,1,4,MTL,Montréal Canadiens,Canada,False,NYI,New York Islanders,USA,20,27,47,playerByGameStats sum
+1983-1984,1983,1984-05-01,1983030314,OFF,3,1,4,NYI,New York Islanders,USA,True,MTL,Montréal Canadiens,Canada,27,20,47,playerByGameStats sum
+1983-1984,1983,1984-05-01,1983030324,OFF,3,2,4,EDM,Edmonton Oilers,Canada,False,MNS,Minnesota North Stars,USA,13,13,26,playerByGameStats sum
+1983-1984,1983,1984-05-01,1983030324,OFF,3,2,4,MNS,Minnesota North Stars,USA,True,EDM,Edmonton Oilers,Canada,13,13,26,playerByGameStats sum
+1983-1984,1983,1984-05-03,1983030315,OFF,3,1,5,NYI,New York Islanders,USA,False,MTL,Montréal Canadiens,Canada,14,8,22,playerByGameStats sum
+1983-1984,1983,1984-05-03,1983030315,OFF,3,1,5,MTL,Montréal Canadiens,Canada,True,NYI,New York Islanders,USA,8,14,22,playerByGameStats sum
+1983-1984,1983,1984-05-05,1983030316,OFF,3,1,6,MTL,Montréal Canadiens,Canada,False,NYI,New York Islanders,USA,15,12,27,playerByGameStats sum
+1983-1984,1983,1984-05-05,1983030316,OFF,3,1,6,NYI,New York Islanders,USA,True,MTL,Montréal Canadiens,Canada,12,15,27,playerByGameStats sum
+1983-1984,1983,1984-05-10,1983030411,OFF,4,1,1,EDM,Edmonton Oilers,Canada,False,NYI,New York Islanders,USA,10,8,18,playerByGameStats sum
+1983-1984,1983,1984-05-10,1983030411,OFF,4,1,1,NYI,New York Islanders,USA,True,EDM,Edmonton Oilers,Canada,8,10,18,playerByGameStats sum
+1983-1984,1983,1984-05-12,1983030412,OFF,4,1,2,EDM,Edmonton Oilers,Canada,False,NYI,New York Islanders,USA,64,60,124,playerByGameStats sum
+1983-1984,1983,1984-05-12,1983030412,OFF,4,1,2,NYI,New York Islanders,USA,True,EDM,Edmonton Oilers,Canada,60,64,124,playerByGameStats sum
+1983-1984,1983,1984-05-15,1983030413,OFF,4,1,3,NYI,New York Islanders,USA,False,EDM,Edmonton Oilers,Canada,29,33,62,playerByGameStats sum
+1983-1984,1983,1984-05-15,1983030413,OFF,4,1,3,EDM,Edmonton Oilers,Canada,True,NYI,New York Islanders,USA,33,29,62,playerByGameStats sum
+1983-1984,1983,1984-05-17,1983030414,OFF,4,1,4,NYI,New York Islanders,USA,False,EDM,Edmonton Oilers,Canada,20,20,40,playerByGameStats sum
+1983-1984,1983,1984-05-17,1983030414,OFF,4,1,4,EDM,Edmonton Oilers,Canada,True,NYI,New York Islanders,USA,20,20,40,playerByGameStats sum
+1983-1984,1983,1984-05-19,1983030415,OFF,4,1,5,NYI,New York Islanders,USA,False,EDM,Edmonton Oilers,Canada,10,2,12,playerByGameStats sum
+1983-1984,1983,1984-05-19,1983030415,OFF,4,1,5,EDM,Edmonton Oilers,Canada,True,NYI,New York Islanders,USA,2,10,12,playerByGameStats sum
+1984-1985,1984,1985-04-10,1984030111,OFF,1,1,1,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,24,22,46,playerByGameStats sum
+1984-1985,1984,1985-04-10,1984030111,OFF,1,1,1,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,22,24,46,playerByGameStats sum
+1984-1985,1984,1985-04-10,1984030121,OFF,1,2,1,BUF,Buffalo Sabres,USA,False,QUE,Quebec Nordiques,Canada,18,14,32,playerByGameStats sum
+1984-1985,1984,1985-04-10,1984030121,OFF,1,2,1,QUE,Quebec Nordiques,Canada,True,BUF,Buffalo Sabres,USA,14,18,32,playerByGameStats sum
+1984-1985,1984,1985-04-10,1984030171,OFF,1,7,1,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,19,21,40,playerByGameStats sum
+1984-1985,1984,1985-04-10,1984030171,OFF,1,7,1,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,21,19,40,playerByGameStats sum
+1984-1985,1984,1985-04-11,1984030112,OFF,1,1,2,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,27,21,48,playerByGameStats sum
+1984-1985,1984,1985-04-11,1984030112,OFF,1,1,2,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,21,27,48,playerByGameStats sum
+1984-1985,1984,1985-04-11,1984030122,OFF,1,2,2,BUF,Buffalo Sabres,USA,False,QUE,Quebec Nordiques,Canada,34,36,70,playerByGameStats sum
+1984-1985,1984,1985-04-11,1984030122,OFF,1,2,2,QUE,Quebec Nordiques,Canada,True,BUF,Buffalo Sabres,USA,36,34,70,playerByGameStats sum
+1984-1985,1984,1985-04-11,1984030172,OFF,1,7,2,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,12,16,28,playerByGameStats sum
+1984-1985,1984,1985-04-11,1984030172,OFF,1,7,2,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,16,12,28,playerByGameStats sum
+1984-1985,1984,1985-04-13,1984030113,OFF,1,1,3,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,6,8,14,playerByGameStats sum
+1984-1985,1984,1985-04-13,1984030113,OFF,1,1,3,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,8,6,14,playerByGameStats sum
+1984-1985,1984,1985-04-13,1984030123,OFF,1,2,3,QUE,Quebec Nordiques,Canada,False,BUF,Buffalo Sabres,USA,13,17,30,playerByGameStats sum
+1984-1985,1984,1985-04-13,1984030123,OFF,1,2,3,BUF,Buffalo Sabres,USA,True,QUE,Quebec Nordiques,Canada,17,13,30,playerByGameStats sum
+1984-1985,1984,1985-04-13,1984030173,OFF,1,7,3,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,22,16,38,playerByGameStats sum
+1984-1985,1984,1985-04-13,1984030173,OFF,1,7,3,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,16,22,38,playerByGameStats sum
+1984-1985,1984,1985-04-14,1984030114,OFF,1,1,4,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,32,32,64,playerByGameStats sum
+1984-1985,1984,1985-04-14,1984030114,OFF,1,1,4,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,32,32,64,playerByGameStats sum
+1984-1985,1984,1985-04-14,1984030124,OFF,1,2,4,QUE,Quebec Nordiques,Canada,False,BUF,Buffalo Sabres,USA,79,68,147,playerByGameStats sum
+1984-1985,1984,1985-04-14,1984030124,OFF,1,2,4,BUF,Buffalo Sabres,USA,True,QUE,Quebec Nordiques,Canada,68,79,147,playerByGameStats sum
+1984-1985,1984,1985-04-16,1984030115,OFF,1,1,5,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,6,4,10,playerByGameStats sum
+1984-1985,1984,1985-04-16,1984030115,OFF,1,1,5,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,4,6,10,playerByGameStats sum
+1984-1985,1984,1985-04-16,1984030125,OFF,1,2,5,BUF,Buffalo Sabres,USA,False,QUE,Quebec Nordiques,Canada,10,10,20,playerByGameStats sum
+1984-1985,1984,1985-04-16,1984030125,OFF,1,2,5,QUE,Quebec Nordiques,Canada,True,BUF,Buffalo Sabres,USA,10,10,20,playerByGameStats sum
+1984-1985,1984,1985-05-04,1984030321,OFF,3,2,1,CHI,Chicago Blackhawks,USA,False,EDM,Edmonton Oilers,Canada,8,6,14,playerByGameStats sum
+1984-1985,1984,1985-05-04,1984030321,OFF,3,2,1,EDM,Edmonton Oilers,Canada,True,CHI,Chicago Blackhawks,USA,6,8,14,playerByGameStats sum
+1984-1985,1984,1985-05-05,1984030311,OFF,3,1,1,PHI,Philadelphia Flyers,USA,False,QUE,Quebec Nordiques,Canada,8,12,20,playerByGameStats sum
+1984-1985,1984,1985-05-05,1984030311,OFF,3,1,1,QUE,Quebec Nordiques,Canada,True,PHI,Philadelphia Flyers,USA,12,8,20,playerByGameStats sum
+1984-1985,1984,1985-05-07,1984030312,OFF,3,1,2,PHI,Philadelphia Flyers,USA,False,QUE,Quebec Nordiques,Canada,44,44,88,playerByGameStats sum
+1984-1985,1984,1985-05-07,1984030312,OFF,3,1,2,QUE,Quebec Nordiques,Canada,True,PHI,Philadelphia Flyers,USA,44,44,88,playerByGameStats sum
+1984-1985,1984,1985-05-07,1984030322,OFF,3,2,2,CHI,Chicago Blackhawks,USA,False,EDM,Edmonton Oilers,Canada,19,17,36,playerByGameStats sum
+1984-1985,1984,1985-05-07,1984030322,OFF,3,2,2,EDM,Edmonton Oilers,Canada,True,CHI,Chicago Blackhawks,USA,17,19,36,playerByGameStats sum
+1984-1985,1984,1985-05-09,1984030313,OFF,3,1,3,QUE,Quebec Nordiques,Canada,False,PHI,Philadelphia Flyers,USA,37,37,74,playerByGameStats sum
+1984-1985,1984,1985-05-09,1984030313,OFF,3,1,3,PHI,Philadelphia Flyers,USA,True,QUE,Quebec Nordiques,Canada,37,37,74,playerByGameStats sum
+1984-1985,1984,1985-05-09,1984030323,OFF,3,2,3,EDM,Edmonton Oilers,Canada,False,CHI,Chicago Blackhawks,USA,6,4,10,playerByGameStats sum
+1984-1985,1984,1985-05-09,1984030323,OFF,3,2,3,CHI,Chicago Blackhawks,USA,True,EDM,Edmonton Oilers,Canada,4,6,10,playerByGameStats sum
+1984-1985,1984,1985-05-12,1984030314,OFF,3,1,4,QUE,Quebec Nordiques,Canada,False,PHI,Philadelphia Flyers,USA,21,24,45,playerByGameStats sum
+1984-1985,1984,1985-05-12,1984030314,OFF,3,1,4,PHI,Philadelphia Flyers,USA,True,QUE,Quebec Nordiques,Canada,24,21,45,playerByGameStats sum
+1984-1985,1984,1985-05-12,1984030324,OFF,3,2,4,EDM,Edmonton Oilers,Canada,False,CHI,Chicago Blackhawks,USA,56,54,110,playerByGameStats sum
+1984-1985,1984,1985-05-12,1984030324,OFF,3,2,4,CHI,Chicago Blackhawks,USA,True,EDM,Edmonton Oilers,Canada,54,56,110,playerByGameStats sum
+1984-1985,1984,1985-05-14,1984030315,OFF,3,1,5,PHI,Philadelphia Flyers,USA,False,QUE,Quebec Nordiques,Canada,44,39,83,playerByGameStats sum
+1984-1985,1984,1985-05-14,1984030315,OFF,3,1,5,QUE,Quebec Nordiques,Canada,True,PHI,Philadelphia Flyers,USA,39,44,83,playerByGameStats sum
+1984-1985,1984,1985-05-14,1984030325,OFF,3,2,5,CHI,Chicago Blackhawks,USA,False,EDM,Edmonton Oilers,Canada,74,68,142,playerByGameStats sum
+1984-1985,1984,1985-05-14,1984030325,OFF,3,2,5,EDM,Edmonton Oilers,Canada,True,CHI,Chicago Blackhawks,USA,68,74,142,playerByGameStats sum
+1984-1985,1984,1985-05-16,1984030316,OFF,3,1,6,QUE,Quebec Nordiques,Canada,False,PHI,Philadelphia Flyers,USA,22,18,40,playerByGameStats sum
+1984-1985,1984,1985-05-16,1984030316,OFF,3,1,6,PHI,Philadelphia Flyers,USA,True,QUE,Quebec Nordiques,Canada,18,22,40,playerByGameStats sum
+1984-1985,1984,1985-05-16,1984030326,OFF,3,2,6,EDM,Edmonton Oilers,Canada,False,CHI,Chicago Blackhawks,USA,17,21,38,playerByGameStats sum
+1984-1985,1984,1985-05-16,1984030326,OFF,3,2,6,CHI,Chicago Blackhawks,USA,True,EDM,Edmonton Oilers,Canada,21,17,38,playerByGameStats sum
+1984-1985,1984,1985-05-21,1984030411,OFF,4,1,1,EDM,Edmonton Oilers,Canada,False,PHI,Philadelphia Flyers,USA,33,25,58,playerByGameStats sum
+1984-1985,1984,1985-05-21,1984030411,OFF,4,1,1,PHI,Philadelphia Flyers,USA,True,EDM,Edmonton Oilers,Canada,25,33,58,playerByGameStats sum
+1984-1985,1984,1985-05-23,1984030412,OFF,4,1,2,EDM,Edmonton Oilers,Canada,False,PHI,Philadelphia Flyers,USA,21,21,42,playerByGameStats sum
+1984-1985,1984,1985-05-23,1984030412,OFF,4,1,2,PHI,Philadelphia Flyers,USA,True,EDM,Edmonton Oilers,Canada,21,21,42,playerByGameStats sum
+1984-1985,1984,1985-05-25,1984030413,OFF,4,1,3,PHI,Philadelphia Flyers,USA,False,EDM,Edmonton Oilers,Canada,44,44,88,playerByGameStats sum
+1984-1985,1984,1985-05-25,1984030413,OFF,4,1,3,EDM,Edmonton Oilers,Canada,True,PHI,Philadelphia Flyers,USA,44,44,88,playerByGameStats sum
+1984-1985,1984,1985-05-28,1984030414,OFF,4,1,4,PHI,Philadelphia Flyers,USA,False,EDM,Edmonton Oilers,Canada,18,14,32,playerByGameStats sum
+1984-1985,1984,1985-05-28,1984030414,OFF,4,1,4,EDM,Edmonton Oilers,Canada,True,PHI,Philadelphia Flyers,USA,14,18,32,playerByGameStats sum
+1984-1985,1984,1985-05-30,1984030415,OFF,4,1,5,PHI,Philadelphia Flyers,USA,False,EDM,Edmonton Oilers,Canada,62,59,121,playerByGameStats sum
+1984-1985,1984,1985-05-30,1984030415,OFF,4,1,5,EDM,Edmonton Oilers,Canada,True,PHI,Philadelphia Flyers,USA,59,62,121,playerByGameStats sum
+1985-1986,1985,1986-04-09,1985030111,OFF,1,1,1,HFD,Hartford Whalers,USA,False,QUE,Quebec Nordiques,Canada,25,23,48,playerByGameStats sum
+1985-1986,1985,1986-04-09,1985030111,OFF,1,1,1,QUE,Quebec Nordiques,Canada,True,HFD,Hartford Whalers,USA,23,25,48,playerByGameStats sum
+1985-1986,1985,1986-04-09,1985030121,OFF,1,2,1,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,95,108,203,playerByGameStats sum
+1985-1986,1985,1986-04-09,1985030121,OFF,1,2,1,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,108,95,203,playerByGameStats sum
+1985-1986,1985,1986-04-09,1985030151,OFF,1,5,1,TOR,Toronto Maple Leafs,Canada,False,CHI,Chicago Blackhawks,USA,12,10,22,playerByGameStats sum
+1985-1986,1985,1986-04-09,1985030151,OFF,1,5,1,CHI,Chicago Blackhawks,USA,True,TOR,Toronto Maple Leafs,Canada,10,12,22,playerByGameStats sum
+1985-1986,1985,1986-04-10,1985030112,OFF,1,1,2,HFD,Hartford Whalers,USA,False,QUE,Quebec Nordiques,Canada,25,31,56,playerByGameStats sum
+1985-1986,1985,1986-04-10,1985030112,OFF,1,1,2,QUE,Quebec Nordiques,Canada,True,HFD,Hartford Whalers,USA,31,25,56,playerByGameStats sum
+1985-1986,1985,1986-04-10,1985030122,OFF,1,2,2,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,37,25,62,playerByGameStats sum
+1985-1986,1985,1986-04-10,1985030122,OFF,1,2,2,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,25,37,62,playerByGameStats sum
+1985-1986,1985,1986-04-10,1985030152,OFF,1,5,2,TOR,Toronto Maple Leafs,Canada,False,CHI,Chicago Blackhawks,USA,27,25,52,playerByGameStats sum
+1985-1986,1985,1986-04-10,1985030152,OFF,1,5,2,CHI,Chicago Blackhawks,USA,True,TOR,Toronto Maple Leafs,Canada,25,27,52,playerByGameStats sum
+1985-1986,1985,1986-04-12,1985030113,OFF,1,1,3,QUE,Quebec Nordiques,Canada,False,HFD,Hartford Whalers,USA,62,44,106,playerByGameStats sum
+1985-1986,1985,1986-04-12,1985030113,OFF,1,1,3,HFD,Hartford Whalers,USA,True,QUE,Quebec Nordiques,Canada,44,62,106,playerByGameStats sum
+1985-1986,1985,1986-04-12,1985030123,OFF,1,2,3,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,26,26,52,playerByGameStats sum
+1985-1986,1985,1986-04-12,1985030123,OFF,1,2,3,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,26,26,52,playerByGameStats sum
+1985-1986,1985,1986-04-12,1985030153,OFF,1,5,3,CHI,Chicago Blackhawks,USA,False,TOR,Toronto Maple Leafs,Canada,52,38,90,playerByGameStats sum
+1985-1986,1985,1986-04-12,1985030153,OFF,1,5,3,TOR,Toronto Maple Leafs,Canada,True,CHI,Chicago Blackhawks,USA,38,52,90,playerByGameStats sum
+1985-1986,1985,1986-04-17,1985030211,OFF,2,1,1,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,17,17,34,playerByGameStats sum
+1985-1986,1985,1986-04-17,1985030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,17,17,34,playerByGameStats sum
+1985-1986,1985,1986-04-18,1985030231,OFF,2,3,1,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,28,26,54,playerByGameStats sum
+1985-1986,1985,1986-04-18,1985030231,OFF,2,3,1,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,26,28,54,playerByGameStats sum
+1985-1986,1985,1986-04-19,1985030212,OFF,2,1,2,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,15,29,44,playerByGameStats sum
+1985-1986,1985,1986-04-19,1985030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,29,15,44,playerByGameStats sum
+1985-1986,1985,1986-04-20,1985030232,OFF,2,3,2,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,39,37,76,playerByGameStats sum
+1985-1986,1985,1986-04-20,1985030232,OFF,2,3,2,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,37,39,76,playerByGameStats sum
+1985-1986,1985,1986-04-21,1985030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,HFD,Hartford Whalers,USA,15,13,28,playerByGameStats sum
+1985-1986,1985,1986-04-21,1985030213,OFF,2,1,3,HFD,Hartford Whalers,USA,True,MTL,Montréal Canadiens,Canada,13,15,28,playerByGameStats sum
+1985-1986,1985,1986-04-22,1985030233,OFF,2,3,3,STL,St. Louis Blues,USA,False,TOR,Toronto Maple Leafs,Canada,29,27,56,playerByGameStats sum
+1985-1986,1985,1986-04-22,1985030233,OFF,2,3,3,TOR,Toronto Maple Leafs,Canada,True,STL,St. Louis Blues,USA,27,29,56,playerByGameStats sum
+1985-1986,1985,1986-04-23,1985030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,HFD,Hartford Whalers,USA,26,28,54,playerByGameStats sum
+1985-1986,1985,1986-04-23,1985030214,OFF,2,1,4,HFD,Hartford Whalers,USA,True,MTL,Montréal Canadiens,Canada,28,26,54,playerByGameStats sum
+1985-1986,1985,1986-04-24,1985030234,OFF,2,3,4,STL,St. Louis Blues,USA,False,TOR,Toronto Maple Leafs,Canada,61,51,112,playerByGameStats sum
+1985-1986,1985,1986-04-24,1985030234,OFF,2,3,4,TOR,Toronto Maple Leafs,Canada,True,STL,St. Louis Blues,USA,51,61,112,playerByGameStats sum
+1985-1986,1985,1986-04-25,1985030215,OFF,2,1,5,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,21,19,40,playerByGameStats sum
+1985-1986,1985,1986-04-25,1985030215,OFF,2,1,5,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,19,21,40,playerByGameStats sum
+1985-1986,1985,1986-04-26,1985030235,OFF,2,3,5,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,16,5,21,playerByGameStats sum
+1985-1986,1985,1986-04-26,1985030235,OFF,2,3,5,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,5,16,21,playerByGameStats sum
+1985-1986,1985,1986-04-27,1985030216,OFF,2,1,6,MTL,Montréal Canadiens,Canada,False,HFD,Hartford Whalers,USA,29,40,69,playerByGameStats sum
+1985-1986,1985,1986-04-27,1985030216,OFF,2,1,6,HFD,Hartford Whalers,USA,True,MTL,Montréal Canadiens,Canada,40,29,69,playerByGameStats sum
+1985-1986,1985,1986-04-28,1985030236,OFF,2,3,6,STL,St. Louis Blues,USA,False,TOR,Toronto Maple Leafs,Canada,27,23,50,playerByGameStats sum
+1985-1986,1985,1986-04-28,1985030236,OFF,2,3,6,TOR,Toronto Maple Leafs,Canada,True,STL,St. Louis Blues,USA,23,27,50,playerByGameStats sum
+1985-1986,1985,1986-04-29,1985030217,OFF,2,1,7,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,28,20,48,playerByGameStats sum
+1985-1986,1985,1986-04-29,1985030217,OFF,2,1,7,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,20,28,48,playerByGameStats sum
+1985-1986,1985,1986-04-30,1985030237,OFF,2,3,7,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,23,21,44,playerByGameStats sum
+1985-1986,1985,1986-04-30,1985030237,OFF,2,3,7,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,21,23,44,playerByGameStats sum
+1985-1986,1985,1986-05-01,1985030311,OFF,3,1,1,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,12,12,24,playerByGameStats sum
+1985-1986,1985,1986-05-01,1985030311,OFF,3,1,1,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,12,12,24,playerByGameStats sum
+1985-1986,1985,1986-05-02,1985030321,OFF,3,2,1,STL,St. Louis Blues,USA,False,CGY,Calgary Flames,Canada,12,10,22,playerByGameStats sum
+1985-1986,1985,1986-05-02,1985030321,OFF,3,2,1,CGY,Calgary Flames,Canada,True,STL,St. Louis Blues,USA,10,12,22,playerByGameStats sum
+1985-1986,1985,1986-05-03,1985030312,OFF,3,1,2,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,26,26,52,playerByGameStats sum
+1985-1986,1985,1986-05-03,1985030312,OFF,3,1,2,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,26,26,52,playerByGameStats sum
+1985-1986,1985,1986-05-04,1985030322,OFF,3,2,2,STL,St. Louis Blues,USA,False,CGY,Calgary Flames,Canada,78,81,159,playerByGameStats sum
+1985-1986,1985,1986-05-04,1985030322,OFF,3,2,2,CGY,Calgary Flames,Canada,True,STL,St. Louis Blues,USA,81,78,159,playerByGameStats sum
+1985-1986,1985,1986-05-05,1985030313,OFF,3,1,3,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,18,20,38,playerByGameStats sum
+1985-1986,1985,1986-05-05,1985030313,OFF,3,1,3,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,20,18,38,playerByGameStats sum
+1985-1986,1985,1986-05-06,1985030323,OFF,3,2,3,CGY,Calgary Flames,Canada,False,STL,St. Louis Blues,USA,24,22,46,playerByGameStats sum
+1985-1986,1985,1986-05-06,1985030323,OFF,3,2,3,STL,St. Louis Blues,USA,True,CGY,Calgary Flames,Canada,22,24,46,playerByGameStats sum
+1985-1986,1985,1986-05-07,1985030314,OFF,3,1,4,MTL,Montréal Canadiens,Canada,False,NYR,New York Rangers,USA,53,54,107,playerByGameStats sum
+1985-1986,1985,1986-05-07,1985030314,OFF,3,1,4,NYR,New York Rangers,USA,True,MTL,Montréal Canadiens,Canada,54,53,107,playerByGameStats sum
+1985-1986,1985,1986-05-08,1985030324,OFF,3,2,4,CGY,Calgary Flames,Canada,False,STL,St. Louis Blues,USA,27,31,58,playerByGameStats sum
+1985-1986,1985,1986-05-08,1985030324,OFF,3,2,4,STL,St. Louis Blues,USA,True,CGY,Calgary Flames,Canada,31,27,58,playerByGameStats sum
+1985-1986,1985,1986-05-09,1985030315,OFF,3,1,5,NYR,New York Rangers,USA,False,MTL,Montréal Canadiens,Canada,12,8,20,playerByGameStats sum
+1985-1986,1985,1986-05-09,1985030315,OFF,3,1,5,MTL,Montréal Canadiens,Canada,True,NYR,New York Rangers,USA,8,12,20,playerByGameStats sum
+1985-1986,1985,1986-05-10,1985030325,OFF,3,2,5,STL,St. Louis Blues,USA,False,CGY,Calgary Flames,Canada,31,35,66,playerByGameStats sum
+1985-1986,1985,1986-05-10,1985030325,OFF,3,2,5,CGY,Calgary Flames,Canada,True,STL,St. Louis Blues,USA,35,31,66,playerByGameStats sum
+1985-1986,1985,1986-05-12,1985030326,OFF,3,2,6,CGY,Calgary Flames,Canada,False,STL,St. Louis Blues,USA,44,54,98,playerByGameStats sum
+1985-1986,1985,1986-05-12,1985030326,OFF,3,2,6,STL,St. Louis Blues,USA,True,CGY,Calgary Flames,Canada,54,44,98,playerByGameStats sum
+1985-1986,1985,1986-05-14,1985030327,OFF,3,2,7,STL,St. Louis Blues,USA,False,CGY,Calgary Flames,Canada,13,27,40,playerByGameStats sum
+1985-1986,1985,1986-05-14,1985030327,OFF,3,2,7,CGY,Calgary Flames,Canada,True,STL,St. Louis Blues,USA,27,13,40,playerByGameStats sum
+1986-1987,1986,1987-04-08,1986030111,OFF,1,1,1,QUE,Quebec Nordiques,Canada,False,HFD,Hartford Whalers,USA,68,77,145,playerByGameStats sum
+1986-1987,1986,1987-04-08,1986030111,OFF,1,1,1,HFD,Hartford Whalers,USA,True,QUE,Quebec Nordiques,Canada,77,68,145,playerByGameStats sum
+1986-1987,1986,1987-04-08,1986030121,OFF,1,2,1,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,31,52,83,playerByGameStats sum
+1986-1987,1986,1987-04-08,1986030121,OFF,1,2,1,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,52,31,83,playerByGameStats sum
+1986-1987,1986,1987-04-08,1986030151,OFF,1,5,1,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,28,21,49,playerByGameStats sum
+1986-1987,1986,1987-04-08,1986030151,OFF,1,5,1,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,21,28,49,playerByGameStats sum
+1986-1987,1986,1987-04-08,1986030171,OFF,1,7,1,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,15,15,30,playerByGameStats sum
+1986-1987,1986,1987-04-08,1986030171,OFF,1,7,1,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,15,15,30,playerByGameStats sum
+1986-1987,1986,1987-04-09,1986030112,OFF,1,1,2,QUE,Quebec Nordiques,Canada,False,HFD,Hartford Whalers,USA,18,22,40,playerByGameStats sum
+1986-1987,1986,1987-04-09,1986030112,OFF,1,1,2,HFD,Hartford Whalers,USA,True,QUE,Quebec Nordiques,Canada,22,18,40,playerByGameStats sum
+1986-1987,1986,1987-04-09,1986030122,OFF,1,2,2,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,18,22,40,playerByGameStats sum
+1986-1987,1986,1987-04-09,1986030122,OFF,1,2,2,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,22,18,40,playerByGameStats sum
+1986-1987,1986,1987-04-09,1986030152,OFF,1,5,2,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,18,10,28,playerByGameStats sum
+1986-1987,1986,1987-04-09,1986030152,OFF,1,5,2,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,10,18,28,playerByGameStats sum
+1986-1987,1986,1987-04-09,1986030172,OFF,1,7,2,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,43,25,68,playerByGameStats sum
+1986-1987,1986,1987-04-09,1986030172,OFF,1,7,2,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,25,43,68,playerByGameStats sum
+1986-1987,1986,1987-04-11,1986030113,OFF,1,1,3,HFD,Hartford Whalers,USA,False,QUE,Quebec Nordiques,Canada,118,123,241,playerByGameStats sum
+1986-1987,1986,1987-04-11,1986030113,OFF,1,1,3,QUE,Quebec Nordiques,Canada,True,HFD,Hartford Whalers,USA,123,118,241,playerByGameStats sum
+1986-1987,1986,1987-04-11,1986030123,OFF,1,2,3,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,16,14,30,playerByGameStats sum
+1986-1987,1986,1987-04-11,1986030123,OFF,1,2,3,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,14,16,30,playerByGameStats sum
+1986-1987,1986,1987-04-11,1986030153,OFF,1,5,3,STL,St. Louis Blues,USA,False,TOR,Toronto Maple Leafs,Canada,28,42,70,playerByGameStats sum
+1986-1987,1986,1987-04-11,1986030153,OFF,1,5,3,TOR,Toronto Maple Leafs,Canada,True,STL,St. Louis Blues,USA,42,28,70,playerByGameStats sum
+1986-1987,1986,1987-04-11,1986030173,OFF,1,7,3,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,20,14,34,playerByGameStats sum
+1986-1987,1986,1987-04-11,1986030173,OFF,1,7,3,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,14,20,34,playerByGameStats sum
+1986-1987,1986,1987-04-12,1986030114,OFF,1,1,4,HFD,Hartford Whalers,USA,False,QUE,Quebec Nordiques,Canada,45,41,86,playerByGameStats sum
+1986-1987,1986,1987-04-12,1986030114,OFF,1,1,4,QUE,Quebec Nordiques,Canada,True,HFD,Hartford Whalers,USA,41,45,86,playerByGameStats sum
+1986-1987,1986,1987-04-12,1986030124,OFF,1,2,4,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,19,19,38,playerByGameStats sum
+1986-1987,1986,1987-04-12,1986030124,OFF,1,2,4,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,19,19,38,playerByGameStats sum
+1986-1987,1986,1987-04-12,1986030154,OFF,1,5,4,STL,St. Louis Blues,USA,False,TOR,Toronto Maple Leafs,Canada,64,52,116,playerByGameStats sum
+1986-1987,1986,1987-04-12,1986030154,OFF,1,5,4,TOR,Toronto Maple Leafs,Canada,True,STL,St. Louis Blues,USA,52,64,116,playerByGameStats sum
+1986-1987,1986,1987-04-12,1986030174,OFF,1,7,4,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,40,30,70,playerByGameStats sum
+1986-1987,1986,1987-04-12,1986030174,OFF,1,7,4,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,30,40,70,playerByGameStats sum
+1986-1987,1986,1987-04-14,1986030115,OFF,1,1,5,QUE,Quebec Nordiques,Canada,False,HFD,Hartford Whalers,USA,22,22,44,playerByGameStats sum
+1986-1987,1986,1987-04-14,1986030115,OFF,1,1,5,HFD,Hartford Whalers,USA,True,QUE,Quebec Nordiques,Canada,22,22,44,playerByGameStats sum
+1986-1987,1986,1987-04-14,1986030155,OFF,1,5,5,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,23,26,49,playerByGameStats sum
+1986-1987,1986,1987-04-14,1986030155,OFF,1,5,5,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,26,23,49,playerByGameStats sum
+1986-1987,1986,1987-04-14,1986030175,OFF,1,7,5,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,16,12,28,playerByGameStats sum
+1986-1987,1986,1987-04-14,1986030175,OFF,1,7,5,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,12,16,28,playerByGameStats sum
+1986-1987,1986,1987-04-16,1986030116,OFF,1,1,6,HFD,Hartford Whalers,USA,False,QUE,Quebec Nordiques,Canada,31,20,51,playerByGameStats sum
+1986-1987,1986,1987-04-16,1986030116,OFF,1,1,6,QUE,Quebec Nordiques,Canada,True,HFD,Hartford Whalers,USA,20,31,51,playerByGameStats sum
+1986-1987,1986,1987-04-16,1986030156,OFF,1,5,6,STL,St. Louis Blues,USA,False,TOR,Toronto Maple Leafs,Canada,31,25,56,playerByGameStats sum
+1986-1987,1986,1987-04-16,1986030156,OFF,1,5,6,TOR,Toronto Maple Leafs,Canada,True,STL,St. Louis Blues,USA,25,31,56,playerByGameStats sum
+1986-1987,1986,1987-04-21,1986030231,OFF,2,3,1,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,8,6,14,playerByGameStats sum
+1986-1987,1986,1987-04-21,1986030231,OFF,2,3,1,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,6,8,14,playerByGameStats sum
+1986-1987,1986,1987-04-23,1986030232,OFF,2,3,2,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,30,36,66,playerByGameStats sum
+1986-1987,1986,1987-04-23,1986030232,OFF,2,3,2,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,36,30,66,playerByGameStats sum
+1986-1987,1986,1987-04-25,1986030233,OFF,2,3,3,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,35,41,76,playerByGameStats sum
+1986-1987,1986,1987-04-25,1986030233,OFF,2,3,3,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,41,35,76,playerByGameStats sum
+1986-1987,1986,1987-04-27,1986030234,OFF,2,3,4,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,14,14,28,playerByGameStats sum
+1986-1987,1986,1987-04-27,1986030234,OFF,2,3,4,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,14,14,28,playerByGameStats sum
+1986-1987,1986,1987-04-29,1986030235,OFF,2,3,5,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,19,19,38,playerByGameStats sum
+1986-1987,1986,1987-04-29,1986030235,OFF,2,3,5,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,19,19,38,playerByGameStats sum
+1986-1987,1986,1987-05-01,1986030236,OFF,2,3,6,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,37,31,68,playerByGameStats sum
+1986-1987,1986,1987-05-01,1986030236,OFF,2,3,6,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,31,37,68,playerByGameStats sum
+1986-1987,1986,1987-05-03,1986030237,OFF,2,3,7,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,10,10,20,playerByGameStats sum
+1986-1987,1986,1987-05-03,1986030237,OFF,2,3,7,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,10,10,20,playerByGameStats sum
+1986-1987,1986,1987-05-04,1986030311,OFF,3,1,1,MTL,Montréal Canadiens,Canada,False,PHI,Philadelphia Flyers,USA,10,8,18,playerByGameStats sum
+1986-1987,1986,1987-05-04,1986030311,OFF,3,1,1,PHI,Philadelphia Flyers,USA,True,MTL,Montréal Canadiens,Canada,8,10,18,playerByGameStats sum
+1986-1987,1986,1987-05-05,1986030321,OFF,3,2,1,DET,Detroit Red Wings,USA,False,EDM,Edmonton Oilers,Canada,42,36,78,playerByGameStats sum
+1986-1987,1986,1987-05-05,1986030321,OFF,3,2,1,EDM,Edmonton Oilers,Canada,True,DET,Detroit Red Wings,USA,36,42,78,playerByGameStats sum
+1986-1987,1986,1987-05-06,1986030312,OFF,3,1,2,MTL,Montréal Canadiens,Canada,False,PHI,Philadelphia Flyers,USA,24,22,46,playerByGameStats sum
+1986-1987,1986,1987-05-06,1986030312,OFF,3,1,2,PHI,Philadelphia Flyers,USA,True,MTL,Montréal Canadiens,Canada,22,24,46,playerByGameStats sum
+1986-1987,1986,1987-05-07,1986030322,OFF,3,2,2,DET,Detroit Red Wings,USA,False,EDM,Edmonton Oilers,Canada,48,44,92,playerByGameStats sum
+1986-1987,1986,1987-05-07,1986030322,OFF,3,2,2,EDM,Edmonton Oilers,Canada,True,DET,Detroit Red Wings,USA,44,48,92,playerByGameStats sum
+1986-1987,1986,1987-05-08,1986030313,OFF,3,1,3,PHI,Philadelphia Flyers,USA,False,MTL,Montréal Canadiens,Canada,11,7,18,playerByGameStats sum
+1986-1987,1986,1987-05-08,1986030313,OFF,3,1,3,MTL,Montréal Canadiens,Canada,True,PHI,Philadelphia Flyers,USA,7,11,18,playerByGameStats sum
+1986-1987,1986,1987-05-09,1986030323,OFF,3,2,3,EDM,Edmonton Oilers,Canada,False,DET,Detroit Red Wings,USA,36,32,68,playerByGameStats sum
+1986-1987,1986,1987-05-09,1986030323,OFF,3,2,3,DET,Detroit Red Wings,USA,True,EDM,Edmonton Oilers,Canada,32,36,68,playerByGameStats sum
+1986-1987,1986,1987-05-10,1986030314,OFF,3,1,4,PHI,Philadelphia Flyers,USA,False,MTL,Montréal Canadiens,Canada,29,27,56,playerByGameStats sum
+1986-1987,1986,1987-05-10,1986030314,OFF,3,1,4,MTL,Montréal Canadiens,Canada,True,PHI,Philadelphia Flyers,USA,27,29,56,playerByGameStats sum
+1986-1987,1986,1987-05-11,1986030324,OFF,3,2,4,EDM,Edmonton Oilers,Canada,False,DET,Detroit Red Wings,USA,33,29,62,playerByGameStats sum
+1986-1987,1986,1987-05-11,1986030324,OFF,3,2,4,DET,Detroit Red Wings,USA,True,EDM,Edmonton Oilers,Canada,29,33,62,playerByGameStats sum
+1986-1987,1986,1987-05-12,1986030315,OFF,3,1,5,MTL,Montréal Canadiens,Canada,False,PHI,Philadelphia Flyers,USA,13,18,31,playerByGameStats sum
+1986-1987,1986,1987-05-12,1986030315,OFF,3,1,5,PHI,Philadelphia Flyers,USA,True,MTL,Montréal Canadiens,Canada,18,13,31,playerByGameStats sum
+1986-1987,1986,1987-05-13,1986030325,OFF,3,2,5,DET,Detroit Red Wings,USA,False,EDM,Edmonton Oilers,Canada,8,8,16,playerByGameStats sum
+1986-1987,1986,1987-05-13,1986030325,OFF,3,2,5,EDM,Edmonton Oilers,Canada,True,DET,Detroit Red Wings,USA,8,8,16,playerByGameStats sum
+1986-1987,1986,1987-05-14,1986030316,OFF,3,1,6,PHI,Philadelphia Flyers,USA,False,MTL,Montréal Canadiens,Canada,29,29,58,playerByGameStats sum
+1986-1987,1986,1987-05-14,1986030316,OFF,3,1,6,MTL,Montréal Canadiens,Canada,True,PHI,Philadelphia Flyers,USA,29,29,58,playerByGameStats sum
+1986-1987,1986,1987-05-17,1986030411,OFF,4,1,1,PHI,Philadelphia Flyers,USA,False,EDM,Edmonton Oilers,Canada,9,9,18,playerByGameStats sum
+1986-1987,1986,1987-05-17,1986030411,OFF,4,1,1,EDM,Edmonton Oilers,Canada,True,PHI,Philadelphia Flyers,USA,9,9,18,playerByGameStats sum
+1986-1987,1986,1987-05-20,1986030412,OFF,4,1,2,PHI,Philadelphia Flyers,USA,False,EDM,Edmonton Oilers,Canada,16,16,32,playerByGameStats sum
+1986-1987,1986,1987-05-20,1986030412,OFF,4,1,2,EDM,Edmonton Oilers,Canada,True,PHI,Philadelphia Flyers,USA,16,16,32,playerByGameStats sum
+1986-1987,1986,1987-05-22,1986030413,OFF,4,1,3,EDM,Edmonton Oilers,Canada,False,PHI,Philadelphia Flyers,USA,10,12,22,playerByGameStats sum
+1986-1987,1986,1987-05-22,1986030413,OFF,4,1,3,PHI,Philadelphia Flyers,USA,True,EDM,Edmonton Oilers,Canada,12,10,22,playerByGameStats sum
+1986-1987,1986,1987-05-24,1986030414,OFF,4,1,4,EDM,Edmonton Oilers,Canada,False,PHI,Philadelphia Flyers,USA,24,35,59,playerByGameStats sum
+1986-1987,1986,1987-05-24,1986030414,OFF,4,1,4,PHI,Philadelphia Flyers,USA,True,EDM,Edmonton Oilers,Canada,35,24,59,playerByGameStats sum
+1986-1987,1986,1987-05-26,1986030415,OFF,4,1,5,PHI,Philadelphia Flyers,USA,False,EDM,Edmonton Oilers,Canada,12,12,24,playerByGameStats sum
+1986-1987,1986,1987-05-26,1986030415,OFF,4,1,5,EDM,Edmonton Oilers,Canada,True,PHI,Philadelphia Flyers,USA,12,12,24,playerByGameStats sum
+1986-1987,1986,1987-05-28,1986030416,OFF,4,1,6,EDM,Edmonton Oilers,Canada,False,PHI,Philadelphia Flyers,USA,26,20,46,playerByGameStats sum
+1986-1987,1986,1987-05-28,1986030416,OFF,4,1,6,PHI,Philadelphia Flyers,USA,True,EDM,Edmonton Oilers,Canada,20,26,46,playerByGameStats sum
+1986-1987,1986,1987-05-31,1986030417,OFF,4,1,7,PHI,Philadelphia Flyers,USA,False,EDM,Edmonton Oilers,Canada,14,14,28,playerByGameStats sum
+1986-1987,1986,1987-05-31,1986030417,OFF,4,1,7,EDM,Edmonton Oilers,Canada,True,PHI,Philadelphia Flyers,USA,14,14,28,playerByGameStats sum
+1987-1988,1987,1988-04-06,1987030111,OFF,1,1,1,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,21,16,37,playerByGameStats sum
+1987-1988,1987,1988-04-06,1987030111,OFF,1,1,1,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,16,21,37,playerByGameStats sum
+1987-1988,1987,1988-04-06,1987030151,OFF,1,5,1,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,42,42,84,playerByGameStats sum
+1987-1988,1987,1988-04-06,1987030151,OFF,1,5,1,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,42,42,84,playerByGameStats sum
+1987-1988,1987,1988-04-06,1987030171,OFF,1,7,1,LAK,Los Angeles Kings,USA,False,CGY,Calgary Flames,Canada,23,27,50,playerByGameStats sum
+1987-1988,1987,1988-04-06,1987030171,OFF,1,7,1,CGY,Calgary Flames,Canada,True,LAK,Los Angeles Kings,USA,27,23,50,playerByGameStats sum
+1987-1988,1987,1988-04-07,1987030112,OFF,1,1,2,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,6,8,14,playerByGameStats sum
+1987-1988,1987,1988-04-07,1987030112,OFF,1,1,2,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,8,6,14,playerByGameStats sum
+1987-1988,1987,1988-04-07,1987030152,OFF,1,5,2,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,40,42,82,playerByGameStats sum
+1987-1988,1987,1988-04-07,1987030152,OFF,1,5,2,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,42,40,82,playerByGameStats sum
+1987-1988,1987,1988-04-07,1987030172,OFF,1,7,2,LAK,Los Angeles Kings,USA,False,CGY,Calgary Flames,Canada,22,17,39,playerByGameStats sum
+1987-1988,1987,1988-04-07,1987030172,OFF,1,7,2,CGY,Calgary Flames,Canada,True,LAK,Los Angeles Kings,USA,17,22,39,playerByGameStats sum
+1987-1988,1987,1988-04-09,1987030113,OFF,1,1,3,MTL,Montréal Canadiens,Canada,False,HFD,Hartford Whalers,USA,20,20,40,playerByGameStats sum
+1987-1988,1987,1988-04-09,1987030113,OFF,1,1,3,HFD,Hartford Whalers,USA,True,MTL,Montréal Canadiens,Canada,20,20,40,playerByGameStats sum
+1987-1988,1987,1988-04-09,1987030153,OFF,1,5,3,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,40,34,74,playerByGameStats sum
+1987-1988,1987,1988-04-09,1987030153,OFF,1,5,3,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,34,40,74,playerByGameStats sum
+1987-1988,1987,1988-04-09,1987030173,OFF,1,7,3,CGY,Calgary Flames,Canada,False,LAK,Los Angeles Kings,USA,81,65,146,playerByGameStats sum
+1987-1988,1987,1988-04-09,1987030173,OFF,1,7,3,LAK,Los Angeles Kings,USA,True,CGY,Calgary Flames,Canada,65,81,146,playerByGameStats sum
+1987-1988,1987,1988-04-10,1987030114,OFF,1,1,4,MTL,Montréal Canadiens,Canada,False,HFD,Hartford Whalers,USA,10,16,26,playerByGameStats sum
+1987-1988,1987,1988-04-10,1987030114,OFF,1,1,4,HFD,Hartford Whalers,USA,True,MTL,Montréal Canadiens,Canada,16,10,26,playerByGameStats sum
+1987-1988,1987,1988-04-10,1987030154,OFF,1,5,4,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,33,31,64,playerByGameStats sum
+1987-1988,1987,1988-04-10,1987030154,OFF,1,5,4,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,31,33,64,playerByGameStats sum
+1987-1988,1987,1988-04-10,1987030174,OFF,1,7,4,CGY,Calgary Flames,Canada,False,LAK,Los Angeles Kings,USA,35,43,78,playerByGameStats sum
+1987-1988,1987,1988-04-10,1987030174,OFF,1,7,4,LAK,Los Angeles Kings,USA,True,CGY,Calgary Flames,Canada,43,35,78,playerByGameStats sum
+1987-1988,1987,1988-04-12,1987030115,OFF,1,1,5,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,10,12,22,playerByGameStats sum
+1987-1988,1987,1988-04-12,1987030115,OFF,1,1,5,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,12,10,22,playerByGameStats sum
+1987-1988,1987,1988-04-12,1987030155,OFF,1,5,5,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,20,24,44,playerByGameStats sum
+1987-1988,1987,1988-04-12,1987030155,OFF,1,5,5,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,24,20,44,playerByGameStats sum
+1987-1988,1987,1988-04-12,1987030175,OFF,1,7,5,LAK,Los Angeles Kings,USA,False,CGY,Calgary Flames,Canada,21,21,42,playerByGameStats sum
+1987-1988,1987,1988-04-12,1987030175,OFF,1,7,5,CGY,Calgary Flames,Canada,True,LAK,Los Angeles Kings,USA,21,21,42,playerByGameStats sum
+1987-1988,1987,1988-04-14,1987030116,OFF,1,1,6,MTL,Montréal Canadiens,Canada,False,HFD,Hartford Whalers,USA,12,8,20,playerByGameStats sum
+1987-1988,1987,1988-04-14,1987030116,OFF,1,1,6,HFD,Hartford Whalers,USA,True,MTL,Montréal Canadiens,Canada,8,12,20,playerByGameStats sum
+1987-1988,1987,1988-04-14,1987030156,OFF,1,5,6,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,26,22,48,playerByGameStats sum
+1987-1988,1987,1988-04-14,1987030156,OFF,1,5,6,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,22,26,48,playerByGameStats sum
+1987-1988,1987,1988-04-18,1987030211,OFF,2,1,1,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,19,27,46,playerByGameStats sum
+1987-1988,1987,1988-04-18,1987030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,27,19,46,playerByGameStats sum
+1987-1988,1987,1988-04-20,1987030212,OFF,2,1,2,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,22,23,45,playerByGameStats sum
+1987-1988,1987,1988-04-20,1987030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,23,22,45,playerByGameStats sum
+1987-1988,1987,1988-04-22,1987030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,41,51,92,playerByGameStats sum
+1987-1988,1987,1988-04-22,1987030213,OFF,2,1,3,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,51,41,92,playerByGameStats sum
+1987-1988,1987,1988-04-24,1987030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,18,16,34,playerByGameStats sum
+1987-1988,1987,1988-04-24,1987030214,OFF,2,1,4,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,16,18,34,playerByGameStats sum
+1987-1988,1987,1988-04-26,1987030215,OFF,2,1,5,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,26,28,54,playerByGameStats sum
+1987-1988,1987,1988-04-26,1987030215,OFF,2,1,5,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,28,26,54,playerByGameStats sum
+1987-1988,1987,1988-05-03,1987030321,OFF,3,2,1,DET,Detroit Red Wings,USA,False,EDM,Edmonton Oilers,Canada,38,44,82,playerByGameStats sum
+1987-1988,1987,1988-05-03,1987030321,OFF,3,2,1,EDM,Edmonton Oilers,Canada,True,DET,Detroit Red Wings,USA,44,38,82,playerByGameStats sum
+1987-1988,1987,1988-05-05,1987030322,OFF,3,2,2,DET,Detroit Red Wings,USA,False,EDM,Edmonton Oilers,Canada,19,20,39,playerByGameStats sum
+1987-1988,1987,1988-05-05,1987030322,OFF,3,2,2,EDM,Edmonton Oilers,Canada,True,DET,Detroit Red Wings,USA,20,19,39,playerByGameStats sum
+1987-1988,1987,1988-05-07,1987030323,OFF,3,2,3,EDM,Edmonton Oilers,Canada,False,DET,Detroit Red Wings,USA,32,22,54,playerByGameStats sum
+1987-1988,1987,1988-05-07,1987030323,OFF,3,2,3,DET,Detroit Red Wings,USA,True,EDM,Edmonton Oilers,Canada,22,32,54,playerByGameStats sum
+1987-1988,1987,1988-05-09,1987030324,OFF,3,2,4,EDM,Edmonton Oilers,Canada,False,DET,Detroit Red Wings,USA,50,42,92,playerByGameStats sum
+1987-1988,1987,1988-05-09,1987030324,OFF,3,2,4,DET,Detroit Red Wings,USA,True,EDM,Edmonton Oilers,Canada,42,50,92,playerByGameStats sum
+1987-1988,1987,1988-05-11,1987030325,OFF,3,2,5,DET,Detroit Red Wings,USA,False,EDM,Edmonton Oilers,Canada,18,18,36,playerByGameStats sum
+1987-1988,1987,1988-05-11,1987030325,OFF,3,2,5,EDM,Edmonton Oilers,Canada,True,DET,Detroit Red Wings,USA,18,18,36,playerByGameStats sum
+1987-1988,1987,1988-05-18,1987030411,OFF,4,1,1,BOS,Boston Bruins,USA,False,EDM,Edmonton Oilers,Canada,10,14,24,playerByGameStats sum
+1987-1988,1987,1988-05-18,1987030411,OFF,4,1,1,EDM,Edmonton Oilers,Canada,True,BOS,Boston Bruins,USA,14,10,24,playerByGameStats sum
+1987-1988,1987,1988-05-20,1987030412,OFF,4,1,2,BOS,Boston Bruins,USA,False,EDM,Edmonton Oilers,Canada,39,27,66,playerByGameStats sum
+1987-1988,1987,1988-05-20,1987030412,OFF,4,1,2,EDM,Edmonton Oilers,Canada,True,BOS,Boston Bruins,USA,27,39,66,playerByGameStats sum
+1987-1988,1987,1988-05-22,1987030413,OFF,4,1,3,EDM,Edmonton Oilers,Canada,False,BOS,Boston Bruins,USA,15,13,28,playerByGameStats sum
+1987-1988,1987,1988-05-22,1987030413,OFF,4,1,3,BOS,Boston Bruins,USA,True,EDM,Edmonton Oilers,Canada,13,15,28,playerByGameStats sum
+1987-1988,1987,1988-05-26,1987030414,OFF,4,1,4,BOS,Boston Bruins,USA,False,EDM,Edmonton Oilers,Canada,12,18,30,playerByGameStats sum
+1987-1988,1987,1988-05-26,1987030414,OFF,4,1,4,EDM,Edmonton Oilers,Canada,True,BOS,Boston Bruins,USA,18,12,30,playerByGameStats sum
+1988-1989,1988,1989-04-05,1988030111,OFF,1,1,1,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,33,29,62,playerByGameStats sum
+1988-1989,1988,1989-04-05,1988030111,OFF,1,1,1,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,29,33,62,playerByGameStats sum
+1988-1989,1988,1989-04-05,1988030181,OFF,1,8,1,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,18,16,34,playerByGameStats sum
+1988-1989,1988,1989-04-05,1988030181,OFF,1,8,1,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,16,18,34,playerByGameStats sum
+1988-1989,1988,1989-04-06,1988030112,OFF,1,1,2,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,36,44,80,playerByGameStats sum
+1988-1989,1988,1989-04-06,1988030112,OFF,1,1,2,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,44,36,80,playerByGameStats sum
+1988-1989,1988,1989-04-06,1988030182,OFF,1,8,2,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,47,36,83,playerByGameStats sum
+1988-1989,1988,1989-04-06,1988030182,OFF,1,8,2,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,36,47,83,playerByGameStats sum
+1988-1989,1988,1989-04-08,1988030113,OFF,1,1,3,MTL,Montréal Canadiens,Canada,False,HFD,Hartford Whalers,USA,20,20,40,playerByGameStats sum
+1988-1989,1988,1989-04-08,1988030113,OFF,1,1,3,HFD,Hartford Whalers,USA,True,MTL,Montréal Canadiens,Canada,20,20,40,playerByGameStats sum
+1988-1989,1988,1989-04-08,1988030183,OFF,1,8,3,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,48,44,92,playerByGameStats sum
+1988-1989,1988,1989-04-08,1988030183,OFF,1,8,3,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,44,48,92,playerByGameStats sum
+1988-1989,1988,1989-04-09,1988030114,OFF,1,1,4,MTL,Montréal Canadiens,Canada,False,HFD,Hartford Whalers,USA,32,22,54,playerByGameStats sum
+1988-1989,1988,1989-04-09,1988030114,OFF,1,1,4,HFD,Hartford Whalers,USA,True,MTL,Montréal Canadiens,Canada,22,32,54,playerByGameStats sum
+1988-1989,1988,1989-04-09,1988030184,OFF,1,8,4,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,12,12,24,playerByGameStats sum
+1988-1989,1988,1989-04-09,1988030184,OFF,1,8,4,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,12,12,24,playerByGameStats sum
+1988-1989,1988,1989-04-11,1988030185,OFF,1,8,5,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,16,10,26,playerByGameStats sum
+1988-1989,1988,1989-04-11,1988030185,OFF,1,8,5,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,10,16,26,playerByGameStats sum
+1988-1989,1988,1989-04-13,1988030186,OFF,1,8,6,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,8,6,14,playerByGameStats sum
+1988-1989,1988,1989-04-13,1988030186,OFF,1,8,6,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,6,8,14,playerByGameStats sum
+1988-1989,1988,1989-04-15,1988030187,OFF,1,8,7,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,16,14,30,playerByGameStats sum
+1988-1989,1988,1989-04-15,1988030187,OFF,1,8,7,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,14,16,30,playerByGameStats sum
+1988-1989,1988,1989-04-17,1988030211,OFF,2,1,1,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,2,8,10,playerByGameStats sum
+1988-1989,1988,1989-04-17,1988030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,8,2,10,playerByGameStats sum
+1988-1989,1988,1989-04-18,1988030241,OFF,2,4,1,LAK,Los Angeles Kings,USA,False,CGY,Calgary Flames,Canada,16,10,26,playerByGameStats sum
+1988-1989,1988,1989-04-18,1988030241,OFF,2,4,1,CGY,Calgary Flames,Canada,True,LAK,Los Angeles Kings,USA,10,16,26,playerByGameStats sum
+1988-1989,1988,1989-04-19,1988030212,OFF,2,1,2,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,9,6,15,playerByGameStats sum
+1988-1989,1988,1989-04-19,1988030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,6,9,15,playerByGameStats sum
+1988-1989,1988,1989-04-20,1988030242,OFF,2,4,2,LAK,Los Angeles Kings,USA,False,CGY,Calgary Flames,Canada,76,56,132,playerByGameStats sum
+1988-1989,1988,1989-04-20,1988030242,OFF,2,4,2,CGY,Calgary Flames,Canada,True,LAK,Los Angeles Kings,USA,56,76,132,playerByGameStats sum
+1988-1989,1988,1989-04-21,1988030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,16,14,30,playerByGameStats sum
+1988-1989,1988,1989-04-21,1988030213,OFF,2,1,3,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,14,16,30,playerByGameStats sum
+1988-1989,1988,1989-04-22,1988030243,OFF,2,4,3,CGY,Calgary Flames,Canada,False,LAK,Los Angeles Kings,USA,14,16,30,playerByGameStats sum
+1988-1989,1988,1989-04-22,1988030243,OFF,2,4,3,LAK,Los Angeles Kings,USA,True,CGY,Calgary Flames,Canada,16,14,30,playerByGameStats sum
+1988-1989,1988,1989-04-23,1988030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,10,13,23,playerByGameStats sum
+1988-1989,1988,1989-04-23,1988030214,OFF,2,1,4,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,13,10,23,playerByGameStats sum
+1988-1989,1988,1989-04-24,1988030244,OFF,2,4,4,CGY,Calgary Flames,Canada,False,LAK,Los Angeles Kings,USA,12,16,28,playerByGameStats sum
+1988-1989,1988,1989-04-24,1988030244,OFF,2,4,4,LAK,Los Angeles Kings,USA,True,CGY,Calgary Flames,Canada,16,12,28,playerByGameStats sum
+1988-1989,1988,1989-04-25,1988030215,OFF,2,1,5,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,12,16,28,playerByGameStats sum
+1988-1989,1988,1989-04-25,1988030215,OFF,2,1,5,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,16,12,28,playerByGameStats sum
+1988-1989,1988,1989-05-01,1988030311,OFF,3,1,1,PHI,Philadelphia Flyers,USA,False,MTL,Montréal Canadiens,Canada,22,22,44,playerByGameStats sum
+1988-1989,1988,1989-05-01,1988030311,OFF,3,1,1,MTL,Montréal Canadiens,Canada,True,PHI,Philadelphia Flyers,USA,22,22,44,playerByGameStats sum
+1988-1989,1988,1989-05-02,1988030321,OFF,3,2,1,CHI,Chicago Blackhawks,USA,False,CGY,Calgary Flames,Canada,20,16,36,playerByGameStats sum
+1988-1989,1988,1989-05-02,1988030321,OFF,3,2,1,CGY,Calgary Flames,Canada,True,CHI,Chicago Blackhawks,USA,16,20,36,playerByGameStats sum
+1988-1989,1988,1989-05-03,1988030312,OFF,3,1,2,PHI,Philadelphia Flyers,USA,False,MTL,Montréal Canadiens,Canada,20,12,32,playerByGameStats sum
+1988-1989,1988,1989-05-03,1988030312,OFF,3,1,2,MTL,Montréal Canadiens,Canada,True,PHI,Philadelphia Flyers,USA,12,20,32,playerByGameStats sum
+1988-1989,1988,1989-05-04,1988030322,OFF,3,2,2,CHI,Chicago Blackhawks,USA,False,CGY,Calgary Flames,Canada,18,20,38,playerByGameStats sum
+1988-1989,1988,1989-05-04,1988030322,OFF,3,2,2,CGY,Calgary Flames,Canada,True,CHI,Chicago Blackhawks,USA,20,18,38,playerByGameStats sum
+1988-1989,1988,1989-05-05,1988030313,OFF,3,1,3,MTL,Montréal Canadiens,Canada,False,PHI,Philadelphia Flyers,USA,16,20,36,playerByGameStats sum
+1988-1989,1988,1989-05-05,1988030313,OFF,3,1,3,PHI,Philadelphia Flyers,USA,True,MTL,Montréal Canadiens,Canada,20,16,36,playerByGameStats sum
+1988-1989,1988,1989-05-06,1988030323,OFF,3,2,3,CGY,Calgary Flames,Canada,False,CHI,Chicago Blackhawks,USA,83,104,187,playerByGameStats sum
+1988-1989,1988,1989-05-06,1988030323,OFF,3,2,3,CHI,Chicago Blackhawks,USA,True,CGY,Calgary Flames,Canada,104,83,187,playerByGameStats sum
+1988-1989,1988,1989-05-07,1988030314,OFF,3,1,4,MTL,Montréal Canadiens,Canada,False,PHI,Philadelphia Flyers,USA,15,21,36,playerByGameStats sum
+1988-1989,1988,1989-05-07,1988030314,OFF,3,1,4,PHI,Philadelphia Flyers,USA,True,MTL,Montréal Canadiens,Canada,21,15,36,playerByGameStats sum
+1988-1989,1988,1989-05-08,1988030324,OFF,3,2,4,CGY,Calgary Flames,Canada,False,CHI,Chicago Blackhawks,USA,41,27,68,playerByGameStats sum
+1988-1989,1988,1989-05-08,1988030324,OFF,3,2,4,CHI,Chicago Blackhawks,USA,True,CGY,Calgary Flames,Canada,27,41,68,playerByGameStats sum
+1988-1989,1988,1989-05-09,1988030315,OFF,3,1,5,PHI,Philadelphia Flyers,USA,False,MTL,Montréal Canadiens,Canada,16,10,26,playerByGameStats sum
+1988-1989,1988,1989-05-09,1988030315,OFF,3,1,5,MTL,Montréal Canadiens,Canada,True,PHI,Philadelphia Flyers,USA,10,16,26,playerByGameStats sum
+1988-1989,1988,1989-05-10,1988030325,OFF,3,2,5,CHI,Chicago Blackhawks,USA,False,CGY,Calgary Flames,Canada,38,19,57,playerByGameStats sum
+1988-1989,1988,1989-05-10,1988030325,OFF,3,2,5,CGY,Calgary Flames,Canada,True,CHI,Chicago Blackhawks,USA,19,38,57,playerByGameStats sum
+1988-1989,1988,1989-05-11,1988030316,OFF,3,1,6,MTL,Montréal Canadiens,Canada,False,PHI,Philadelphia Flyers,USA,32,34,66,playerByGameStats sum
+1988-1989,1988,1989-05-11,1988030316,OFF,3,1,6,PHI,Philadelphia Flyers,USA,True,MTL,Montréal Canadiens,Canada,34,32,66,playerByGameStats sum
+1989-1990,1989,1990-04-04,1989030161,OFF,1,6,1,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,51,51,102,playerByGameStats sum
+1989-1990,1989,1990-04-04,1989030161,OFF,1,6,1,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,51,51,102,playerByGameStats sum
+1989-1990,1989,1990-04-04,1989030171,OFF,1,7,1,LAK,Los Angeles Kings,USA,False,CGY,Calgary Flames,Canada,12,20,32,playerByGameStats sum
+1989-1990,1989,1990-04-04,1989030171,OFF,1,7,1,CGY,Calgary Flames,Canada,True,LAK,Los Angeles Kings,USA,20,12,32,playerByGameStats sum
+1989-1990,1989,1990-04-05,1989030121,OFF,1,2,1,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,23,8,31,playerByGameStats sum
+1989-1990,1989,1990-04-05,1989030121,OFF,1,2,1,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,8,23,31,playerByGameStats sum
+1989-1990,1989,1990-04-06,1989030162,OFF,1,6,2,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,61,49,110,playerByGameStats sum
+1989-1990,1989,1990-04-06,1989030162,OFF,1,6,2,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,49,61,110,playerByGameStats sum
+1989-1990,1989,1990-04-06,1989030172,OFF,1,7,2,LAK,Los Angeles Kings,USA,False,CGY,Calgary Flames,Canada,22,22,44,playerByGameStats sum
+1989-1990,1989,1990-04-06,1989030172,OFF,1,7,2,CGY,Calgary Flames,Canada,True,LAK,Los Angeles Kings,USA,22,22,44,playerByGameStats sum
+1989-1990,1989,1990-04-07,1989030122,OFF,1,2,2,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,20,30,50,playerByGameStats sum
+1989-1990,1989,1990-04-07,1989030122,OFF,1,2,2,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,30,20,50,playerByGameStats sum
+1989-1990,1989,1990-04-08,1989030163,OFF,1,6,3,STL,St. Louis Blues,USA,False,TOR,Toronto Maple Leafs,Canada,50,46,96,playerByGameStats sum
+1989-1990,1989,1990-04-08,1989030163,OFF,1,6,3,TOR,Toronto Maple Leafs,Canada,True,STL,St. Louis Blues,USA,46,50,96,playerByGameStats sum
+1989-1990,1989,1990-04-08,1989030173,OFF,1,7,3,CGY,Calgary Flames,Canada,False,LAK,Los Angeles Kings,USA,24,28,52,playerByGameStats sum
+1989-1990,1989,1990-04-08,1989030173,OFF,1,7,3,LAK,Los Angeles Kings,USA,True,CGY,Calgary Flames,Canada,28,24,52,playerByGameStats sum
+1989-1990,1989,1990-04-09,1989030123,OFF,1,2,3,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,14,24,38,playerByGameStats sum
+1989-1990,1989,1990-04-09,1989030123,OFF,1,2,3,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,24,14,38,playerByGameStats sum
+1989-1990,1989,1990-04-10,1989030164,OFF,1,6,4,STL,St. Louis Blues,USA,False,TOR,Toronto Maple Leafs,Canada,20,24,44,playerByGameStats sum
+1989-1990,1989,1990-04-10,1989030164,OFF,1,6,4,TOR,Toronto Maple Leafs,Canada,True,STL,St. Louis Blues,USA,24,20,44,playerByGameStats sum
+1989-1990,1989,1990-04-10,1989030174,OFF,1,7,4,CGY,Calgary Flames,Canada,False,LAK,Los Angeles Kings,USA,27,6,33,playerByGameStats sum
+1989-1990,1989,1990-04-10,1989030174,OFF,1,7,4,LAK,Los Angeles Kings,USA,True,CGY,Calgary Flames,Canada,6,27,33,playerByGameStats sum
+1989-1990,1989,1990-04-11,1989030124,OFF,1,2,4,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,34,32,66,playerByGameStats sum
+1989-1990,1989,1990-04-11,1989030124,OFF,1,2,4,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,32,34,66,playerByGameStats sum
+1989-1990,1989,1990-04-12,1989030165,OFF,1,6,5,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,75,75,150,playerByGameStats sum
+1989-1990,1989,1990-04-12,1989030165,OFF,1,6,5,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,75,75,150,playerByGameStats sum
+1989-1990,1989,1990-04-12,1989030175,OFF,1,7,5,LAK,Los Angeles Kings,USA,False,CGY,Calgary Flames,Canada,14,16,30,playerByGameStats sum
+1989-1990,1989,1990-04-12,1989030175,OFF,1,7,5,CGY,Calgary Flames,Canada,True,LAK,Los Angeles Kings,USA,16,14,30,playerByGameStats sum
+1989-1990,1989,1990-04-13,1989030125,OFF,1,2,5,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,36,30,66,playerByGameStats sum
+1989-1990,1989,1990-04-13,1989030125,OFF,1,2,5,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,30,36,66,playerByGameStats sum
+1989-1990,1989,1990-04-14,1989030176,OFF,1,7,6,CGY,Calgary Flames,Canada,False,LAK,Los Angeles Kings,USA,34,18,52,playerByGameStats sum
+1989-1990,1989,1990-04-14,1989030176,OFF,1,7,6,LAK,Los Angeles Kings,USA,True,CGY,Calgary Flames,Canada,18,34,52,playerByGameStats sum
+1989-1990,1989,1990-04-15,1989030126,OFF,1,2,6,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,8,6,14,playerByGameStats sum
+1989-1990,1989,1990-04-15,1989030126,OFF,1,2,6,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,6,8,14,playerByGameStats sum
+1989-1990,1989,1990-04-18,1989030241,OFF,2,4,1,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,6,10,16,playerByGameStats sum
+1989-1990,1989,1990-04-18,1989030241,OFF,2,4,1,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,10,6,16,playerByGameStats sum
+1989-1990,1989,1990-04-19,1989030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,12,12,24,playerByGameStats sum
+1989-1990,1989,1990-04-19,1989030211,OFF,2,1,1,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,12,12,24,playerByGameStats sum
+1989-1990,1989,1990-04-20,1989030242,OFF,2,4,2,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,23,19,42,playerByGameStats sum
+1989-1990,1989,1990-04-20,1989030242,OFF,2,4,2,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,19,23,42,playerByGameStats sum
+1989-1990,1989,1990-04-21,1989030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,38,47,85,playerByGameStats sum
+1989-1990,1989,1990-04-21,1989030212,OFF,2,1,2,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,47,38,85,playerByGameStats sum
+1989-1990,1989,1990-04-22,1989030243,OFF,2,4,3,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,12,23,35,playerByGameStats sum
+1989-1990,1989,1990-04-22,1989030243,OFF,2,4,3,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,23,12,35,playerByGameStats sum
+1989-1990,1989,1990-04-23,1989030213,OFF,2,1,3,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,4,8,12,playerByGameStats sum
+1989-1990,1989,1990-04-23,1989030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,8,4,12,playerByGameStats sum
+1989-1990,1989,1990-04-24,1989030244,OFF,2,4,4,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,12,10,22,playerByGameStats sum
+1989-1990,1989,1990-04-24,1989030244,OFF,2,4,4,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,10,12,22,playerByGameStats sum
+1989-1990,1989,1990-04-25,1989030214,OFF,2,1,4,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,12,12,24,playerByGameStats sum
+1989-1990,1989,1990-04-25,1989030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,12,12,24,playerByGameStats sum
+1989-1990,1989,1990-04-27,1989030215,OFF,2,1,5,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,20,22,42,playerByGameStats sum
+1989-1990,1989,1990-04-27,1989030215,OFF,2,1,5,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,22,20,42,playerByGameStats sum
+1989-1990,1989,1990-05-02,1989030321,OFF,3,2,1,CHI,Chicago Blackhawks,USA,False,EDM,Edmonton Oilers,Canada,10,4,14,playerByGameStats sum
+1989-1990,1989,1990-05-02,1989030321,OFF,3,2,1,EDM,Edmonton Oilers,Canada,True,CHI,Chicago Blackhawks,USA,4,10,14,playerByGameStats sum
+1989-1990,1989,1990-05-04,1989030322,OFF,3,2,2,CHI,Chicago Blackhawks,USA,False,EDM,Edmonton Oilers,Canada,16,14,30,playerByGameStats sum
+1989-1990,1989,1990-05-04,1989030322,OFF,3,2,2,EDM,Edmonton Oilers,Canada,True,CHI,Chicago Blackhawks,USA,14,16,30,playerByGameStats sum
+1989-1990,1989,1990-05-06,1989030323,OFF,3,2,3,EDM,Edmonton Oilers,Canada,False,CHI,Chicago Blackhawks,USA,10,12,22,playerByGameStats sum
+1989-1990,1989,1990-05-06,1989030323,OFF,3,2,3,CHI,Chicago Blackhawks,USA,True,EDM,Edmonton Oilers,Canada,12,10,22,playerByGameStats sum
+1989-1990,1989,1990-05-08,1989030324,OFF,3,2,4,EDM,Edmonton Oilers,Canada,False,CHI,Chicago Blackhawks,USA,16,17,33,playerByGameStats sum
+1989-1990,1989,1990-05-08,1989030324,OFF,3,2,4,CHI,Chicago Blackhawks,USA,True,EDM,Edmonton Oilers,Canada,17,16,33,playerByGameStats sum
+1989-1990,1989,1990-05-10,1989030325,OFF,3,2,5,CHI,Chicago Blackhawks,USA,False,EDM,Edmonton Oilers,Canada,16,8,24,playerByGameStats sum
+1989-1990,1989,1990-05-10,1989030325,OFF,3,2,5,EDM,Edmonton Oilers,Canada,True,CHI,Chicago Blackhawks,USA,8,16,24,playerByGameStats sum
+1989-1990,1989,1990-05-12,1989030326,OFF,3,2,6,EDM,Edmonton Oilers,Canada,False,CHI,Chicago Blackhawks,USA,10,20,30,playerByGameStats sum
+1989-1990,1989,1990-05-12,1989030326,OFF,3,2,6,CHI,Chicago Blackhawks,USA,True,EDM,Edmonton Oilers,Canada,20,10,30,playerByGameStats sum
+1989-1990,1989,1990-05-15,1989030411,OFF,4,1,1,EDM,Edmonton Oilers,Canada,False,BOS,Boston Bruins,USA,12,8,20,playerByGameStats sum
+1989-1990,1989,1990-05-15,1989030411,OFF,4,1,1,BOS,Boston Bruins,USA,True,EDM,Edmonton Oilers,Canada,8,12,20,playerByGameStats sum
+1989-1990,1989,1990-05-18,1989030412,OFF,4,1,2,EDM,Edmonton Oilers,Canada,False,BOS,Boston Bruins,USA,22,27,49,playerByGameStats sum
+1989-1990,1989,1990-05-18,1989030412,OFF,4,1,2,BOS,Boston Bruins,USA,True,EDM,Edmonton Oilers,Canada,27,22,49,playerByGameStats sum
+1989-1990,1989,1990-05-20,1989030413,OFF,4,1,3,BOS,Boston Bruins,USA,False,EDM,Edmonton Oilers,Canada,10,10,20,playerByGameStats sum
+1989-1990,1989,1990-05-20,1989030413,OFF,4,1,3,EDM,Edmonton Oilers,Canada,True,BOS,Boston Bruins,USA,10,10,20,playerByGameStats sum
+1989-1990,1989,1990-05-22,1989030414,OFF,4,1,4,BOS,Boston Bruins,USA,False,EDM,Edmonton Oilers,Canada,19,17,36,playerByGameStats sum
+1989-1990,1989,1990-05-22,1989030414,OFF,4,1,4,EDM,Edmonton Oilers,Canada,True,BOS,Boston Bruins,USA,17,19,36,playerByGameStats sum
+1989-1990,1989,1990-05-24,1989030415,OFF,4,1,5,EDM,Edmonton Oilers,Canada,False,BOS,Boston Bruins,USA,4,6,10,playerByGameStats sum
+1989-1990,1989,1990-05-24,1989030415,OFF,4,1,5,BOS,Boston Bruins,USA,True,EDM,Edmonton Oilers,Canada,6,4,10,playerByGameStats sum
+1990-1991,1990,1991-04-03,1990030121,OFF,1,2,1,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,50,48,98,playerByGameStats sum
+1990-1991,1990,1991-04-03,1990030121,OFF,1,2,1,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,48,50,98,playerByGameStats sum
+1990-1991,1990,1991-04-04,1990030171,OFF,1,7,1,VAN,Vancouver Canucks,Canada,False,LAK,Los Angeles Kings,USA,14,12,26,playerByGameStats sum
+1990-1991,1990,1991-04-04,1990030171,OFF,1,7,1,LAK,Los Angeles Kings,USA,True,VAN,Vancouver Canucks,Canada,12,14,26,playerByGameStats sum
+1990-1991,1990,1991-04-05,1990030122,OFF,1,2,2,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,20,18,38,playerByGameStats sum
+1990-1991,1990,1991-04-05,1990030122,OFF,1,2,2,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,18,20,38,playerByGameStats sum
+1990-1991,1990,1991-04-06,1990030172,OFF,1,7,2,VAN,Vancouver Canucks,Canada,False,LAK,Los Angeles Kings,USA,23,19,42,playerByGameStats sum
+1990-1991,1990,1991-04-06,1990030172,OFF,1,7,2,LAK,Los Angeles Kings,USA,True,VAN,Vancouver Canucks,Canada,19,23,42,playerByGameStats sum
+1990-1991,1990,1991-04-07,1990030123,OFF,1,2,3,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,26,32,58,playerByGameStats sum
+1990-1991,1990,1991-04-07,1990030123,OFF,1,2,3,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,32,26,58,playerByGameStats sum
+1990-1991,1990,1991-04-08,1990030173,OFF,1,7,3,LAK,Los Angeles Kings,USA,False,VAN,Vancouver Canucks,Canada,46,42,88,playerByGameStats sum
+1990-1991,1990,1991-04-08,1990030173,OFF,1,7,3,VAN,Vancouver Canucks,Canada,True,LAK,Los Angeles Kings,USA,42,46,88,playerByGameStats sum
+1990-1991,1990,1991-04-09,1990030124,OFF,1,2,4,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,22,14,36,playerByGameStats sum
+1990-1991,1990,1991-04-09,1990030124,OFF,1,2,4,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,14,22,36,playerByGameStats sum
+1990-1991,1990,1991-04-10,1990030174,OFF,1,7,4,LAK,Los Angeles Kings,USA,False,VAN,Vancouver Canucks,Canada,37,35,72,playerByGameStats sum
+1990-1991,1990,1991-04-10,1990030174,OFF,1,7,4,VAN,Vancouver Canucks,Canada,True,LAK,Los Angeles Kings,USA,35,37,72,playerByGameStats sum
+1990-1991,1990,1991-04-11,1990030125,OFF,1,2,5,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,12,12,24,playerByGameStats sum
+1990-1991,1990,1991-04-11,1990030125,OFF,1,2,5,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,12,12,24,playerByGameStats sum
+1990-1991,1990,1991-04-12,1990030175,OFF,1,7,5,VAN,Vancouver Canucks,Canada,False,LAK,Los Angeles Kings,USA,30,26,56,playerByGameStats sum
+1990-1991,1990,1991-04-12,1990030175,OFF,1,7,5,LAK,Los Angeles Kings,USA,True,VAN,Vancouver Canucks,Canada,26,30,56,playerByGameStats sum
+1990-1991,1990,1991-04-13,1990030126,OFF,1,2,6,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,80,93,173,playerByGameStats sum
+1990-1991,1990,1991-04-13,1990030126,OFF,1,2,6,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,93,80,173,playerByGameStats sum
+1990-1991,1990,1991-04-14,1990030176,OFF,1,7,6,LAK,Los Angeles Kings,USA,False,VAN,Vancouver Canucks,Canada,10,10,20,playerByGameStats sum
+1990-1991,1990,1991-04-14,1990030176,OFF,1,7,6,VAN,Vancouver Canucks,Canada,True,LAK,Los Angeles Kings,USA,10,10,20,playerByGameStats sum
+1990-1991,1990,1991-04-17,1990030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,6,6,12,playerByGameStats sum
+1990-1991,1990,1991-04-17,1990030211,OFF,2,1,1,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,6,6,12,playerByGameStats sum
+1990-1991,1990,1991-04-18,1990030241,OFF,2,4,1,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,14,23,37,playerByGameStats sum
+1990-1991,1990,1991-04-18,1990030241,OFF,2,4,1,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,23,14,37,playerByGameStats sum
+1990-1991,1990,1991-04-19,1990030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,8,8,16,playerByGameStats sum
+1990-1991,1990,1991-04-19,1990030212,OFF,2,1,2,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,8,8,16,playerByGameStats sum
+1990-1991,1990,1991-04-20,1990030242,OFF,2,4,2,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,20,20,40,playerByGameStats sum
+1990-1991,1990,1991-04-20,1990030242,OFF,2,4,2,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,20,20,40,playerByGameStats sum
+1990-1991,1990,1991-04-21,1990030213,OFF,2,1,3,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,14,12,26,playerByGameStats sum
+1990-1991,1990,1991-04-21,1990030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,12,14,26,playerByGameStats sum
+1990-1991,1990,1991-04-22,1990030243,OFF,2,4,3,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,28,12,40,playerByGameStats sum
+1990-1991,1990,1991-04-22,1990030243,OFF,2,4,3,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,12,28,40,playerByGameStats sum
+1990-1991,1990,1991-04-23,1990030214,OFF,2,1,4,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,18,31,49,playerByGameStats sum
+1990-1991,1990,1991-04-23,1990030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,31,18,49,playerByGameStats sum
+1990-1991,1990,1991-04-24,1990030244,OFF,2,4,4,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,25,21,46,playerByGameStats sum
+1990-1991,1990,1991-04-24,1990030244,OFF,2,4,4,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,21,25,46,playerByGameStats sum
+1990-1991,1990,1991-04-25,1990030215,OFF,2,1,5,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,42,64,106,playerByGameStats sum
+1990-1991,1990,1991-04-25,1990030215,OFF,2,1,5,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,64,42,106,playerByGameStats sum
+1990-1991,1990,1991-04-26,1990030245,OFF,2,4,5,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,33,42,75,playerByGameStats sum
+1990-1991,1990,1991-04-26,1990030245,OFF,2,4,5,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,42,33,75,playerByGameStats sum
+1990-1991,1990,1991-04-27,1990030216,OFF,2,1,6,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,12,4,16,playerByGameStats sum
+1990-1991,1990,1991-04-27,1990030216,OFF,2,1,6,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,4,12,16,playerByGameStats sum
+1990-1991,1990,1991-04-28,1990030246,OFF,2,4,6,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,16,16,32,playerByGameStats sum
+1990-1991,1990,1991-04-28,1990030246,OFF,2,4,6,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,16,16,32,playerByGameStats sum
+1990-1991,1990,1991-04-29,1990030217,OFF,2,1,7,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,20,18,38,playerByGameStats sum
+1990-1991,1990,1991-04-29,1990030217,OFF,2,1,7,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,18,20,38,playerByGameStats sum
+1990-1991,1990,1991-05-02,1990030321,OFF,3,2,1,MNS,Minnesota North Stars,USA,False,EDM,Edmonton Oilers,Canada,8,12,20,playerByGameStats sum
+1990-1991,1990,1991-05-02,1990030321,OFF,3,2,1,EDM,Edmonton Oilers,Canada,True,MNS,Minnesota North Stars,USA,12,8,20,playerByGameStats sum
+1990-1991,1990,1991-05-04,1990030322,OFF,3,2,2,MNS,Minnesota North Stars,USA,False,EDM,Edmonton Oilers,Canada,38,25,63,playerByGameStats sum
+1990-1991,1990,1991-05-04,1990030322,OFF,3,2,2,EDM,Edmonton Oilers,Canada,True,MNS,Minnesota North Stars,USA,25,38,63,playerByGameStats sum
+1990-1991,1990,1991-05-06,1990030323,OFF,3,2,3,EDM,Edmonton Oilers,Canada,False,MNS,Minnesota North Stars,USA,14,12,26,playerByGameStats sum
+1990-1991,1990,1991-05-06,1990030323,OFF,3,2,3,MNS,Minnesota North Stars,USA,True,EDM,Edmonton Oilers,Canada,12,14,26,playerByGameStats sum
+1990-1991,1990,1991-05-08,1990030324,OFF,3,2,4,EDM,Edmonton Oilers,Canada,False,MNS,Minnesota North Stars,USA,49,33,82,playerByGameStats sum
+1990-1991,1990,1991-05-08,1990030324,OFF,3,2,4,MNS,Minnesota North Stars,USA,True,EDM,Edmonton Oilers,Canada,33,49,82,playerByGameStats sum
+1990-1991,1990,1991-05-10,1990030325,OFF,3,2,5,MNS,Minnesota North Stars,USA,False,EDM,Edmonton Oilers,Canada,24,38,62,playerByGameStats sum
+1990-1991,1990,1991-05-10,1990030325,OFF,3,2,5,EDM,Edmonton Oilers,Canada,True,MNS,Minnesota North Stars,USA,38,24,62,playerByGameStats sum
+1991-1992,1991,1992-04-18,1991030181,OFF,1,8,1,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,22,14,36,playerByGameStats sum
+1991-1992,1991,1992-04-18,1991030181,OFF,1,8,1,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,14,22,36,playerByGameStats sum
+1991-1992,1991,1992-04-19,1991030111,OFF,1,1,1,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,14,12,26,playerByGameStats sum
+1991-1992,1991,1992-04-19,1991030111,OFF,1,1,1,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,12,14,26,playerByGameStats sum
+1991-1992,1991,1992-04-20,1991030182,OFF,1,8,2,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,90,77,167,playerByGameStats sum
+1991-1992,1991,1992-04-20,1991030182,OFF,1,8,2,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,77,90,167,playerByGameStats sum
+1991-1992,1991,1992-04-21,1991030112,OFF,1,1,2,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,29,23,52,playerByGameStats sum
+1991-1992,1991,1992-04-21,1991030112,OFF,1,1,2,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,23,29,52,playerByGameStats sum
+1991-1992,1991,1992-04-22,1991030183,OFF,1,8,3,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,16,10,26,playerByGameStats sum
+1991-1992,1991,1992-04-22,1991030183,OFF,1,8,3,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,10,16,26,playerByGameStats sum
+1991-1992,1991,1992-04-23,1991030113,OFF,1,1,3,MTL,Montréal Canadiens,Canada,False,HFD,Hartford Whalers,USA,23,27,50,playerByGameStats sum
+1991-1992,1991,1992-04-23,1991030113,OFF,1,1,3,HFD,Hartford Whalers,USA,True,MTL,Montréal Canadiens,Canada,27,23,50,playerByGameStats sum
+1991-1992,1991,1992-04-24,1991030184,OFF,1,8,4,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,12,14,26,playerByGameStats sum
+1991-1992,1991,1992-04-24,1991030184,OFF,1,8,4,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,14,12,26,playerByGameStats sum
+1991-1992,1991,1992-04-25,1991030114,OFF,1,1,4,MTL,Montréal Canadiens,Canada,False,HFD,Hartford Whalers,USA,40,22,62,playerByGameStats sum
+1991-1992,1991,1992-04-25,1991030114,OFF,1,1,4,HFD,Hartford Whalers,USA,True,MTL,Montréal Canadiens,Canada,22,40,62,playerByGameStats sum
+1991-1992,1991,1992-04-26,1991030185,OFF,1,8,5,EDM,Edmonton Oilers,Canada,False,LAK,Los Angeles Kings,USA,18,16,34,playerByGameStats sum
+1991-1992,1991,1992-04-26,1991030185,OFF,1,8,5,LAK,Los Angeles Kings,USA,True,EDM,Edmonton Oilers,Canada,16,18,34,playerByGameStats sum
+1991-1992,1991,1992-04-27,1991030115,OFF,1,1,5,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,31,39,70,playerByGameStats sum
+1991-1992,1991,1992-04-27,1991030115,OFF,1,1,5,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,39,31,70,playerByGameStats sum
+1991-1992,1991,1992-04-28,1991030186,OFF,1,8,6,LAK,Los Angeles Kings,USA,False,EDM,Edmonton Oilers,Canada,16,8,24,playerByGameStats sum
+1991-1992,1991,1992-04-28,1991030186,OFF,1,8,6,EDM,Edmonton Oilers,Canada,True,LAK,Los Angeles Kings,USA,8,16,24,playerByGameStats sum
+1991-1992,1991,1992-04-29,1991030116,OFF,1,1,6,MTL,Montréal Canadiens,Canada,False,HFD,Hartford Whalers,USA,23,16,39,playerByGameStats sum
+1991-1992,1991,1992-04-29,1991030116,OFF,1,1,6,HFD,Hartford Whalers,USA,True,MTL,Montréal Canadiens,Canada,16,23,39,playerByGameStats sum
+1991-1992,1991,1992-05-01,1991030117,OFF,1,1,7,HFD,Hartford Whalers,USA,False,MTL,Montréal Canadiens,Canada,8,8,16,playerByGameStats sum
+1991-1992,1991,1992-05-01,1991030117,OFF,1,1,7,MTL,Montréal Canadiens,Canada,True,HFD,Hartford Whalers,USA,8,8,16,playerByGameStats sum
+1991-1992,1991,1992-05-03,1991030211,OFF,2,1,1,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,10,6,16,playerByGameStats sum
+1991-1992,1991,1992-05-03,1991030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,6,10,16,playerByGameStats sum
+1991-1992,1991,1992-05-05,1991030212,OFF,2,1,2,BOS,Boston Bruins,USA,False,MTL,Montréal Canadiens,Canada,10,8,18,playerByGameStats sum
+1991-1992,1991,1992-05-05,1991030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,BOS,Boston Bruins,USA,8,10,18,playerByGameStats sum
+1991-1992,1991,1992-05-07,1991030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,12,14,26,playerByGameStats sum
+1991-1992,1991,1992-05-07,1991030213,OFF,2,1,3,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,14,12,26,playerByGameStats sum
+1991-1992,1991,1992-05-09,1991030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,BOS,Boston Bruins,USA,14,12,26,playerByGameStats sum
+1991-1992,1991,1992-05-09,1991030214,OFF,2,1,4,BOS,Boston Bruins,USA,True,MTL,Montréal Canadiens,Canada,12,14,26,playerByGameStats sum
+1991-1992,1991,1992-05-16,1991030321,OFF,3,2,1,EDM,Edmonton Oilers,Canada,False,CHI,Chicago Blackhawks,USA,8,10,18,playerByGameStats sum
+1991-1992,1991,1992-05-16,1991030321,OFF,3,2,1,CHI,Chicago Blackhawks,USA,True,EDM,Edmonton Oilers,Canada,10,8,18,playerByGameStats sum
+1991-1992,1991,1992-05-18,1991030322,OFF,3,2,2,EDM,Edmonton Oilers,Canada,False,CHI,Chicago Blackhawks,USA,38,18,56,playerByGameStats sum
+1991-1992,1991,1992-05-18,1991030322,OFF,3,2,2,CHI,Chicago Blackhawks,USA,True,EDM,Edmonton Oilers,Canada,18,38,56,playerByGameStats sum
+1991-1992,1991,1992-05-20,1991030323,OFF,3,2,3,CHI,Chicago Blackhawks,USA,False,EDM,Edmonton Oilers,Canada,31,18,49,playerByGameStats sum
+1991-1992,1991,1992-05-20,1991030323,OFF,3,2,3,EDM,Edmonton Oilers,Canada,True,CHI,Chicago Blackhawks,USA,18,31,49,playerByGameStats sum
+1991-1992,1991,1992-05-22,1991030324,OFF,3,2,4,CHI,Chicago Blackhawks,USA,False,EDM,Edmonton Oilers,Canada,20,15,35,playerByGameStats sum
+1991-1992,1991,1992-05-22,1991030324,OFF,3,2,4,EDM,Edmonton Oilers,Canada,True,CHI,Chicago Blackhawks,USA,15,20,35,playerByGameStats sum
+1992-1993,1992,1993-04-18,1992030181,OFF,1,8,1,LAK,Los Angeles Kings,USA,False,CGY,Calgary Flames,Canada,20,51,71,playerByGameStats sum
+1992-1993,1992,1993-04-18,1992030181,OFF,1,8,1,CGY,Calgary Flames,Canada,True,LAK,Los Angeles Kings,USA,51,20,71,playerByGameStats sum
+1992-1993,1992,1993-04-19,1992030161,OFF,1,6,1,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,29,14,43,playerByGameStats sum
+1992-1993,1992,1993-04-19,1992030161,OFF,1,6,1,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,14,29,43,playerByGameStats sum
+1992-1993,1992,1993-04-21,1992030162,OFF,1,6,2,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,64,62,126,playerByGameStats sum
+1992-1993,1992,1993-04-21,1992030162,OFF,1,6,2,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,62,64,126,playerByGameStats sum
+1992-1993,1992,1993-04-21,1992030182,OFF,1,8,2,LAK,Los Angeles Kings,USA,False,CGY,Calgary Flames,Canada,53,58,111,playerByGameStats sum
+1992-1993,1992,1993-04-21,1992030182,OFF,1,8,2,CGY,Calgary Flames,Canada,True,LAK,Los Angeles Kings,USA,58,53,111,playerByGameStats sum
+1992-1993,1992,1993-04-23,1992030163,OFF,1,6,3,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,18,12,30,playerByGameStats sum
+1992-1993,1992,1993-04-23,1992030163,OFF,1,6,3,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,12,18,30,playerByGameStats sum
+1992-1993,1992,1993-04-23,1992030183,OFF,1,8,3,CGY,Calgary Flames,Canada,False,LAK,Los Angeles Kings,USA,14,16,30,playerByGameStats sum
+1992-1993,1992,1993-04-23,1992030183,OFF,1,8,3,LAK,Los Angeles Kings,USA,True,CGY,Calgary Flames,Canada,16,14,30,playerByGameStats sum
+1992-1993,1992,1993-04-25,1992030164,OFF,1,6,4,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,36,10,46,playerByGameStats sum
+1992-1993,1992,1993-04-25,1992030164,OFF,1,6,4,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,10,36,46,playerByGameStats sum
+1992-1993,1992,1993-04-25,1992030184,OFF,1,8,4,CGY,Calgary Flames,Canada,False,LAK,Los Angeles Kings,USA,35,22,57,playerByGameStats sum
+1992-1993,1992,1993-04-25,1992030184,OFF,1,8,4,LAK,Los Angeles Kings,USA,True,CGY,Calgary Flames,Canada,22,35,57,playerByGameStats sum
+1992-1993,1992,1993-04-27,1992030165,OFF,1,6,5,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,8,8,16,playerByGameStats sum
+1992-1993,1992,1993-04-27,1992030165,OFF,1,6,5,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,8,8,16,playerByGameStats sum
+1992-1993,1992,1993-04-27,1992030185,OFF,1,8,5,LAK,Los Angeles Kings,USA,False,CGY,Calgary Flames,Canada,12,8,20,playerByGameStats sum
+1992-1993,1992,1993-04-27,1992030185,OFF,1,8,5,CGY,Calgary Flames,Canada,True,LAK,Los Angeles Kings,USA,8,12,20,playerByGameStats sum
+1992-1993,1992,1993-04-29,1992030166,OFF,1,6,6,DET,Detroit Red Wings,USA,False,TOR,Toronto Maple Leafs,Canada,21,23,44,playerByGameStats sum
+1992-1993,1992,1993-04-29,1992030166,OFF,1,6,6,TOR,Toronto Maple Leafs,Canada,True,DET,Detroit Red Wings,USA,23,21,44,playerByGameStats sum
+1992-1993,1992,1993-04-29,1992030186,OFF,1,8,6,CGY,Calgary Flames,Canada,False,LAK,Los Angeles Kings,USA,47,16,63,playerByGameStats sum
+1992-1993,1992,1993-04-29,1992030186,OFF,1,8,6,LAK,Los Angeles Kings,USA,True,CGY,Calgary Flames,Canada,16,47,63,playerByGameStats sum
+1992-1993,1992,1993-05-01,1992030167,OFF,1,6,7,TOR,Toronto Maple Leafs,Canada,False,DET,Detroit Red Wings,USA,0,2,2,playerByGameStats sum
+1992-1993,1992,1993-05-01,1992030167,OFF,1,6,7,DET,Detroit Red Wings,USA,True,TOR,Toronto Maple Leafs,Canada,2,0,2,playerByGameStats sum
+1992-1993,1992,1993-05-02,1992030211,OFF,2,1,1,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,6,12,18,playerByGameStats sum
+1992-1993,1992,1993-05-02,1992030211,OFF,2,1,1,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,12,6,18,playerByGameStats sum
+1992-1993,1992,1993-05-02,1992030241,OFF,2,4,1,LAK,Los Angeles Kings,USA,False,VAN,Vancouver Canucks,Canada,10,12,22,playerByGameStats sum
+1992-1993,1992,1993-05-02,1992030241,OFF,2,4,1,VAN,Vancouver Canucks,Canada,True,LAK,Los Angeles Kings,USA,12,10,22,playerByGameStats sum
+1992-1993,1992,1993-05-03,1992030231,OFF,2,3,1,STL,St. Louis Blues,USA,False,TOR,Toronto Maple Leafs,Canada,18,27,45,playerByGameStats sum
+1992-1993,1992,1993-05-03,1992030231,OFF,2,3,1,TOR,Toronto Maple Leafs,Canada,True,STL,St. Louis Blues,USA,27,18,45,playerByGameStats sum
+1992-1993,1992,1993-05-04,1992030212,OFF,2,1,2,BUF,Buffalo Sabres,USA,False,MTL,Montréal Canadiens,Canada,10,11,21,playerByGameStats sum
+1992-1993,1992,1993-05-04,1992030212,OFF,2,1,2,MTL,Montréal Canadiens,Canada,True,BUF,Buffalo Sabres,USA,11,10,21,playerByGameStats sum
+1992-1993,1992,1993-05-05,1992030232,OFF,2,3,2,STL,St. Louis Blues,USA,False,TOR,Toronto Maple Leafs,Canada,14,10,24,playerByGameStats sum
+1992-1993,1992,1993-05-05,1992030232,OFF,2,3,2,TOR,Toronto Maple Leafs,Canada,True,STL,St. Louis Blues,USA,10,14,24,playerByGameStats sum
+1992-1993,1992,1993-05-05,1992030242,OFF,2,4,2,LAK,Los Angeles Kings,USA,False,VAN,Vancouver Canucks,Canada,10,20,30,playerByGameStats sum
+1992-1993,1992,1993-05-05,1992030242,OFF,2,4,2,VAN,Vancouver Canucks,Canada,True,LAK,Los Angeles Kings,USA,20,10,30,playerByGameStats sum
+1992-1993,1992,1993-05-06,1992030213,OFF,2,1,3,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,16,16,32,playerByGameStats sum
+1992-1993,1992,1993-05-06,1992030213,OFF,2,1,3,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,16,16,32,playerByGameStats sum
+1992-1993,1992,1993-05-07,1992030233,OFF,2,3,3,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,8,8,16,playerByGameStats sum
+1992-1993,1992,1993-05-07,1992030233,OFF,2,3,3,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,8,8,16,playerByGameStats sum
+1992-1993,1992,1993-05-07,1992030243,OFF,2,4,3,VAN,Vancouver Canucks,Canada,False,LAK,Los Angeles Kings,USA,24,20,44,playerByGameStats sum
+1992-1993,1992,1993-05-07,1992030243,OFF,2,4,3,LAK,Los Angeles Kings,USA,True,VAN,Vancouver Canucks,Canada,20,24,44,playerByGameStats sum
+1992-1993,1992,1993-05-08,1992030214,OFF,2,1,4,MTL,Montréal Canadiens,Canada,False,BUF,Buffalo Sabres,USA,18,24,42,playerByGameStats sum
+1992-1993,1992,1993-05-08,1992030214,OFF,2,1,4,BUF,Buffalo Sabres,USA,True,MTL,Montréal Canadiens,Canada,24,18,42,playerByGameStats sum
+1992-1993,1992,1993-05-09,1992030234,OFF,2,3,4,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,30,42,72,playerByGameStats sum
+1992-1993,1992,1993-05-09,1992030234,OFF,2,3,4,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,42,30,72,playerByGameStats sum
+1992-1993,1992,1993-05-09,1992030244,OFF,2,4,4,VAN,Vancouver Canucks,Canada,False,LAK,Los Angeles Kings,USA,40,22,62,playerByGameStats sum
+1992-1993,1992,1993-05-09,1992030244,OFF,2,4,4,LAK,Los Angeles Kings,USA,True,VAN,Vancouver Canucks,Canada,22,40,62,playerByGameStats sum
+1992-1993,1992,1993-05-11,1992030235,OFF,2,3,5,STL,St. Louis Blues,USA,False,TOR,Toronto Maple Leafs,Canada,16,12,28,playerByGameStats sum
+1992-1993,1992,1993-05-11,1992030235,OFF,2,3,5,TOR,Toronto Maple Leafs,Canada,True,STL,St. Louis Blues,USA,12,16,28,playerByGameStats sum
+1992-1993,1992,1993-05-11,1992030245,OFF,2,4,5,LAK,Los Angeles Kings,USA,False,VAN,Vancouver Canucks,Canada,24,20,44,playerByGameStats sum
+1992-1993,1992,1993-05-11,1992030245,OFF,2,4,5,VAN,Vancouver Canucks,Canada,True,LAK,Los Angeles Kings,USA,20,24,44,playerByGameStats sum
+1992-1993,1992,1993-05-13,1992030236,OFF,2,3,6,TOR,Toronto Maple Leafs,Canada,False,STL,St. Louis Blues,USA,8,12,20,playerByGameStats sum
+1992-1993,1992,1993-05-13,1992030236,OFF,2,3,6,STL,St. Louis Blues,USA,True,TOR,Toronto Maple Leafs,Canada,12,8,20,playerByGameStats sum
+1992-1993,1992,1993-05-13,1992030246,OFF,2,4,6,VAN,Vancouver Canucks,Canada,False,LAK,Los Angeles Kings,USA,8,6,14,playerByGameStats sum
+1992-1993,1992,1993-05-13,1992030246,OFF,2,4,6,LAK,Los Angeles Kings,USA,True,VAN,Vancouver Canucks,Canada,6,8,14,playerByGameStats sum
+1992-1993,1992,1993-05-15,1992030237,OFF,2,3,7,STL,St. Louis Blues,USA,False,TOR,Toronto Maple Leafs,Canada,15,15,30,playerByGameStats sum
+1992-1993,1992,1993-05-15,1992030237,OFF,2,3,7,TOR,Toronto Maple Leafs,Canada,True,STL,St. Louis Blues,USA,15,15,30,playerByGameStats sum
+1992-1993,1992,1993-05-16,1992030311,OFF,3,1,1,NYI,New York Islanders,USA,False,MTL,Montréal Canadiens,Canada,40,34,74,playerByGameStats sum
+1992-1993,1992,1993-05-16,1992030311,OFF,3,1,1,MTL,Montréal Canadiens,Canada,True,NYI,New York Islanders,USA,34,40,74,playerByGameStats sum
+1992-1993,1992,1993-05-17,1992030321,OFF,3,2,1,LAK,Los Angeles Kings,USA,False,TOR,Toronto Maple Leafs,Canada,35,42,77,playerByGameStats sum
+1992-1993,1992,1993-05-17,1992030321,OFF,3,2,1,TOR,Toronto Maple Leafs,Canada,True,LAK,Los Angeles Kings,USA,42,35,77,playerByGameStats sum
+1992-1993,1992,1993-05-18,1992030312,OFF,3,1,2,NYI,New York Islanders,USA,False,MTL,Montréal Canadiens,Canada,14,14,28,playerByGameStats sum
+1992-1993,1992,1993-05-18,1992030312,OFF,3,1,2,MTL,Montréal Canadiens,Canada,True,NYI,New York Islanders,USA,14,14,28,playerByGameStats sum
+1992-1993,1992,1993-05-19,1992030322,OFF,3,2,2,LAK,Los Angeles Kings,USA,False,TOR,Toronto Maple Leafs,Canada,14,20,34,playerByGameStats sum
+1992-1993,1992,1993-05-19,1992030322,OFF,3,2,2,TOR,Toronto Maple Leafs,Canada,True,LAK,Los Angeles Kings,USA,20,14,34,playerByGameStats sum
+1992-1993,1992,1993-05-20,1992030313,OFF,3,1,3,MTL,Montréal Canadiens,Canada,False,NYI,New York Islanders,USA,14,10,24,playerByGameStats sum
+1992-1993,1992,1993-05-20,1992030313,OFF,3,1,3,NYI,New York Islanders,USA,True,MTL,Montréal Canadiens,Canada,10,14,24,playerByGameStats sum
+1992-1993,1992,1993-05-21,1992030323,OFF,3,2,3,TOR,Toronto Maple Leafs,Canada,False,LAK,Los Angeles Kings,USA,53,24,77,playerByGameStats sum
+1992-1993,1992,1993-05-21,1992030323,OFF,3,2,3,LAK,Los Angeles Kings,USA,True,TOR,Toronto Maple Leafs,Canada,24,53,77,playerByGameStats sum
+1992-1993,1992,1993-05-22,1992030314,OFF,3,1,4,MTL,Montréal Canadiens,Canada,False,NYI,New York Islanders,USA,8,10,18,playerByGameStats sum
+1992-1993,1992,1993-05-22,1992030314,OFF,3,1,4,NYI,New York Islanders,USA,True,MTL,Montréal Canadiens,Canada,10,8,18,playerByGameStats sum
+1992-1993,1992,1993-05-23,1992030324,OFF,3,2,4,TOR,Toronto Maple Leafs,Canada,False,LAK,Los Angeles Kings,USA,14,16,30,playerByGameStats sum
+1992-1993,1992,1993-05-23,1992030324,OFF,3,2,4,LAK,Los Angeles Kings,USA,True,TOR,Toronto Maple Leafs,Canada,16,14,30,playerByGameStats sum
+1992-1993,1992,1993-05-24,1992030315,OFF,3,1,5,NYI,New York Islanders,USA,False,MTL,Montréal Canadiens,Canada,8,6,14,playerByGameStats sum
+1992-1993,1992,1993-05-24,1992030315,OFF,3,1,5,MTL,Montréal Canadiens,Canada,True,NYI,New York Islanders,USA,6,8,14,playerByGameStats sum
+1992-1993,1992,1993-05-25,1992030325,OFF,3,2,5,LAK,Los Angeles Kings,USA,False,TOR,Toronto Maple Leafs,Canada,14,10,24,playerByGameStats sum
+1992-1993,1992,1993-05-25,1992030325,OFF,3,2,5,TOR,Toronto Maple Leafs,Canada,True,LAK,Los Angeles Kings,USA,10,14,24,playerByGameStats sum
+1992-1993,1992,1993-05-27,1992030326,OFF,3,2,6,TOR,Toronto Maple Leafs,Canada,False,LAK,Los Angeles Kings,USA,14,12,26,playerByGameStats sum
+1992-1993,1992,1993-05-27,1992030326,OFF,3,2,6,LAK,Los Angeles Kings,USA,True,TOR,Toronto Maple Leafs,Canada,12,14,26,playerByGameStats sum
+1992-1993,1992,1993-05-29,1992030327,OFF,3,2,7,LAK,Los Angeles Kings,USA,False,TOR,Toronto Maple Leafs,Canada,8,4,12,playerByGameStats sum
+1992-1993,1992,1993-05-29,1992030327,OFF,3,2,7,TOR,Toronto Maple Leafs,Canada,True,LAK,Los Angeles Kings,USA,4,8,12,playerByGameStats sum
+1992-1993,1992,1993-06-01,1992030411,OFF,4,1,1,LAK,Los Angeles Kings,USA,False,MTL,Montréal Canadiens,Canada,16,18,34,playerByGameStats sum
+1992-1993,1992,1993-06-01,1992030411,OFF,4,1,1,MTL,Montréal Canadiens,Canada,True,LAK,Los Angeles Kings,USA,18,16,34,playerByGameStats sum
+1992-1993,1992,1993-06-03,1992030412,OFF,4,1,2,LAK,Los Angeles Kings,USA,False,MTL,Montréal Canadiens,Canada,32,22,54,playerByGameStats sum
+1992-1993,1992,1993-06-03,1992030412,OFF,4,1,2,MTL,Montréal Canadiens,Canada,True,LAK,Los Angeles Kings,USA,22,32,54,playerByGameStats sum
+1992-1993,1992,1993-06-05,1992030413,OFF,4,1,3,MTL,Montréal Canadiens,Canada,False,LAK,Los Angeles Kings,USA,12,10,22,playerByGameStats sum
+1992-1993,1992,1993-06-05,1992030413,OFF,4,1,3,LAK,Los Angeles Kings,USA,True,MTL,Montréal Canadiens,Canada,10,12,22,playerByGameStats sum
+1992-1993,1992,1993-06-07,1992030414,OFF,4,1,4,MTL,Montréal Canadiens,Canada,False,LAK,Los Angeles Kings,USA,14,24,38,playerByGameStats sum
+1992-1993,1992,1993-06-07,1992030414,OFF,4,1,4,LAK,Los Angeles Kings,USA,True,MTL,Montréal Canadiens,Canada,24,14,38,playerByGameStats sum
+1992-1993,1992,1993-06-09,1992030415,OFF,4,1,5,LAK,Los Angeles Kings,USA,False,MTL,Montréal Canadiens,Canada,8,10,18,playerByGameStats sum
+1992-1993,1992,1993-06-09,1992030415,OFF,4,1,5,MTL,Montréal Canadiens,Canada,True,LAK,Los Angeles Kings,USA,10,8,18,playerByGameStats sum
